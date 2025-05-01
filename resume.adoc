@@ -1,0 +1,101 @@
+= Jason Felice
+:email: jason.m.felice@gmail.com
+:twitter: @eraserhd
+:phone: +1-216-466-4122
+:github: eraserhd
+:topcoder: eraserhd
+
+[.contact-info]
+* {email}
+* {phone}
+* GitHub https://github.com/{github}[{github}]
+* TopCoder https://www.topcoder.com/members/{topcoder}[{topcoder}]
+
+== Purpose
+
+After decades of everything from C to Clojure to Haskell I'm tired of 
+mostly correct programs. If we juggle ten devices and each one runs correctly
+90% of the time, we will constantly experience failure. With that in mind, I
+bring a deep focus on writing software with formally verified properties (in
+addition to TDD and generative testing).
+
+I bring interest in tight feedback loops, beautiful code, emergent behavior (in
+people systems and code systems), geek joy, and math.
+
+I'm terribly fond of people, collaboration, facilitation, having all
+voices heard, interacting with the end-user, and just plain making beautiful things.
+I have a (quite fallible) practice of authenticity and non-judgement.
+
+== Bio
+
+I've been: consultant, salaryman, technical lead, architecture reviewer, one-man
+software department, business analyst, process hacker, network administrator,
+game hacker, salesperson, the Person Who Automated Themself Out of a Job, web
+developer, inventor of algorithmic solutions, evangelist, Chief Technology Officer,
+the Person Who Made It Faster With Assembly, Open Source hacker, and barista.
+
+== Tech
+
+I've also worked with a lot of stacks: Clojure, C, C++, Java, Objective-C, iOS,
+Android, assembly, Scheme, Haskell, Erlang, Ruby, Linux, Windows, Mac OS X,
+low-memory embedded systems, HTML, Javascript, others which I've forgotten
+about, and others which I'd rather not admit. I've learned technologies on-the-spot
+for particular projects, and usually find these projects the most rewarding. I have
+developed an aversion to the .Net platform, but that's the only one I can think of.
+
+== Products
+
+=== 2U
+_June 2016—April 2025_
+
+* Central Park (new program stand-up infrastructure)
+
+=== Groupon
+_February 2013—June 2016_
+
+* A/B Testing Infrastructure
+* Points Program
+* Homepage
+* Personalization
+
+=== LeanDog
+_November 2011—February 2013_
+
+* Erie Mobile (Android)
+* Erie Mobile (iOS)
+
+=== Blue Frog Gaming
+_September 2010—November 2011_
+
+* Hearts
+* Spades
+* Polar Puzzles
+* Ghost Chicken
+
+=== Micros Retail
+_April 2007—September 2010_
+
+* DAS
+* XPay
+
+=== Cronosys, LLC
+_February 2000—April 2007_
+
+* Horde
+* Bigloo
+* PHP Tools
+* NCCRS's RFQ system
+* Carlisle-Syntec's warranty resales system
+* Ardmore Power Logistic's freight audit system
+
+=== The Baldwin Group
+_March 1997—January 2000_
+
+* Mayor's Court
+
+=== DataVantage, Inc.
+_February 1994—March 1997_
+
+* InStore+
+* AuthServe21
+* XCelleNet
