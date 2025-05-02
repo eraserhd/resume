@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d4d0515fbe0dea0d",
+        "id": "97172af6db3f13e0",
         "type": "tabs",
         "children": [
           {
-            "id": "120c21ecbe82caa7",
+            "id": "c8adb154000e23d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "bills/reconcile/2025-05-02.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-05-02"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "bills/reconcile/2025-05-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-05-02"
             }
           },
           {
@@ -148,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +162,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "120c21ecbe82caa7",
+  "active": "c8adb154000e23d5",
   "lastOpenFiles": [
+    "bills/reconcile/2025-03-23.md",
+    "bills/reconcile/2025-05-02.md",
+    "bills/reconcile/2025-05-02.md",
+    "bills/reconcile/2025-05-02.md",
     "jobs/resume.pdf",
     "flake.lock",
     "flake.nix",
@@ -174,7 +183,6 @@
     "projects/Downstairs.md",
     "bills/taxes/2024.md",
     "2u/Legaldocs.md",
-    "bills/reconcile/2025-03-23.md",
     "Votes.md",
     "inbox/2025-03-12.md",
     "bills/reconcile/2025-02-07.md",
@@ -191,8 +199,6 @@
     "bills/reconcile/2025-02-21.md",
     "inbox/2025-02-20.md",
     "inbox/2025-01-30.md",
-    "inbox/2025-02-18.md",
-    "2u/centralpark/Slack.md",
     "2u/passport/images/account.png",
     "essays",
     "bills/taxes",
@@ -200,7 +206,6 @@
     "2u/centralpark",
     "2u/passport/images/2024-12-02 Writer Database Load Spike.png",
     "2u/passport/images/cmd-k-example.png",
-    "2u/passport/images",
-    "internal/templates"
+    "2u/passport/images"
   ]
 }
