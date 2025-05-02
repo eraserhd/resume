@@ -1,0 +1,81 @@
+digraph resume {
+  rankdir=LR;
+  node [shape=ellipse];
+  
+  subgraph cluster_focus {
+    label="Focus"
+    rank=same
+    peripheries=0
+    "System Design"
+    "Nonviolence"
+    "Systems Theory"
+    {
+      rank=same
+      "System Design"
+      "Nonviolence"
+      "Systems Theory"
+    }
+  }
+
+  "Systems Theory" -> "Nonviolence"
+  "Systems Theory" -> "System Design"
+
+  subgraph cluster_projects {
+    label="Projects";
+    peripheries=0;
+    "NCCRS";
+    "Central Park";
+    "Points";
+    "Nexus";
+    "Homepage";
+    "Personalization";
+    "Passport";
+
+  }
+
+  subgraph cluster_stack {
+    label="Stack";
+    rank=same;
+    peripheries=0;
+    "Written Communication";
+    "Broad Brief";
+    "Inception to Completion";
+    "CI/CD";
+    "React";
+    "Node.js";
+    "Large Scale/Production";
+    "MySQL";
+  }
+
+  // Connect Focus to Projects
+  "System Design" -> "NCCRS"
+  "System Design" -> "Central Park"
+  "System Design" -> "Points"
+  "System Design" -> "Homepage"
+  "Nonviolence" -> "Points"
+  "Nonviolence" -> "Nexus"
+  "Systems Theory" -> "Passport"
+  
+  // Connect Projects to Stack
+  "NCCRS" -> "Written Communication"
+  "NCCRS" -> "Broad Brief"
+  "NCCRS" -> "Inception to Completion"
+  "Central Park" -> "Written Communication"
+  "Central Park" -> "Inception to Completion"
+  "Central Park" -> "React"
+  "Central Park" -> "CI/CD"
+  "Points" -> "Written Communication"
+  "Points" -> "Inception to Completion"
+  "Points" -> "Broad Brief"
+  "Points" -> "Node.js"
+  "Points" -> "Large Scale/Production"
+  //"Nexus" -> "Written Communication"
+  "Nexus" -> "React"
+  "Nexus" -> "CI/CD"
+  "Homepage" -> "Node.js"
+  "Homepage" -> "Large Scale/Production"
+  "Personalization" -> "Large Scale/Production"
+  "Personalization" -> "Node.js"
+  "Passport" -> "Large Scale/Production"
+  "Passport" -> "MySQL"
+}
