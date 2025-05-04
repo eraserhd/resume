@@ -22,7 +22,7 @@
 % of dates for multiple configurations.
 
 \documentclass[11pt, a4paper]{article} 
-
+\usepackage{fontawesome}
 \usepackage[T1]{fontenc}     % We are using pdfLaTeX,
 \usepackage[utf8]{inputenc}  % hence this preparation
 \usepackage[british]{babel}  
@@ -30,7 +30,6 @@
 \usepackage[stretch = 25, shrink = 25, tracking=true, letterspace=30]{microtype}  
 \usepackage{graphicx}        % To insert pictures
 \usepackage{xcolor}          % To add colour to the document
-\usepackage{marvosym}        % Provides icons for the contact details
 
 \usepackage{enumitem}        % To redefine spacing in lists
 \setlist{parsep = 0pt, topsep = 0pt, partopsep = 1pt, itemsep = 1pt, leftmargin = 6mm}
@@ -75,12 +74,18 @@
 \raggedright
 \vspace*{2.5ex}
 
-\Large Jason \textbf{\textsc{Felice}} \normalsize 
+\Large Jason \textbf{\textsc{Felice}} \normalsize
 
 % Centering without extra vertical spacing
 \null\hfill\includegraphics[width=0.65\textwidth]{stack_graph.png}\hfill\null
 
 \vspace*{0.5ex} % Extra space after the picture
+
+\headleft{Goal}
+
+Bring all voices into a sustainable software development practice;
+collaborate, facilitate, and mentor; celebrate beautiful code, geek joy,
+emergent behavior, and math.
 
 \headleft{Profile}
 
@@ -92,10 +97,10 @@ the Person Who Made It Faster With Assembly, an Open Source contributor, and bar
 
 \headleft{Contact details}
 \small % To fit more content
-\MVAt\ {\small jason.m.felice@gmail.com} \\[0.4ex]
-\Mobilefone\ +1\,216\,466\,4122 \\[0.5ex]
-\Mundus\ \href{https://github.com/eraserhd}{github.com/eraserhd} \\[0.1ex]
-\Letter\ 25100 Farringdon Ave \\[0.5ex]
+\faAt\ {\small jason.m.felice@gmail.com} \\[0.4ex]
+\faPhone\ +1\,216\,466\,4122 \\[0.5ex]
+\faGithub\ \href{https://github.com/eraserhd}{github.com/eraserhd} \\[0.1ex]
+\faEnvelope\ 25100 Farringdon Ave \\[0.5ex]
 Euclid, Ohio 44132, USA
 \normalsize
 
@@ -116,10 +121,12 @@ Euclid, Ohio 44132, USA
 \end{minipage}% Right column
 \hskip2.5em% Left margin for the white area
 \begin{minipage}[t]{0.56\textwidth}
+
 \setlength{\parskip}{0.8ex}% Adds spaces between paragraphs; use \\ to add new lines without this space. Shrink this amount to fit more data vertically
 
 \vspace{2ex}
 
+\headright{Large System Builder}
 \null\hfill\includegraphics[width=\textwidth]{stack_graph.png}\hfill\null
 
 \headright{Experience}
@@ -127,7 +134,7 @@ Euclid, Ohio 44132, USA
 \textsc{Software Engineer IV} at \textit{2U}  \dates{2016.06--2025.04} \\
 \smaller{Automated new program standup} \\
 \smaller{Brought an acquired company's tech stack up to 2U standards} \\
-\smaller{Maintained core systems}
+\smaller{Maintained core systems and proposed technical direction}
 
 \is % Item spacing -- defined in the preamble
 \textsc{Software Engineer IV} at \textit{Groupon}  \dates{2013.02--2016.06} \\
@@ -151,7 +158,8 @@ Euclid, Ohio 44132, USA
 
 \is
 \textsc{Chief Technology Officer} at \textit{Cronosys, LLC} \dates{2000.01--2007.04} \\
-\smaller{Econometric modelling, market data analysis, translation.} 
+\smaller{Made a bet on web technology for internal business apps} \\
+\smaller{Consulted, quoted, and delivered many projects on many tech stacks}
 
 \is
 \textsc{Consultant} at \textit{The Baldwin Group} \dates{1997.03--2000.01}\\  
@@ -163,14 +171,6 @@ Euclid, Ohio 44132, USA
 \smaller{Automated third shift data communications} \\
 \smaller{Implemented new credit authorization system} \\
 \smaller{Maintained point-of-sale software}
-
-\headright{Hobbies}
-
-\textit{Music:} imitating birds on the banjo, composing and decomposing (morally).
-
-\textit{Poetry:} inventing rhymes, surreal art.
-
-\textit{Miscellaneous:} zoology, mycology, trainspotting, 1930s horror films.
 \end{minipage}
 
 \end{document}
