@@ -21,7 +21,7 @@
 % to break the flow of text to achieve the most flexible right alignment
 % of dates for multiple configurations.
 
-\documentclass[11pt, a4paper]{article} 
+\documentclass[11pt, letterpaper]{article} 
 \usepackage{fontawesome}
 \usepackage[T1]{fontenc}     % We are using pdfLaTeX,
 \usepackage[utf8]{inputenc}  % hence this preparation
@@ -70,7 +70,7 @@
 \vspace{-.2ex} % Eliminates the small gap
 \colorbox{cvblue!90}{\color{white}  %% LEFT BOX
 \kern0.09\textwidth\relax% Left margin provided explicitly
-\begin{minipage}[t][293mm][t]{0.82\textwidth}
+\begin{minipage}[t][\dimexpr\textheight-5mm\relax][t]{0.82\textwidth}
 \raggedright
 \vspace*{2.5ex}
 
