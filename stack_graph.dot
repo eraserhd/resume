@@ -21,20 +21,20 @@ digraph resume {
   "Systems Theory" -> "System Design"
 
   subgraph cluster_projects {
-    label="Projects";
+    label="Experience"
     peripheries=0;
-    "NCCRS";
-    "Central Park";
-    "Points";
-    "Nexus";
-    "Homepage";
-    "Personalization";
-    "Passport";
 
+    "2U"
+    "Groupon"
+    "LeanDog"
+    "Blue Frog Gaming"
+    "Micros Retail"
+    "Cronosys"
+    "DataVantage"
   }
 
   subgraph cluster_stack {
-    label="Stack";
+    label="Skills";
     rank=same;
     peripheries=0;
     "Written Communication";
@@ -48,34 +48,33 @@ digraph resume {
   }
 
   // Connect Focus to Projects
-  "System Design" -> "NCCRS"
-  "System Design" -> "Central Park"
-  "System Design" -> "Points"
-  "System Design" -> "Homepage"
-  "Nonviolence" -> "Points"
-  "Nonviolence" -> "Nexus"
-  "Systems Theory" -> "Passport"
-  
+  "System Design" -> "Cronosys"
+  "System Design" -> "2U"
+  "System Design" -> "Groupon"
+  "System Design" -> "DataVantage"
+  "System Design" -> "Blue Frog Gaming"
+
+  "Nonviolence" -> "Groupon"
+  "Nonviolence" -> "2U"
+  "Nonviolence" -> "Cronosys"
+  "Systems Theory" -> "2U"
+  "Systems Theory" -> "Micros Retail"
+    
   // Connect Projects to Stack
-  "NCCRS" -> "Written Communication"
-  "NCCRS" -> "Broad Brief"
-  "NCCRS" -> "Inception to Completion"
-  "Central Park" -> "Written Communication"
-  "Central Park" -> "Inception to Completion"
-  "Central Park" -> "React"
-  "Central Park" -> "CI/CD"
-  "Points" -> "Written Communication"
-  "Points" -> "Inception to Completion"
-  "Points" -> "Broad Brief"
-  "Points" -> "Node.js"
-  "Points" -> "Large Scale/Production"
-  //"Nexus" -> "Written Communication"
-  "Nexus" -> "React"
-  "Nexus" -> "CI/CD"
-  "Homepage" -> "Node.js"
-  "Homepage" -> "Large Scale/Production"
-  "Personalization" -> "Large Scale/Production"
-  "Personalization" -> "Node.js"
-  "Passport" -> "Large Scale/Production"
-  "Passport" -> "MySQL"
+  "Cronosys" -> "Written Communication"
+  "Cronosys" -> "Broad Brief"
+  "Cronosys" -> "Inception to Completion"
+  "2U" -> "Written Communication"
+  "2U" -> "Inception to Completion"
+  "2U" -> "React"
+  "2U" -> "CI/CD"
+  "LeanDog" -> "CI/CD"
+  "Micros Retail" -> "CI/CD"
+  "Groupon" -> "Written Communication"
+  "Groupon" -> "Inception to Completion"
+  "Groupon" -> "Broad Brief"
+  "Groupon" -> "Node.js"
+  "Groupon" -> "Large Scale/Production"
+  "2U" -> "Large Scale/Production"
+  "2U" -> "MySQL"
 }
