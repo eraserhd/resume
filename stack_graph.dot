@@ -8,7 +8,7 @@ digraph resume {
   ];
 
   subgraph cluster_goals {
-    label = <G<FONT POINT-SIZE="17">OALS</FONT>>;
+    label = <F<FONT POINT-SIZE="17">OCUS</FONT>>;
     fontcolor="#112250";
     fontsize="20";
     fontname="Fira Sans";
