@@ -1,9 +1,18 @@
 digraph resume {
   rankdir=LR;
-  node [shape=ellipse];
-  
-  subgraph cluster_focus {
-    label="Focus"
+  dpi=300
+  size="6,6!"
+  node [
+    shape=oval
+    fontname="Fira Sans";
+  ];
+
+  subgraph cluster_goals {
+    label = <G<FONT POINT-SIZE="17">OALS</FONT>>;
+    fontcolor="#112250";
+    fontsize="20";
+    fontname="Fira Sans";
+
     rank=same
     peripheries=0
     "System Design"
@@ -21,8 +30,15 @@ digraph resume {
   "Systems Theory" -> "System Design"
 
   subgraph cluster_projects {
-    label="Experience"
+    label= <E<FONT POINT-SIZE="17">XPERIENCE</FONT>>;
+    fontname="Fira Sans";
+    fontcolor="#112250";
+    fontsize="20";
     peripheries=0;
+
+    node [
+      fontname="Fira Sans Italic";
+    ];
 
     "2U"
     "Groupon"
@@ -34,8 +50,10 @@ digraph resume {
   }
 
   subgraph cluster_stack {
-    label="Skills";
-    rank=same;
+    label = <S<FONT POINT-SIZE="17">KILLS</FONT>>;
+    fontname="Fira Sans";
+    fontcolor="#112250";
+    fontsize="20";
     peripheries=0;
     "Written Communication";
     "Broad Brief";
