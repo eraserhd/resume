@@ -15,19 +15,16 @@ digraph resume {
 
     rank=same
     peripheries=0
-    "System Design"
-    "Nonviolence"
-    "Systems Theory"
     {
       rank=same
-      "System Design"
+      "Code"
       "Nonviolence"
-      "Systems Theory"
+      "Systems Theory & Design"
     }
   }
 
-  "Systems Theory" -> "Nonviolence"
-  "Systems Theory" -> "System Design"
+  "Systems Theory & Design" -> "Nonviolence"
+  "Systems Theory & Design" -> "Code"
 
   subgraph cluster_projects {
     label= <E<FONT POINT-SIZE="17">XPERIENCE</FONT>>;
@@ -65,18 +62,25 @@ digraph resume {
     "MySQL";
   }
 
-  // Connect Focus to Projects
-  "System Design" -> "Cronosys"
-  "System Design" -> "2U"
-  "System Design" -> "Groupon"
-  "System Design" -> "DataVantage"
-  "System Design" -> "Blue Frog Gaming"
+  "Code" -> "Cronosys"
+  "Code" -> "Groupon"
+  "Code" -> "2U"
+  "Code" -> "Micros Retail"
+  "Code" -> "LeanDog"
+  "Code" -> "Blue Frog Gaming"
+  "Code" -> "DataVantage"
+
+  "Systems Theory & Design" -> "Cronosys"
+  "Systems Theory & Design" -> "2U"
+  "Systems Theory & Design" -> "Groupon"
+  "Systems Theory & Design" -> "DataVantage"
+  "Systems Theory & Design" -> "Blue Frog Gaming"
 
   "Nonviolence" -> "Groupon"
   "Nonviolence" -> "2U"
   "Nonviolence" -> "Cronosys"
-  "Systems Theory" -> "2U"
-  "Systems Theory" -> "Micros Retail"
+  //"Systems Theory & Design" -> "2U"
+  "Systems Theory & Design" -> "Micros Retail"
     
   // Connect Projects to Stack
   "Cronosys" -> "Written Communication"
