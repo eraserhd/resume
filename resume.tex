@@ -1,6 +1,3 @@
-% !TeX spellcheck = en_GB
-% !TeX program = pdflatex
-%
 % LuxSleek-CV 1.1 LaTeX template
 % Author: Andreï V. Kostyrka, University of Luxembourg
 %
@@ -55,10 +52,17 @@
 \newenvironment{experience}{%
    \headright{Experience}
    \vspace*{-.9ex}
-  }
-  {%
-  }
+}{}
 
+\newenvironment{skills}{%
+  \headleft{Skills}
+  \small
+  \raggedleft
+}{%
+}
+\newcommand{\skill}[1]{%
+  #1\ \raisebox{-0.3ex}{\scalebox{1.75}{$\bullet$}}\\
+}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage[colorlinks = true, urlcolor = white, linkcolor = white]{hyperref}
@@ -97,9 +101,51 @@ a business focused, collaborative, hands-on, multi-language tech lead, architect
 {\bf Count on me} to create sustainable software, bring all voices to the process, facilitate and mentor, embody compassion, and use the best of Agile/XP. \\
 }
 
-\headleft{Tech}
 
-\wordcloud[rotate=45,margin=1pt,usecolor,colors={white!60}]{
+\begin{skills}
+\skill{Written Communication}
+\skill{Broad Brief}
+\skill{Inception to Completion}
+\skill{CI/CD}
+\skill{React}
+\skill{Node.js}
+\skill{Large Scale/Production}
+\skill{MySQL}
+\end{skills}
+
+\headleft{Interests}
+{\small systems \textbullet\ emergence \textbullet\ geek joy \\
+making \textbullet\ nonviolent communication \\
+math \textbullet\ data \textbullet\ algorithms \\
+open source software \\
+}\normalsize
+
+\vfill
+\headleft{Contact}
+\makebox[1em][c]{\faAt}\ jason.m.felice@gmail.com \\[0.5ex]
+\makebox[1em][c]{\faPhone}\ +1\,216\,466\,4122 \\[0.5ex]
+\makebox[1em][c]{\faGithub}\ \href{https://github.com/eraserhd}{github.com/eraserhd} \\[0.5ex]
+\makebox[1em][c]{\faCode}\ \href{https://www.topcoder.com/members/eraserhd}{topcoder.com/eraserhd} \\[0.5ex]
+\makebox[1em][c]{\faMapMarker}\ Euclid, Ohio, USA\\
+\vspace*{5ex}
+
+\end{minipage}%
+\kern0.09\textwidth\relax%%Right margin provided explicitly to stretch the colourbox
+}
+\end{minipage}% Right column
+\hskip2.5em% Left margin for the white area
+\begin{minipage}[t]{0.56\textwidth}
+
+\setlength{\parskip}{0.8ex}% Adds spaces between paragraphs; use \\ to add new lines without this space. Shrink this amount to fit more data vertically
+
+\vspace{2ex}
+
+\vskip1.25ex
+\headright{Large System Builder}
+
+%\null\hfill\includegraphics[width=\textwidth]{stack_graph.png}\hfill\null
+\null\hfill
+\wordcloud[rotate=45,margin=1pt,usecolor]{
   (Clojure,10);
   (PostgreSQL,9);
   (Linux,9);
@@ -123,47 +169,9 @@ a business focused, collaborative, hands-on, multi-language tech lead, architect
   (Python,5);
   (Android,4);
   (Erlang,4)
-}\vspace*{-4ex}
+}\hfill\null
+\vspace*{-4ex}
 
-\headleft{Interests}
-{\small systems \textbullet\ emergence \textbullet\ geek joy \\
-making \textbullet\ nonviolent communication \\
-math \textbullet\ data \textbullet\ algorithms \\
-open source software \\
-}\normalsize
-
-\vfill
-\headleft{Contact}
-\makebox[1em][c]{\faAt}\ jason.m.felice@gmail.com \\[0.5ex]
-\makebox[1em][c]{\faPhone}\ +1\,216\,466\,4122 \\[0.5ex]
-\makebox[1em][c]{\faGithub}\ \href{https://github.com/eraserhd}{github.com/eraserhd} \\[0.5ex]
-\makebox[1em][c]{\faCode}\ \href{https://www.topcoder.com/members/eraserhd}{topcoder.com/eraserhd} \\[0.5ex]
-\makebox[1em][c]{\faMapMarker}\ Euclid, Ohio, USA\\
-\vspace*{5ex}
-
-%\begin{itemize}
-%\item Clojure, Java
-%\item Go
-%\item C, C++, Objective-C
-%\item iOS, Android
-%\item Erlang, Elixir
-%\item Javascript, Python
-%\end{itemize} 
-
-\end{minipage}%
-\kern0.09\textwidth\relax%%Right margin provided explicitly to stretch the colourbox
-}
-\end{minipage}% Right column
-\hskip2.5em% Left margin for the white area
-\begin{minipage}[t]{0.56\textwidth}
-
-\setlength{\parskip}{0.8ex}% Adds spaces between paragraphs; use \\ to add new lines without this space. Shrink this amount to fit more data vertically
-
-\vspace{2ex}
-
-\vskip1.25ex
-\headright{Large System Builder}
-\null\hfill\includegraphics[width=\textwidth]{stack_graph.png}\hfill\null
 
 \begin{experience}
 \experienceitem{Software Engineer IV}{2U}{9 years}
