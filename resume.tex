@@ -30,6 +30,7 @@
 \usepackage[stretch = 25, shrink = 25, tracking=true, letterspace=30]{microtype}  
 \usepackage{graphicx}        % To insert pictures
 \usepackage{xcolor}          % To add colour to the document
+\usepackage{wordcloud}
 
 \usepackage{enumitem}        % To redefine spacing in lists
 \setlist{parsep = 0pt, topsep = 0pt, partopsep = 1pt, itemsep = 1pt, leftmargin = 6mm}
@@ -99,14 +100,37 @@ emergent behavior, and math.
 
 \headleft{Skills}
 
-\begin{itemize}
-\item Clojure, Java
-\item Go
-\item C, C++, Objective-C
-\item iOS, Android
-\item Erlang, Elixir
-\item Javascript, Python
-\end{itemize} 
+\wordcloud[usecolor,colors={white!60}]{
+  (Go,8);
+  (Clojure,12);
+  (Java,7);
+  (C,8);
+  (C++,8);
+  (Objective-C,7);
+  (iOS,5);
+  (Android,3);
+  (Erlang,3);
+  (Elixir,7);
+  (Javascript,6);
+  (React,5);
+  (Rust,5);
+  (Linux,9);
+  (AWS,7);
+  (Kubernetes,7);
+  (MySQL,7);
+  (PostgreSQL,9);
+  (Python,5);
+  (Terraform,7)
+}
+
+%\begin{itemize}
+%\item Clojure, Java
+%\item Go
+%\item C, C++, Objective-C
+%\item iOS, Android
+%\item Erlang, Elixir
+%\item Javascript, Python
+%\end{itemize} 
 
 \end{minipage}%
 \kern0.09\textwidth\relax%%Right margin provided explicitly to stretch the colourbox

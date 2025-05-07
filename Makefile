@@ -5,4 +5,4 @@ all: resume.pdf
 	dot -Tpng -o$@ $<
 
 resume.pdf: resume.tex stack_graph.png profile.jpg
-	pdflatex resume.tex
+	lualatex resume.tex
