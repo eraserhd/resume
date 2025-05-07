@@ -42,13 +42,23 @@
 
 %%%%%%% USER COMMAND DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % These are the real workhorses of this template
-\newcommand{\dates}[1]{\hfill\mbox{\textbf{#1}}} % Bold stuff that doesn’t got broken into lines
+\newcommand{\experienceitem}[3]{%
+\is
+\textsc{#1} at \textit{#2}\hfill\mbox{\textit{#3}} \\
+}
 \newcommand{\is}{\par\vskip.5ex plus .4ex} % Item spacing
 \newcommand{\smaller}[1]{{\small$\diamond$\ #1}}
 \newcommand{\headleft}[1]{\vspace*{3ex}\textsc{\textbf{#1}}\par%
     \vspace*{-1.5ex}\hrulefill\par\vspace*{0.7ex}}
 \newcommand{\headright}[1]{\vspace*{2.5ex}\textsc{\Large\color{cvblue}#1}\par%
      \vspace*{-2ex}{\color{cvblue}\hrulefill}\par}
+\newenvironment{experience}{%
+   \headright{Experience}
+   \vspace*{-.9ex}
+  }
+  {%
+  }
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage[colorlinks = true, urlcolor = white, linkcolor = white]{hyperref}
@@ -155,48 +165,42 @@ open source software \\
 \headright{Large System Builder}
 \null\hfill\includegraphics[width=\textwidth]{stack_graph.png}\hfill\null
 
-\headright{Experience}
-
-\textsc{Software Engineer IV} at \textit{2U}  \dates{2016.06--2025.04} \\
+\begin{experience}
+\experienceitem{Software Engineer IV}{2U}{9 years}
 \smaller{Automated new program standup} \\
 \smaller{Brought an acquired company's tech stack up to 2U standards} \\
 \smaller{Maintained core systems and proposed technical direction}
 
-\is % Item spacing -- defined in the preamble
-\textsc{Software Engineer IV} at \textit{Groupon}  \dates{2013.02--2016.06} \\
+\experienceitem{Software Engineer IV}{Groupon}{3 years}
 \smaller{Implemented and delivered new homepage} \\
 \smaller{Designed and delivered Points retention program} \\
 \smaller{Broke a delivery-limiting stalemate between tech and purchasing}
 
-\is
-\textsc{iOS \& Android Developer} at \textit{LeanDog} \dates{2011.11--2013.02} \\
+\experienceitem{iOS \& Android Developer}{LeanDog}{2 years}
 \smaller{Maintained iOS application and ported it to Android}
 
-\is
-\textsc{Software Engineer} at \textit{Blue Frog Gaming} \dates{2010.09--2011.11} \\ 
+\experienceitem{Software Engineer}{Blue Frog Gaming}{1 year}
 \smaller{Designed and delivered Polar Puzzles and Ghost Chicken iPad games} \\
 \smaller{Maintained Hearts and Spades iPad games and network servers}
 
-\is
-\textsc{Senior Software Engineer} at \textit{Micros Retail} \dates{2007.04--2010.09} \\
+\experienceitem{Senior Software Engineer}{Micros Retail}{3 years}
 \smaller{Maintained DAS and XPay credit authorization systems} \\
 \smaller{Implemented processes dramatically reducing delivery failures}
 
-\is
-\textsc{Chief Technology Officer} at \textit{Cronosys, LLC} \dates{2000.01--2007.04} \\
+\experienceitem{Chief Technology Officer}{Cronosys, LLC}{7 years}
 \smaller{Made a bet on web technology for internal business apps} \\
 \smaller{Consulted, quoted, and delivered many projects on many tech stacks}
 
-\is
-\textsc{Consultant} at \textit{The Baldwin Group} \dates{1997.03--2000.01}\\  
+\experienceitem{Consultant}{The Baldwin Group}{3 years}
 \smaller{Consulted on PC-related issues} \\
 \smaller{Maintained Mayor's Court software}
 
-\is
-\textsc{Programmer/Analyst} at \textit{DataVantage} \dates{1994.02--1997.03} \\
+\experienceitem{Programmer/Analyst}{DataVantage}{4 years}
 \smaller{Automated third shift data communications} \\
 \smaller{Implemented new credit authorization system} \\
 \smaller{Maintained point-of-sale software}
+\end{experience}
+
 \end{minipage}
 
 \end{document}
