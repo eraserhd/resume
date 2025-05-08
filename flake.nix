@@ -14,15 +14,11 @@
       {
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [
-            asciidoctor
             graphviz
             python3Packages.wordcloud
           ];
 
-          shellHook = ''
-            echo "AsciiDoc environment loaded with asciidoctor $(asciidoctor --version | head -n 1)"
-            echo "Run 'asciidoctor file.adoc' to convert AsciiDoc to HTML"
-          '';
+          FONT = pkgs.fira-sans;
         };
       }
     );

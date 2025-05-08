@@ -2,7 +2,13 @@
 all: resume.pdf
 
 techwords.png: Makefile techwords.txt
-	wordcloud_cli --regexp '[-+A-Za-z]+' --text techwords.txt --background white --margin 5 --random_state 1 >$@
+	wordcloud_cli --regexp '[-+A-Za-z]+' \
+	  --text techwords.txt \
+	  --background white \
+	  --margin 5 \
+	  --random_state 0 \
+	  --width 600 \
+	  --fontfile $(FONT)/share/fonts/opentype/FiraSansCompressed-Regular.otf >$@
 
 resume.pdf: Makefile resume.tex techwords.png profile.jpg
 	# Needed twice to update arrows
