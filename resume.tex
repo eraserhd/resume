@@ -28,6 +28,8 @@
 \usepackage{graphicx}        % To insert pictures
 \usepackage{xcolor}          % To add colour to the document
 \usepackage{wordcloud}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning, calc}
 
 \usepackage{enumitem}        % To redefine spacing in lists
 \setlist{parsep = 0pt, topsep = 0pt, partopsep = 1pt, itemsep = 1pt, leftmargin = 6mm}
@@ -44,7 +46,7 @@
 \textsc{\textbf{#1}} at \textit{#2}\hfill\mbox{\textit{#3}} \\
 }
 \newcommand{\is}{\par\vskip.5ex plus .4ex} % Item spacing
-\newcommand{\smaller}[1]{{\small$\diamond$\ #1}}
+\newcommand{\achievement}[2]{{\small\raisebox{-0.2ex}{\tikz[remember picture]\node[] (#1) {$\diamond$};} #2}}
 \newcommand{\headleft}[1]{\vspace*{3ex}\textsc{\textbf{#1}}\par%
     \vspace*{-1.5ex}\hrulefill\par\vspace*{0.7ex}}
 \newcommand{\headright}[1]{\vspace*{2.5ex}\textsc{\Large\color{cvblue}#1}\par%
@@ -60,15 +62,15 @@
   \raggedleft
 }{%
 }
-\newcommand{\skill}[1]{%
-  #1\ \raisebox{-0.3ex}{\scalebox{1.75}{$\bullet$}}\\
+\newcommand{\skill}[2]{%
+  #2\ \tikz[remember picture]\node[circle,fill] (#1) {};\\
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \usepackage[colorlinks = true, urlcolor = white, linkcolor = white]{hyperref}
 
-\begin{document}
-
+\begin{document}%
+%
 % Style definitions -- killing the unnecessary space and adding the skips explicitly
 \setlength{\topskip}{0pt}
 \setlength{\parindent}{0pt}
@@ -103,14 +105,14 @@ a business focused, collaborative, hands-on, multi-language tech lead, architect
 
 
 \begin{skills}
-\skill{Written Communication}
-\skill{Broad Brief}
-\skill{Inception to Completion}
-\skill{CI/CD}
-\skill{React}
-\skill{Node.js}
-\skill{Large Scale/Production}
-\skill{MySQL}
+\skill{writing}{Written Communication}
+\skill{broadbrief}{Broad Brief}
+\skill{inceptiontocompletion}{Inception to Completion}
+\skill{cicd}{CI/CD}
+\skill{react}{React}
+\skill{nodejs}{Node.js}
+\skill{production}{Large Scale/Production}
+\skill{mysql}{MySQL}
 \end{skills}
 
 \headleft{Interests}
@@ -175,40 +177,47 @@ open source software \\
 
 \begin{experience}
 \experienceitem{Software Engineer IV}{2U}{9 years}
-\smaller{Automated new program standup} \\
-\smaller{Brought an acquired company's tech stack up to 2U standards} \\
-\smaller{Maintained core systems and influenced technical direction}
+\achievement{centralpark}{Automated new program standup} \\
+\achievement{nexus}{Brought an acquired company's tech stack up to 2U standards} \\
+\achievement{coresystems}{Maintained core systems and influenced technical direction}
 
 \experienceitem{Software Engineer IV}{Groupon}{3 years}
-\smaller{Implemented and delivered new homepage} \\
-\smaller{Designed and delivered Points retention program} \\
-\smaller{Broke a delivery-limiting stalemate between tech and purchasing}
+\achievement{homepage}{Implemented and delivered new homepage} \\
+\achievement{points}{Designed and delivered Points retention program} \\
+\achievement{whitepaper}{Broke a delivery-limiting stalemate between tech and purchasing}
 
 \experienceitem{iOS \& Android Developer}{LeanDog}{2 years}
-\smaller{Maintained iOS application and ported it to Android}
+\achievement{eriemobile}{Maintained iOS application and ported it to Android}
 
 \experienceitem{Software Engineer}{Blue Frog Gaming}{1 year}
-\smaller{Designed and delivered Polar Puzzles and Ghost Chicken iPad games} \\
-\smaller{Maintained Hearts and Spades iPad games and network servers}
+\achievement{polarpuzzles}{Designed and delivered Polar Puzzles and Ghost Chicken iPad games} \\
+\achievement{hearts}{Maintained Hearts and Spades iPad games and network servers}
 
 \experienceitem{Senior Software Engineer}{Micros Retail}{3 years}
-\smaller{Maintained DAS and XPay credit authorization systems} \\
-\smaller{Implemented processes dramatically reducing delivery failures}
+\achievement{xpay}{Maintained DAS and XPay credit authorization systems} \\
+\achievement{kanban}{Implemented processes dramatically reducing delivery failures}
 
 \experienceitem{Chief Technology Officer}{Cronosys, LLC}{7 years}
-\smaller{Made a bet on web technology for internal business apps} \\
-\smaller{Consulted, quoted, and delivered many projects on many tech stacks}
+\achievement{webtech}{Made a bet on web technology for internal business apps} \\
+\achievement{cronosysprojects}{Consulted, quoted, and delivered many projects on many tech stacks}
 
 \experienceitem{Consultant}{The Baldwin Group}{3 years}
-\smaller{Consulted on PC-related issues} \\
-\smaller{Maintained Mayor's Court software}
+\achievement{pcconsulting}{Consulted on PC-related issues} \\
+\achievement{mayorscourt}{Maintained Mayor's Court software}
 
 \experienceitem{Programmer/Analyst}{DataVantage}{4 years}
-\smaller{Automated third shift data communications} \\
-\smaller{Implemented new credit authorization system} \\
-\smaller{Maintained point-of-sale software}
+\achievement{datacomm}{Automated third shift data communications} \\
+\achievement{auth21}{Implemented new credit authorization system} \\
+\achievement{instoreplus}{Maintained point-of-sale software}
 \end{experience}
 
-\end{minipage}
-
+\end{minipage}%
+\begin{tikzpicture}[remember picture, overlay,
+                    -Stealth, thick,
+                    white!60!black,
+                    rounded corners]
+    \draw (broadbrief) -- ++(0.3,0) |- (centralpark);
+    \draw (broadbrief) -- ++(0.3,0) |- (points);
+    \draw (writing) -- ++(0.8,0) |- (whitepaper);
+\end{tikzpicture}%
 \end{document}
