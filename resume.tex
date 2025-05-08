@@ -46,7 +46,7 @@
 \textsc{\textbf{#1}} at \textit{#2}\hfill\mbox{\textit{#3}} \\
 }
 \newcommand{\is}{\par\vskip.5ex plus .4ex} % Item spacing
-\newcommand{\achievement}[2]{{\small\raisebox{-0.2ex}{\tikz[remember picture]\node[] (#1) {$\diamond$};} #2}}
+\newcommand{\achievement}[2]{{\small\raisebox{-0.2ex}{\tikz[remember picture]\node[] (#1) {$\diamond$};}#2}}
 \newcommand{\headleft}[1]{\vspace*{3ex}\textsc{\textbf{#1}}\par%
     \vspace*{-1.5ex}\hrulefill\par\vspace*{0.7ex}}
 \newcommand{\headright}[1]{\vspace*{2.5ex}\textsc{\Large\color{cvblue}#1}\par%
@@ -58,12 +58,13 @@
 
 \newenvironment{skills}{%
   \headleft{Skills}
+  \vspace*{0.4ex}
   \small
   \raggedleft
 }{%
 }
 \newcommand{\skill}[2]{%
-  #2\ \tikz[remember picture]\node[circle,fill] (#1) {};\\
+  \raisebox{0.4ex}{#2}\tikz[remember picture]\node[] (#1) {$\bullet$};\\
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -190,8 +191,27 @@ open source software \\
                     -Stealth, thick,
                     white!60!black,
                     rounded corners]
-    \draw (broadbrief) -- ++(0.3,0) |- (centralpark);
-    \draw (broadbrief) -- ++(0.3,0) |- (points);
-    \draw (writing) -- ++(0.8,0) |- (whitepaper);
+    \draw (writing) -- ++(0.3,0) |- (whitepaper);
+    \draw (broadbrief) -- ++(0.45,0) |- (centralpark);
+    \draw (broadbrief) -- ++(0.45,0) |- (points);
+    \draw (broadbrief) -- ++(0.45,0) |- (datacomm);
+    \draw (broadbrief) -- ++(0.45,0) |- (auth21);
+    \draw (broadbrief) -- ++(0.45,0) |- (cronosysprojects);
+    \draw (inceptiontocompletion) -- ++(0.6,0) |- (centralpark);
+    \draw (inceptiontocompletion) -- ++(0.6,0) |- (points);
+    \draw (inceptiontocompletion) -- ++(0.6,0) |- (homepage);
+    \draw (inceptiontocompletion) -- ++(0.6,0) |- (datacomm);
+    \draw (inceptiontocompletion) -- ++(0.6,0) |- (auth21);
+    \draw (inceptiontocompletion) -- ++(0.6,0) |- (polarpuzzles);
+    \draw (inceptiontocompletion) -- ++(0.6,0) |- (cronosysprojects);
+    \draw (cicd) -- ++(0.75,0) |- (nexus);
+    \draw (cicd) -- ++(0.75,0) |- (kanban);
+    \draw (react) -- ++(0.95,0) |- (nexus);
+    \draw (react) -- ++(0.95,0) |- (centralpark);
+    \draw (nodejs) -- ++(1.1,0) |- (coresystems);
+    \draw (nodejs) -- ++(1.1,0) |- (homepage);
+    \draw (production) -- ++(1.25,0) |- (points);
+    \draw (production) -- ++(1.25,0) |- (xpay);
+    \draw (mysql) -- ++(1.4,0) |- (coresystems);
 \end{tikzpicture}%
 \end{document}
