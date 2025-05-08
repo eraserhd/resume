@@ -16,6 +16,7 @@
           buildInputs = with pkgs; [
             asciidoctor
             graphviz
+            python3Packages.wordcloud
           ];
 
           shellHook = ''

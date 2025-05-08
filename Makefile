@@ -1,10 +1,10 @@
 
 all: resume.pdf
 
-%.png: %.dot
-	dot -Tpng -o$@ $<
+techwords.png: Makefile techwords.txt
+	wordcloud_cli --regexp '[-+A-Za-z]+' --text techwords.txt --background white --margin 5 --random_state 1 >$@
 
-resume.pdf: resume.tex stack_graph.png profile.jpg
+resume.pdf: Makefile resume.tex techwords.png profile.jpg
 	# Needed twice to update arrows
 	rm resume.aux # forget about previous positions of things
 	lualatex resume.tex
