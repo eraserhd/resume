@@ -12,6 +12,6 @@ techwords.png: Makefile techwords.txt
 
 resume.pdf: Makefile resume.tex techwords.png profile.jpg
 	# Needed twice to update arrows
-	rm resume.aux # forget about previous positions of things
-	lualatex resume.tex
-	lualatex resume.tex
+	rm -f resume.aux # forget about previous positions of things
+	pdflatex resume.tex
+	pdflatex resume.tex

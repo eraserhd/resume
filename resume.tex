@@ -27,15 +27,13 @@
 \usepackage[stretch = 25, shrink = 25, tracking=true, letterspace=30]{microtype}  
 \usepackage{graphicx}        % To insert pictures
 \usepackage{xcolor}          % To add colour to the document
-\usepackage{wordcloud}
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta, positioning, calc}
 
 \usepackage{enumitem}        % To redefine spacing in lists
 \setlist{parsep = 0pt, topsep = 0pt, partopsep = 1pt, itemsep = 1pt, leftmargin = 6mm}
 
-\usepackage{FiraSans}        % Change this to use any font, but keep it simple
-\setmainfont{Fira Sans}
+\usepackage[sfdefault]{FiraSans} % Change this to use any font, but keep it simple
 
 \definecolor{cvblue}{HTML}{304263}
 
@@ -55,7 +53,6 @@
    \headright{Experience}
    \vspace*{-.9ex}
 }{}
-
 \newenvironment{skills}{%
   \headleft{Skills}
   \vspace*{0.4ex}
@@ -82,9 +79,9 @@
 
 \begin{minipage}[t]{0.33\textwidth} %% Left column -- outer definition
 %  Left column -- top dark rectangle
-\colorbox{cvblue}{\begin{minipage}[t][5mm][t]{\textwidth}\null\hfill\null\end{minipage}}
+\colorbox{cvblue}{\begin{minipage}[t][5mm][t]{\textwidth}\null\hfill\null\end{minipage}}%
 
-\vspace{-.25ex} % Eliminates the small gap
+\vspace{-.25ex}% Eliminates the small gap
 \colorbox{cvblue!90}{\color{white}  %% LEFT BOX
 \kern0.09\textwidth\relax% Left margin provided explicitly
 \begin{minipage}[t][\dimexpr\textheight-5mm\relax][t]{0.82\textwidth}
@@ -135,7 +132,7 @@ open source software \\
 
 \end{minipage}%
 \kern0.09\textwidth\relax%%Right margin provided explicitly to stretch the colourbox
-}
+}%
 \end{minipage}% Right column
 \hskip2.5em% Left margin for the white area
 \begin{minipage}[t]{0.56\textwidth}
@@ -185,8 +182,7 @@ open source software \\
 \achievement{datacomm}{Automated third shift data communications} \\
 \achievement{auth21}{Implemented new credit authorization system} \\
 \achievement{instoreplus}{Maintained point-of-sale software}
-\end{experience}
-
+\end{experience}%
 \end{minipage}%
 \begin{tikzpicture}[remember picture, overlay,
                     -Stealth, thick,
