@@ -33,7 +33,7 @@ words = {
     "embedded":    6,
     "Reddis":      6,
     "NATS":        6,
-    "Data Science":5,
+    "data science":5,
     "Prolog":      5,
     "R":           5,
     "Objective-C": 5,
