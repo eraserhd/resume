@@ -15,6 +15,7 @@
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [
             graphviz
+            python3
             python3Packages.wordcloud
           ];
 
