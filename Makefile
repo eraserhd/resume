@@ -5,6 +5,7 @@ techwords.png: Makefile techwords.txt
 	wordcloud_cli --regexp '[-+A-Za-z]+' \
 	  --text techwords.txt \
 	  --background white \
+	  --relative_scaling 1 \
 	  --margin 5 \
 	  --random_state 0 \
 	  --width 600 \

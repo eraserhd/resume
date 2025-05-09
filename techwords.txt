@@ -1,25 +1,32 @@
-10 Clojure
-9  PostgreSQL
-9  Linux
-9  OpenSCAD
-8  Go
-8  C
-8  C++
-7  Elixir
-7  Java
-7  Javascript
-7  AWS
-7  MySQL
-7  Kubernetes
-7  Terraform
-7  embedded
-7  R
-6  Objective-C
-7  Kafka
-5  AI
-5  iOS
-5  React
-6  Rust
-5  Python
-4  Android
-4  Erlang
+Clojure
+C
+PostgreSQL
+Linux
+OpenSCAD
+Go
+C++
+Java
+Javascript
+algorithms
+AWS
+MySQL
+Scheme
+Kubernetes
+Terraform
+Datomic
+Elixir
+embedded
+NATS
+R
+Objective-C
+Kafka
+AI
+iOS
+Rust
+Python
+React
+Swift
+Android
+Perl
+Erlang
+BSD
