@@ -10,7 +10,7 @@ techwords.png: Makefile techwords.txt
 	  --width 600 \
 	  --fontfile $(FONT)/share/fonts/opentype/FiraSansCompressed-Regular.otf >$@
 
-resume.pdf: Makefile resume.tex techwords.png profile.jpg
+resume.pdf: Makefile resume.tex techwords.png
 	# Needed twice to update arrows
 	rm -f resume.aux # forget about previous positions of things
 	pdflatex resume.tex
