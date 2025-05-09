@@ -44,7 +44,7 @@
 \textsc{\textbf{#1}} at \textit{#2}\hfill\mbox{\textit{#3}} \\
 }
 \newcommand{\is}{\par\vskip.5ex plus .4ex} % Item spacing
-\newcommand{\achievement}[2]{{\small\raisebox{-0.2ex}{\tikz[remember picture]\node[] (#1) {$\diamond$};}#2}}
+\newcommand{\achievement}[2]{{\raisebox{-0.2ex}{\tikz[remember picture]\node[] (#1) {$\diamond$};}#2}}
 \newcommand{\headleft}[1]{\vspace*{3ex}\textsc{\textbf{#1}}\par%
     \vspace*{-1.5ex}\hrulefill\par\vspace*{0.7ex}}
 \newcommand{\headright}[1]{\vspace*{2.5ex}\textsc{\Large\color{cvblue}#1}\par%
@@ -56,7 +56,6 @@
 \newenvironment{skills}{%
   \headleft{Skills}
   \vspace*{0.4ex}
-  \small
   \raggedleft
 }{%
 }
@@ -91,14 +90,11 @@
 \Huge{Jason \textbf{\textsc{Felice,}}}\normalsize
 
 \vspace*{0.5ex}
-{\small
- a business focused, collaborative, hands-on, multi-language tech lead, architect, and large system builder.
-}
+a business focused, collaborative, hands-on, multi-language tech lead, architect, and large system builder.
 
 \headleft{Count on me to}
-{\small
- create sustainable software, bring all voices to the process, facilitate and mentor, embody compassion, and use the best of Agile/XP.
-}
+create sustainable software, bring all voices to the process, facilitate and mentor, embody compassion, and use the best of Agile/XP.
+
 
 \begin{skills}
 \skill{red}{writing}{Written Communication}
@@ -112,11 +108,10 @@
 \end{skills}
 
 \headleft{Interests}
-{\small systems \textbullet\ emergence \textbullet\ geek joy \\
+systems \textbullet\ emergence \textbullet\ geek joy \\
 making \textbullet\ nonviolent communication \\
 math \textbullet\ data \textbullet\ algorithms \\
 open source software \\
-}\normalsize
 
 \vfill
 \headleft{Contact}
