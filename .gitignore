@@ -1,1 +1,4 @@
 /.direnv
+*.aux
+*.out
+*.log
