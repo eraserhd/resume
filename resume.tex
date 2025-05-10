@@ -47,11 +47,11 @@
 \newcommand{\achievement}[2]{{\raisebox{-0.2ex}{\tikz[remember picture]\node[] (#1) {$\diamond$};}#2}}
 \newcommand{\headleft}[1]{\vspace*{3ex}\textsc{\textbf{#1}}\par%
     \vspace*{-1.5ex}\hrulefill\par\vspace*{0.7ex}}
-\newcommand{\headright}[1]{\vspace*{2.5ex}\textsc{\Large\color{cvblue}#1}\par%
+\newcommand{\headright}[1]{\vspace*{2ex}\textsc{\Large\color{cvblue}#1}\par%
      \vspace*{-2ex}{\color{cvblue}\hrulefill}\par}
 \newenvironment{experience}{%
    \headright{Experience}
-   \vspace*{0.5ex}
+   \raggedright\vspace*{-.9ex}
 }{}
 \newenvironment{skills}{%
   \headleft{Skills}
@@ -135,47 +135,54 @@ open source software \\
 
 \setlength{\parskip}{0.8ex}% Adds spaces between paragraphs; use \\ to add new lines without this space. Shrink this amount to fit more data vertically
 
-\vspace{2ex}
-
-\vskip1.25ex
 \headright{Large System Builder}
-
+\vspace*{-2ex}
 \null\hfill\includegraphics[width=0.95\textwidth]{techwords.png}\hfill\null
+
+\vspace*{-2ex}
 
 \begin{experience}
 \experienceitem{Software Engineer IV}{2U}{2016--2025}
-\achievement{centralpark}{Automated new program standup} \\
-\achievement{nexus}{Brought an acquired company's tech stack up to 2U standards} \\
-\achievement{coresystems}{Maintained core systems and influenced technical direction}
+\achievement{nexus}{Modernized $\sim$60 services from an acquisistion, introducing CI/CD and kubernetes,
+enabling independent team deploys,
+analyzing code and incrementally rearchitecting for horizontal scaling and blue/green deploys
+}\\
+\achievement{centralpark}{Built and maintained a system orchestrating multiple cross-team systems}\\
+\achievement{coresystems}{Built and maintained serverless integrations synchronizing systems}\\
+\achievement{passport}{MySQL schema analysis, modifications, and code changes revamping a critical, aging data cache}\\
+\achievement{guided}{Guided the organization's technical direction}
 
 \experienceitem{Software Engineer IV}{Groupon}{2013--2016}
-\achievement{homepage}{Implemented and delivered new homepage} \\
-\achievement{points}{Designed and delivered Points retention program} \\
-\achievement{whitepaper}{Broke a delivery-limiting stalemate between tech and purchasing}
+\achievement{whitepaper}{Provided clear analysis which broke a delivery-limiting stalemate between tech and purchasing}\\
+\achievement{points}{Designed and wrote Points, a new customer retention program} \\
+\achievement{homepage}{Delivered a new homepage, enabling better user targeting} \\
 
 \experienceitem{iOS \& Android Developer}{LeanDog}{2011--2013}
-\achievement{eriemobile}{Maintained iOS application and ported it to Android}
+\achievement{eriemobile}{Wrote and maintained coordinated, customer-focused iOS and Android apps}\\
+\achievement{mobilecicd}{Pioneered early testing methods and CI/CD for mobile}\\
+\achievement{leandogcollab}{Collaborated on a fully cross-functional team}
 
 \experienceitem{Software Engineer}{Blue Frog Gaming}{2010--2011}
 \achievement{polarpuzzles}{Designed and delivered Polar Puzzles and Ghost Chicken iPad games} \\
-\achievement{hearts}{Maintained Hearts and Spades iPad games and network servers}
+\achievement{hearts}{Maintained Hearts and Spades iPad games}\\
+\achievement{heartsnet}{Designed and wrote Hearts and Spades online mode and servers}
 
 \experienceitem{Senior Software Engineer}{Micros Retail}{2007--2010}
-\achievement{xpay}{Maintained DAS and XPay credit authorization systems} \\
+\achievement{xpay}{Maintained DAS and XPay credit authorization systems}\\
 \achievement{kanban}{Implemented processes dramatically reducing delivery failures}
 
 \experienceitem{Chief Technology Officer}{Cronosys, LLC}{2000--2007}
-\achievement{webtech}{Made a bet on web technology for internal business apps} \\
+\achievement{webtech}{Created internal business apps using novel web technologies before it was cool}\\
 \achievement{cronosysprojects}{Consulted, quoted, and delivered many projects on many tech stacks}
 
 \experienceitem{Consultant}{The Baldwin Group}{1997--2000}
-\achievement{pcconsulting}{Consulted on PC-related issues} \\
+\achievement{pcconsulting}{Consulted on PC-related issues}\\
 \achievement{mayorscourt}{Maintained Mayor's Court software}
 
 \experienceitem{Programmer/Analyst}{DataVantage}{1994--1997}
-\achievement{datacomm}{Automated third shift data communications} \\
-\achievement{auth21}{Implemented new credit authorization system} \\
-\achievement{instoreplus}{Maintained point-of-sale software}
+\achievement{datacomm}{Automated third shift data communications}\\
+\achievement{auth21}{Wrote new cross-platform credit authorization system installed in thousands of retail locations}\\
+\achievement{instoreplus}{Maintained point-of-sale software installed in thousands of retail locations}
 \end{experience}%
 \end{minipage}%
 \begin{tikzpicture}[remember picture, overlay,
@@ -188,6 +195,7 @@ open source software \\
     \draw [cyan] (broadbrief) -- ++(0.45,0) |- (datacomm);
     \draw [cyan] (broadbrief) -- ++(0.45,0) |- (auth21);
     \draw [cyan] (broadbrief) -- ++(0.45,0) |- (cronosysprojects);
+    \draw [cyan] (broadbrief) -- ++(0.45,0) |- (webtech);
     \draw [green] (inceptiontocompletion) -- ++(0.6,0) |- (centralpark);
     \draw [green] (inceptiontocompletion) -- ++(0.6,0) |- (points);
     \draw [green] (inceptiontocompletion) -- ++(0.6,0) |- (homepage);
@@ -195,15 +203,17 @@ open source software \\
     \draw [green] (inceptiontocompletion) -- ++(0.6,0) |- (auth21);
     \draw [green] (inceptiontocompletion) -- ++(0.6,0) |- (polarpuzzles);
     \draw [green] (inceptiontocompletion) -- ++(0.6,0) |- (cronosysprojects);
+    \draw [green] (inceptiontocompletion) -- ++(0.6,0) |- (webtech);
     \draw [orange] (cicd) -- ++(0.75,0) |- (nexus);
     \draw [orange] (cicd) -- ++(0.75,0) |- (kanban);
     \draw [blue] (react) -- ++(0.95,0) |- (nexus);
     \draw [blue] (react) -- ++(0.95,0) |- (centralpark);
     \draw [violet] (nodejs) -- ++(1.1,0) |- (coresystems);
     \draw [violet] (nodejs) -- ++(1.1,0) |- (homepage);
+    \draw [magenta] (production) -- ++(1.25,0) |- (passport);
     \draw [magenta] (production) -- ++(1.25,0) |- (points);
     \draw [magenta] (production) -- ++(1.25,0) |- (xpay);
-    \draw [olive] (mysql) -- ++(1.4,0) |- (coresystems);
+    \draw [olive] (mysql) -- ++(1.4,0) |- (passport);
     \draw [olive] (mysql) -- ++(1.4,0) |- (cronosysprojects);
 \end{tikzpicture}%
 \end{document}
