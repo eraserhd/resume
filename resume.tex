@@ -40,10 +40,17 @@
 %%%%%%% USER COMMAND DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%%%%%
 % These are the real workhorses of this template
 \newcommand{\experienceitem}[3]{%
-\par\vskip.5ex plus .4ex
-\textsc{\textbf{#1}} at \textit{#2}\hfill\mbox{\textit{#3}}\\
+  \par\vskip.5ex plus .4ex
+  \textsc{\textbf{#1}} at \textit{#2}\hfill\mbox{\textit{#3}}\\
 }
-\newcommand{\achievement}[2]{{\raisebox{-0.2ex}{\tikz[remember picture]\node[] (#1) {$\diamond$};}#2}}
+\newlength{\achievementindent}
+\setlength{\achievementindent}{1.1em}
+\newcommand{\achievement}[2]{{%
+  \raisebox{-0.4ex}{\makebox[\achievementindent]{\tikz[remember picture]\node[] (#1) {$\diamond$};}}\null
+  \begin{minipage}[t]{\dimexpr\textwidth-\achievementindent}
+  \raggedright #2
+  \end{minipage}%
+}}
 \newcommand{\headleft}[1]{\vspace*{3ex}\textsc{\textbf{#1}}\par%
     \vspace*{-1.5ex}\hrulefill\par\vspace*{0.7ex}}
 \newcommand{\headright}[1]{\vspace*{2ex}\textsc{\Large\color{cvblue}#1}\par%
