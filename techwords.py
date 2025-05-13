@@ -23,6 +23,7 @@ words = {
     "Java":        8,
     "Javascript":  8,
     "algorithms":  8,
+    "Ruby":        7,
     "AWS":         7,
     "MySQL":       7,
     "Scheme":      7,
