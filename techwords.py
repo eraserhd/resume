@@ -52,11 +52,6 @@ words = {
     "BSD":         1,
 }
 
-#  --margin 5 \
-#  --random_state 0 \
-#  --width 600 \
-#  --fontfile $(FONT)/share/fonts/opentype/FiraSansCompressed-Regular.otf
-
 wc = WordCloud(
     font_path = f"{os.getenv("FONT")}/share/fonts/opentype/FiraSans-Regular.otf",
     # If this is not set, a too-large value will be picked and other words will get bumped down in size.
