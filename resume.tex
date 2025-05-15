@@ -34,6 +34,7 @@
 \setlist{parsep = 0pt, topsep = 0pt, partopsep = 1pt, itemsep = 1pt, leftmargin = 6mm}
 
 \usepackage[sfdefault]{FiraSans} % Change this to use any font, but keep it simple
+\usepackage[colorlinks = true, urlcolor = white, linkcolor = white]{hyperref}
 
 \definecolor{cvblue}{HTML}{304263}
 
@@ -68,10 +69,7 @@
 \newcommand{\skill}[3]{%
   \raisebox{0.4ex}{#3}\tikz[remember picture]\node[] (#2) {\color{#1}$\bullet$};\\
 }
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\usepackage[colorlinks = true, urlcolor = white, linkcolor = white]{hyperref}
-
+\newcommand{\makeresume}{
 % Style definitions -- killing the unnecessary space and adding the skips explicitly
 \setlength{\topskip}{0pt}
 \setlength{\parindent}{0pt}
@@ -233,3 +231,7 @@ tech stack with a Datalog-based rules system.}\\
     \draw [olive] (teams) -- ++(1.55,0) |- (cronosysprojects);
 \end{tikzpicture}%
 \end{document}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\makeresume
