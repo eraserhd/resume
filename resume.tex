@@ -64,10 +64,12 @@
   \headleft{Relevant Skills}
   \vspace*{0.4ex}
   \raggedleft
+  \newcounter{skillnumber}
 }{%
 }
-\newcommand{\skill}[3]{%
-  \raisebox{0.4ex}{#3}\tikz[remember picture]\node[] (#2) {\color{#1}$\bullet$};\\
+\newcommand{\skill}[2]{%
+  \stepcounter{skillnumber}
+  \raisebox{0.4ex}{#2}\tikz[remember picture]\node[] (skill\arabic{skillnumber}) {\color{#1}$\bullet$};\\
 }
 \newcommand{\makeresume}{
 % Style definitions -- killing the unnecessary space and adding the skips explicitly
@@ -101,15 +103,14 @@ create sustainable software, bring all voices to the process, facilitate and men
 
 
 \begin{skills}
-
-\skill{red}{skill1}{Go}
-\skill{cyan}{skill2}{TypeScript}
-\skill{green}{skill3}{Backend}
-\skill{orange}{skill4}{OAuth/JWTs}
-\skill{blue}{skill5}{PK Cryptography}
-\skill{violet}{skill6}{Up and Down Stack}
-\skill{magenta}{skill7}{Many Users}
-\skill{olive}{skill8}{Small Fast-moving Teams}
+\skill{red}{Go}
+\skill{cyan}{TypeScript}
+\skill{green}{Backend}
+\skill{orange}{OAuth/JWTs}
+\skill{blue}{PK Cryptography}
+\skill{violet}{Up and Down Stack}
+\skill{magenta}{Many Users}
+\skill{olive}{Small Fast-moving Teams}
 \end{skills}
 
 \headleft{Education}
