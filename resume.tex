@@ -79,7 +79,7 @@
   \else grey%
   \fi
 }
-\newcommand{\skill}[1]{%
+\newcommand{\skill}[2]{%
   \raisebox{0.4ex}{#1}\tikz[remember picture]\node[] (skill\arabic{skillnumber}) {\color{\skillcolor{skillnumber}}$\bullet$};\\
   \stepcounter{skillnumber}
 }
@@ -113,16 +113,15 @@ a business focused, collaborative, hands-on, multi-language tech lead, architect
 \headleft{Count on me to}
 create sustainable software, bring all voices to the process, facilitate and mentor, embody compassion, and use the best of Agile/XP.
 
-
 \begin{skills}
-\skill{Go}
-\skill{TypeScript}
-\skill{Backend}
-\skill{OAuth/JWTs}
-\skill{PK Cryptography}
-\skill{Up and Down Stack}
-\skill{Many Users}
-\skill{Small Fast-moving Teams}
+\skill{Go}{nexus}
+\skill{TypeScript}{coresystems}
+\skill{Backend}{nexus,centralpark,finch,points,passport,coresystems,xpay,webtech,cronosysprojects,datacomm}
+\skill{OAuth/JWTs}{nexus,guided,coresystems}
+\skill{PK Cryptography}{xpay}
+\skill{Up and Down Stack}{points,homepage,nexus,cronosysprojects,finch,webtech}
+\skill{Many Users}{points,finch,homepage}
+\skill{Small Fast-moving Teams}{points,homepage,nexus,webtech,cronosysprojects}
 \end{skills}
 
 \headleft{Education}
