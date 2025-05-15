@@ -66,9 +66,9 @@
   \headleft{Relevant Skills}
   \vspace*{0.4ex}
   \raggedleft
-  \newcounter{skillnumber}
 }{%
 }
+\newcounter{skillnumber}
 \newcommand{\skillcolor}[1]{
   \ifcase\value{#1}red%
   \or cyan%
@@ -123,14 +123,6 @@ a business focused, collaborative, hands-on, multi-language tech lead, architect
 create sustainable software, bring all voices to the process, facilitate and mentor, embody compassion, and use the best of Agile/XP.
 
 \begin{skills}
-\skill{Go}{nexus}
-\skill{TypeScript}{coresystems}
-\skill{Backend}{nexus,centralpark,finch,points,passport,coresystems,xpay,webtech,cronosysprojects,datacomm}
-\skill{OAuth/JWTs}{nexus,guided,coresystems}
-\skill{PK Cryptography}{xpay}
-\skill{Up and Down Stack}{points,homepage,nexus,cronosysprojects,finch,webtech}
-\skill{Many Users}{points,finch,homepage}
-\skill{Small Fast-moving Teams}{points,homepage,nexus,webtech,cronosysprojects}
 \foreach \skillnumber/\skillcolor/\skilldescription in \skillitems {
   \raisebox{0.4ex}{\skilldescription}\tikz[remember picture]\node[] (skill\skillnumber) {\color{\skillcolor}$\bullet$};\\
 }
