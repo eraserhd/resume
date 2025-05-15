@@ -18,7 +18,9 @@
 % to break the flow of text to achieve the most flexible right alignment
 % of dates for multiple configurations.
 
-\documentclass[11pt, letterpaper]{article} 
+\documentclass[11pt, letterpaper]{article}
+\usepackage{pgffor}
+\usepackage{etoolbox}
 \usepackage{fontawesome5}
 \usepackage[T1]{fontenc}     % We are using pdfLaTeX,
 \usepackage[utf8]{inputenc}  % hence this preparation
@@ -77,10 +79,18 @@
   \or magenta%
   \or olive%
   \else grey%
-  \fi
+  \fi%
 }
+\def\skillconnections{}
 \newcommand{\skill}[2]{%
   \raisebox{0.4ex}{#1}\tikz[remember picture]\node[] (skill\arabic{skillnumber}) {\color{\skillcolor{skillnumber}}$\bullet$};\\
+  \foreach \target in {#2}{%
+     \ifdefstring{\skillconnections}{}{%
+     }{%
+       \gappto\skillconnections{,}
+     }
+     \xappto\skillconnections{\skillcolor{skillnumber}/\arabic{skillnumber}/\target}%
+  }%
   \stepcounter{skillnumber}
 }
 \newcommand{\makeresume}{
@@ -211,36 +221,10 @@ tech stack with a Datalog-based rules system.}\\
                     -Stealth, thick,
                     white!60!black,
                     rounded corners]
-    \draw [red] (skill0) -- ++(0.3,0) |- (nexus);
-    \draw [cyan] (skill1) -- ++(1.1,0) |- (coresystems);
-    \draw [green] (skill2) -- ++(0.6,0) |- (nexus);
-    \draw [green] (skill2) -- ++(0.6,0) |- (centralpark);
-    \draw [green] (skill2) -- ++(0.6,0) |- (finch);
-    \draw [green] (skill2) -- ++(0.6,0) |- (points);
-    \draw [green] (skill2) -- ++(0.6,0) |- (passport);
-    \draw [green] (skill2) -- ++(0.6,0) |- (coresystems);
-    \draw [green] (skill2) -- ++(0.6,0) |- (xpay);
-    \draw [green] (skill2) -- ++(0.6,0) |- (webtech);
-    \draw [green] (skill2) -- ++(0.6,0) |- (cronosysprojects);
-    \draw [green] (skill2) -- ++(0.6,0) |- (datacomm);
-    \draw [orange] (skill3) -- ++(0.75,0) |- (nexus);
-    \draw [orange] (skill3) -- ++(0.75,0) |- (guided);
-    \draw [orange] (skill3) -- ++(0.75,0) |- (coresystems);
-    \draw [blue] (skill4) -- ++(1.1,0) |- (xpay);
-    \draw [violet] (skill5) -- ++(1.25,0) |- (points);
-    \draw [violet] (skill5) -- ++(1.25,0) |- (homepage);
-    \draw [violet] (skill5) -- ++(1.25,0) |- (nexus);
-    \draw [violet] (skill5) -- ++(1.25,0) |- (cronosysprojects);
-    \draw [violet] (skill5) -- ++(1.25,0) |- (finch);
-    \draw [violet] (skill5) -- ++(1.25,0) |- (webtech);
-    \draw [magenta] (skill6) -- ++(1.4,0) |- (points);
-    \draw [magenta] (skill6) -- ++(1.4,0) |- (finch);
-    \draw [magenta] (skill6) -- ++(1.4,0) |- (homepage);
-    \draw [olive] (skill7) -- ++(1.55,0) |- (points);
-    \draw [olive] (skill7) -- ++(1.55,0) |- (homepage);
-    \draw [olive] (skill7) -- ++(1.55,0) |- (nexus);
-    \draw [olive] (skill7) -- ++(1.55,0) |- (webtech);
-    \draw [olive] (skill7) -- ++(1.55,0) |- (cronosysprojects);
+    \foreach \color/\skill/\target in \skillconnections {
+       \pgfmathsetmacro{\xpos}{0.3+0.15*\skill + 0.15*(\skill >= 4)}
+       \draw [color=\color] (skill\skill) -- ++(\xpos,0) |- (\target);
+    }
 \end{tikzpicture}%
 \end{document}
 }
