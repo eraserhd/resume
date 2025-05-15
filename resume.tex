@@ -81,14 +81,13 @@
   \else grey%
   \fi%
 }
+\def\skillitems{}
 \def\skillconnections{}
 \newcommand{\skill}[2]{%
-  \raisebox{0.4ex}{#1}\tikz[remember picture]\node[] (skill\arabic{skillnumber}) {\color{\skillcolor{skillnumber}}$\bullet$};\\
+  \ifdefstring{\skillitems}{}{}{\gappto\skillitems{,}}
+  \xappto\skillitems{\arabic{skillnumber}/\skillcolor{skillnumber}/#1}
   \foreach \target in {#2}{%
-     \ifdefstring{\skillconnections}{}{%
-     }{%
-       \gappto\skillconnections{,}
-     }
+     \ifdefstring{\skillconnections}{}{}{\gappto\skillconnections{,}}
      \xappto\skillconnections{\skillcolor{skillnumber}/\arabic{skillnumber}/\target}%
   }%
   \stepcounter{skillnumber}
@@ -132,6 +131,9 @@ create sustainable software, bring all voices to the process, facilitate and men
 \skill{Up and Down Stack}{points,homepage,nexus,cronosysprojects,finch,webtech}
 \skill{Many Users}{points,finch,homepage}
 \skill{Small Fast-moving Teams}{points,homepage,nexus,webtech,cronosysprojects}
+\foreach \skillnumber/\skillcolor/\skilldescription in \skillitems {
+  \raisebox{0.4ex}{\skilldescription}\tikz[remember picture]\node[] (skill\skillnumber) {\color{\skillcolor}$\bullet$};\\
+}
 \end{skills}
 
 \headleft{Education}
