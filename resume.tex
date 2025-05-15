@@ -67,9 +67,21 @@
   \newcounter{skillnumber}
 }{%
 }
-\newcommand{\skill}[2]{%
+\newcommand{\skillcolor}[1]{
+  \ifcase\value{#1}red%
+  \or cyan%
+  \or green%
+  \or orange%
+  \or blue%
+  \or violet%
+  \or magenta%
+  \or olive%
+  \else grey%
+  \fi
+}
+\newcommand{\skill}[1]{%
+  \raisebox{0.4ex}{#1}\tikz[remember picture]\node[] (skill\arabic{skillnumber}) {\color{\skillcolor{skillnumber}}$\bullet$};\\
   \stepcounter{skillnumber}
-  \raisebox{0.4ex}{#2}\tikz[remember picture]\node[] (skill\arabic{skillnumber}) {\color{#1}$\bullet$};\\
 }
 \newcommand{\makeresume}{
 % Style definitions -- killing the unnecessary space and adding the skips explicitly
@@ -103,14 +115,14 @@ create sustainable software, bring all voices to the process, facilitate and men
 
 
 \begin{skills}
-\skill{red}{Go}
-\skill{cyan}{TypeScript}
-\skill{green}{Backend}
-\skill{orange}{OAuth/JWTs}
-\skill{blue}{PK Cryptography}
-\skill{violet}{Up and Down Stack}
-\skill{magenta}{Many Users}
-\skill{olive}{Small Fast-moving Teams}
+\skill{Go}
+\skill{TypeScript}
+\skill{Backend}
+\skill{OAuth/JWTs}
+\skill{PK Cryptography}
+\skill{Up and Down Stack}
+\skill{Many Users}
+\skill{Small Fast-moving Teams}
 \end{skills}
 
 \headleft{Education}
@@ -200,36 +212,36 @@ tech stack with a Datalog-based rules system.}\\
                     -Stealth, thick,
                     white!60!black,
                     rounded corners]
-    \draw [red] (skill1) -- ++(0.3,0) |- (nexus);
-    \draw [cyan] (skill2) -- ++(1.1,0) |- (coresystems);
-    \draw [green] (skill3) -- ++(0.6,0) |- (nexus);
-    \draw [green] (skill3) -- ++(0.6,0) |- (centralpark);
-    \draw [green] (skill3) -- ++(0.6,0) |- (finch);
-    \draw [green] (skill3) -- ++(0.6,0) |- (points);
-    \draw [green] (skill3) -- ++(0.6,0) |- (passport);
-    \draw [green] (skill3) -- ++(0.6,0) |- (coresystems);
-    \draw [green] (skill3) -- ++(0.6,0) |- (xpay);
-    \draw [green] (skill3) -- ++(0.6,0) |- (webtech);
-    \draw [green] (skill3) -- ++(0.6,0) |- (cronosysprojects);
-    \draw [green] (skill3) -- ++(0.6,0) |- (datacomm);
-    \draw [orange] (skill4) -- ++(0.75,0) |- (nexus);
-    \draw [orange] (skill4) -- ++(0.75,0) |- (guided);
-    \draw [orange] (skill4) -- ++(0.75,0) |- (coresystems);
-    \draw [blue] (skill5) -- ++(1.1,0) |- (xpay);
-    \draw [violet] (skill6) -- ++(1.25,0) |- (points);
-    \draw [violet] (skill6) -- ++(1.25,0) |- (homepage);
-    \draw [violet] (skill6) -- ++(1.25,0) |- (nexus);
-    \draw [violet] (skill6) -- ++(1.25,0) |- (cronosysprojects);
-    \draw [violet] (skill6) -- ++(1.25,0) |- (finch);
-    \draw [violet] (skill6) -- ++(1.25,0) |- (webtech);
-    \draw [magenta] (skill7) -- ++(1.4,0) |- (points);
-    \draw [magenta] (skill7) -- ++(1.4,0) |- (finch);
-    \draw [magenta] (skill7) -- ++(1.4,0) |- (homepage);
-    \draw [olive] (skill8) -- ++(1.55,0) |- (points);
-    \draw [olive] (skill8) -- ++(1.55,0) |- (homepage);
-    \draw [olive] (skill8) -- ++(1.55,0) |- (nexus);
-    \draw [olive] (skill8) -- ++(1.55,0) |- (webtech);
-    \draw [olive] (skill8) -- ++(1.55,0) |- (cronosysprojects);
+    \draw [red] (skill0) -- ++(0.3,0) |- (nexus);
+    \draw [cyan] (skill1) -- ++(1.1,0) |- (coresystems);
+    \draw [green] (skill2) -- ++(0.6,0) |- (nexus);
+    \draw [green] (skill2) -- ++(0.6,0) |- (centralpark);
+    \draw [green] (skill2) -- ++(0.6,0) |- (finch);
+    \draw [green] (skill2) -- ++(0.6,0) |- (points);
+    \draw [green] (skill2) -- ++(0.6,0) |- (passport);
+    \draw [green] (skill2) -- ++(0.6,0) |- (coresystems);
+    \draw [green] (skill2) -- ++(0.6,0) |- (xpay);
+    \draw [green] (skill2) -- ++(0.6,0) |- (webtech);
+    \draw [green] (skill2) -- ++(0.6,0) |- (cronosysprojects);
+    \draw [green] (skill2) -- ++(0.6,0) |- (datacomm);
+    \draw [orange] (skill3) -- ++(0.75,0) |- (nexus);
+    \draw [orange] (skill3) -- ++(0.75,0) |- (guided);
+    \draw [orange] (skill3) -- ++(0.75,0) |- (coresystems);
+    \draw [blue] (skill4) -- ++(1.1,0) |- (xpay);
+    \draw [violet] (skill5) -- ++(1.25,0) |- (points);
+    \draw [violet] (skill5) -- ++(1.25,0) |- (homepage);
+    \draw [violet] (skill5) -- ++(1.25,0) |- (nexus);
+    \draw [violet] (skill5) -- ++(1.25,0) |- (cronosysprojects);
+    \draw [violet] (skill5) -- ++(1.25,0) |- (finch);
+    \draw [violet] (skill5) -- ++(1.25,0) |- (webtech);
+    \draw [magenta] (skill6) -- ++(1.4,0) |- (points);
+    \draw [magenta] (skill6) -- ++(1.4,0) |- (finch);
+    \draw [magenta] (skill6) -- ++(1.4,0) |- (homepage);
+    \draw [olive] (skill7) -- ++(1.55,0) |- (points);
+    \draw [olive] (skill7) -- ++(1.55,0) |- (homepage);
+    \draw [olive] (skill7) -- ++(1.55,0) |- (nexus);
+    \draw [olive] (skill7) -- ++(1.55,0) |- (webtech);
+    \draw [olive] (skill7) -- ++(1.55,0) |- (cronosysprojects);
 \end{tikzpicture}%
 \end{document}
 }
