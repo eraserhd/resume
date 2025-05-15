@@ -83,7 +83,7 @@
 }
 \def\skillitems{}
 \def\skillconnections{}
-\newcommand{\skill}[2]{%
+\newcommand{\relevantskill}[2]{%
   \ifdefstring{\skillitems}{}{}{\gappto\skillitems{,}}
   \xappto\skillitems{\arabic{skillnumber}/\skillcolor{skillnumber}/#1}
   \foreach \target in {#2}{%
