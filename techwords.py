@@ -34,6 +34,7 @@ words = {
     "embedded":    6,
     "Reddis":      6,
     "NATS":        6,
+    "TypeScript":  6,
     "data science":5,
     "Prolog":      5,
     "R":           5,
