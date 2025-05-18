@@ -1,0 +1,68 @@
+ About the job
+
+Overview
+
+Cotiviti is a leading solutions and analytics company that leverages unparalleled clinical and financial datasets to deliver deep insight into the performance of the healthcare system. These insights uncover new opportunities for healthcare organizations to collaborate to improve their financial performance, reduce inefficiency, and improve healthcare quality.
+
+We are developing an advanced innovation platform designed to allow non-developers to swiftly transform concepts into practical solutions. This platform facilitates the testing of ideas using both real and hypothetical data. Validated ideas will then be executed within a high-volume transaction processing system.
+
+Responsibilities
+
+The Principal Software Engineer we seek will be familiar with modern CI/CD process automation and understand the role AI plays in fast passed future software development lifecycles, where non-technical and technical resources collaborate to increase the pace of innovation. The ideal candidate will be well versed in modern service architecture and motivated to explore emerging software development ideas, trends, and methods, including the use of AI. The candidate will be expected to rapidly prototype concepts, driving our thinking and understanding toward a solution through fast paced iteration.
+
+     Support and enhance high quality software modules for the Cotiviti product 
+     Analyze and resolve software related issues originated from internal or external 
+     Documents the specifications, design, features, and operation of applications prior to production roll 
+     Demonstrates proficient working knowledge of the primary discipline and a developing knowledge of related 
+     Executes solutions enhancements to improve performance / 
+     Communicates technical and operational issues to both engineering and business leadership in a timely 
+     Ensure that all technology standards are adhered to while developing 
+     Explores new ideas and makes innovative contributions to existing processes or systems which improve efficiency and results. 
+     Continuously improves and enhances knowledge of new technologies as selected and integrated into the Cotiviti product suite. 
+     Execute all appropriate facets of the Cotiviti Software Development Lifecycle with a desire for continuous 
+     Mentor other developers 
+     Complete all responsibilities as outlined on annual Performance Required 
+     Complete all special projects and other duties as Required 
+     Must be able to perform duties with or without reasonable accommodation. Required 
+
+Qualifications
+
+     BS or MS Computer Science, Information Technology, Information Systems, or equivalent work experience. 
+     8+ years' experience with Java 
+     8+ years’ experience with developing software in a large application ecosystem. 
+     8+ years' experience with relational databases. 
+     5+ years' experience building services architectures, using containerization, kubernetes, openshift or other similar tools. 
+     5+ years’ experience with Modern CI/CD automation 
+     3+ years' experience with Amazon Web Services (AWS) 
+     1+ years’ experience using the AI capabilities now available in tools like GitHub and Visual Code, or other similar toolsets. 
+     Proficiency working with large data sets using SQL tools. 
+     Advanced understanding of Object-Oriented Analysis & Design and micro services. 
+     Good written and oral communication 
+     Basic Knowledge and application of SAFe agile practices, 
+     Knowledge of one or more enterprise scheduling 
+
+Cognitive / Mental Requirements
+
+     Communicating with others to exchange information. 
+     Problem-solving and thinking critically. 
+     Completing tasks independently. 
+     Interpreting data. 
+     Making timely decisions in the context of a workflow. 
+     Maintaining focus. 
+     Assessing the accuracy, neatness and thoroughness of the work assigned. 
+     Learning new tasks and completing tasks in situations that have a speed or productivity quota. 
+     Remembering and adhering to processes and protocols. 
+     Applying established protocols in a timely manner. 
+
+Working Conditions And Physical Requirements
+
+     Remaining in a stationary position, often standing or sitting for prolonged periods. 
+     Communicating with others to exchange information. 
+     Repeating motions that may include the wrists, hands, and/or fingers. 
+     Assessing the accuracy, neatness, and thoroughness of the work assigned. 
+     No adverse environmental conditions are expected. 
+     Must be able to provide a dedicated, secure work area. 
+     Must be able to provide high-speed internet access/connectivity and office setup and maintenance. 
+
+ Base compensation ranges from $122,000 to $170,000 per year. Specific offers are determined by various factors, such as experience, education, skills, certifications, and other business needs. This role is eligible for discretionary bonus consideration. 
+
