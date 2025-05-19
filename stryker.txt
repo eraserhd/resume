@@ -1,0 +1,50 @@
+Why join Stryker?
+
+Looking for a place that values your unique talents? Discover Stryker's award-winning culture. We are proud to offer you 12 paid holidays annually. For an overview of our benefits and time off, please follow this link to learn more: US Stryker employee benefits
+Job description
+
+The Senior Principal Software Engineer for Emergency Care will design, develop, test, validate & deploy software components & applications for our best-in-class Emergency Care Treatment and Transport solutions which will be used for saving lives and safely transporting patients from scene to hospital.  
+
+He/she ensures the coherence of proposed developments within complex systems with all the business unit's stakeholders, by mastering and anticipating technical impacts. He/she can technically mentor less experienced profiles in the various software activities required to develop a product and influence the development of other products. 
+
+
+What You Will Do:
+
+    Lead and mentor a high-performing software engineering team in designing scalable and robust software architectures.
+
+    Develop and manage a comprehensive testing framework to support automated test execution and quality assurance.
+
+    Design and implement advanced, reliable embedded software solutions for cutting-edge medical devices.
+
+    Engineer low-level peripheral interfaces to ensure seamless hardware-software integration.
+
+    Maintain deep expertise in the medical technology industry, with a strong focus on regulatory standards and software compliance best practices.
+
+    Oversee project timelines, budgets, and resource planning to ensure on-time, cost-efficient product delivery.
+
+    Communicate proactively with cross-functional stakeholders, providing clear updates on project progress, risks, and strategic opportunities.
+
+    Support post-launch activities, including software updates, enhancements, and ongoing maintenance.
+
+What You Need (Required Qualifications):
+
+    Bachelor's degree in Software Engineering/ Computer Science or related discipline & 10+ years of work experience.
+
+
+Preferred Qualifications:
+
+    Lead systems and portfolio technology choices leveraging programming skills or scripting languages.
+
+    Drive the strategy of integrated development environments (IDE) for projects and the corporation.
+
+    Driving the strategy for static/dynamic analysis, memory management, code coverage and techniques for analyzing software, integration and deployment processes.
+
+    Drive the adoption of Software Development Life Cycle process changes and best practices.
+
+    Provide strategic planning and guidance for project based SDLC decisions.
+
+    Drive the adoption of Application Lifecycle Management /Traceability best practice and tools.
+
+    Drive the estimation techniques for code implementation time/resource for overall projects and portfolios.
+
+Health benefits include: Medical and prescription drug insurance, dental insurance, vision insurance, critical illness insurance, accident insurance, hospital indemnity insurance, personalized healthcare support, wellbeing program and tobacco cessation program. Financial benefits include: Health Savings Account (HSA), Flexible Spending Accounts (FSAs), 401(k) plan, Employee Stock Purchase Plan (ESPP), basic life and AD&D insurance, and short-term disability insurance. Stryker offers innovative products and services in MedSurg, Neurotechnology and Orthopaedics that help improve patient and healthcare outcomes. Alongside its customers around the world, Stryker impacts more than 150 million patients annually. Depending on customer requirements employees and new hires in sales and field roles that require access to customer accounts as a function of the job may be required to obtain various vaccinations as an essential function of their role. 
