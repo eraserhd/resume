@@ -1,0 +1,75 @@
+About the Principal Software Engineer, Backend at Headspace:
+
+At Headspace, you’ll be working on a highly impactful consumer facing product that impacts millions of members globally. Our mission is to transform mental healthcare to improve the health and happiness of people all over the world, so join us to make that happen! As a Principal Engineer, you’ll play a key role in shaping the technical foundation of our platform as we scale to serve millions of users. You will help us bring new features to life to meet our mission, while also helping push our platform to newer technologies as we embrace the cutting edge. A big goal needs talented people, so come join us and give your day job a sense of purpose!
+
+What you will do:
+
+
+    Lead architecture and design of high-scale, low-latency applications that are core to Headspace’s business and member experience. 
+
+    Define long-term technical strategies and implementation paths for complex systems.
+
+    Own and drive engineering excellence across multiple domains or squads. Write high-quality, performant, and testable code — primarily in Typescript — and set the standard for craftsmanship across the organization.
+
+    Shape product and platform evolution by partnering with PMs, EMs, and stakeholders across Product, Data, Security, and Infrastructure to align technical vision with business goals.
+
+    Author technical specs and RFCs that guide not only your product pillar, but the entire company through critical design decisions.
+
+    Take end-to-end ownership of features, from ideation and architecture to monitoring in production.
+
+    Mentor and elevate engineers across levels, helping them scale their impact while promoting inclusive and empowering team dynamics.
+
+    Drive operational excellence by developing resilient systems, implementing observability, and guiding production support practices. Lead efforts to improve system reliability, developer velocity, and cost efficiency.
+
+    Act as a thought leader and multiplier, identifying systemic issues and architecting platform-level solutions with reusability and extensibility in mind.
+
+    Provide a point of escalation for engineering teams facing complex technical challenges.
+
+    Define coding standards, development processes, and best practices to ensure high-quality software development across engineering.
+
+    Stay abreast of emerging technologies, industry trends, and best practices, evaluating their potential application and driving innovation within the software engineering and tech team broadly.
+
+
+What you will bring:
+
+Required Skills:
+
+
+    10+ years of professional software engineering experience, with a proven track record of building and scaling production-grade APIs and distributed backend systems.
+
+    Deep expertise in system design and software architecture, with the ability to decompose complex problems into scalable, maintainable components.
+
+    Extensive experience with Node.js and TypeScript, especially in the context of building high-scale backend services.
+
+    Experience leading the definition, design, and delivery of complex software features in asynchronous and distributed team environments.
+
+    Strong hands-on experience with unit, integration, and end-to-end testing, along with building and maintaining robust CI/CD pipelines for reliable, automated delivery.
+
+    Exceptional communication and collaboration skills—you can influence technical direction, align stakeholders, and clearly articulate trade-offs and decisions to both technical and non-technical audiences.
+
+    Experience mentoring engineers and leading cross-functional technical initiatives across teams.
+
+    Ownership mindset: you thrive in ambiguity, consistently raise the bar, and take accountability for outcomes across teams.
+
+    Comfortable making strategic technical decisions and coaching others through uncertainty, with a pragmatic eye on long-term impact and technical debt.
+
+    Ability to balance technical excellence with product and business priorities, making decisions aligned with company goals.
+
+
+Preferred Skills:
+
+
+    BS/MS degree in Computer Science or related field, or equivalent practical experience.
+
+    Demonstrated success designing and maintaining high-availability systems, with strong observability practices (metrics, logging, alerting).
+
+    Deep knowledge of database design, data modeling, and query performance optimization across both relational and NoSQL systems.
+
+    Familiarity with cloud-native architectures and services (e.g., AWS, GCP, Kubernetes) and modern DevOps practices.
+
+    Track record of improving engineering velocity and reducing tech debt at scale.
+
+    Strong debugging skills and comfort working within complex, distributed systems.
+
+    Demonstrated ability to drive build vs. buy vs. refactor decisions with long-term implications in mind.
+
