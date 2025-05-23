@@ -1,0 +1,56 @@
+Help us build the multimodal data stack for physical AI
+
+At Rerun, we’re building a new multimodal data stack for physical AI. Large parts of the physical-world economy will be transformed by these technologies, and we're building the data infrastructure and tools that enable it to happen. Data volumes grow big quickly with these applications and performance matters everywhere; from micro interactions to high throughput jobs.
+
+With multimodal data stack we mean tools for extraction, ingestion, storage, querying, streaming, and visualization of temporal multimodal data. Rerun’s open source project is already loved by some of the best teams in the world, and focuses on visualizing and handling multimodal logs. You'll join a newly formed team building out Rerun's commercial offering for ingesting, indexing and querying multimodal data at scale.
+What you'll work on
+
+    You will work on a cloud-native analytical database system built for multimodal (often time-series) data.
+
+        The system is built in Rust and makes extensive use of Apache Arrow. It supports specialised queries to handle robotics-style multimodal logs (very sparse and wide tables) and domain specific operators (e.g. related to 3D transforms).
+
+            Note: prior robotics knowledge is not necessary
+
+    You will design, implement and operate the core pieces that make sure this data-intensive system is highly scalable, reliable and observable.
+
+We'd love it if you have
+
+    Experience with async Rust in production
+
+    A deep understanding of all the systems, layers, and abstractions sitting between your code and the hardware, and willingness to move across them.
+
+    Experience building highly scalable data-intensive systems
+
+    Comfort with concepts like query planning, push-down filtering, and query optimisation
+
+    Experience deploying and operating complex systems in the Cloud (AWS/GCP/Azure)
+
+    Great communication skills in English - you'll be working in a tight-nit remote team
+
+    A helpful attitude and a curious mind with an ownership mindset - we're all doing this together!
+
+Nice-To-Haves
+
+    Experience with Apache Arrow and Apache Datafusion
+
+    Experience with GPU workloads
+
+    Interest or experience in relevant domains like machine learning, robotics, AR/VR, or simulation
+
+How we work at Rerun
+
+    We're a remote company headquartered in Stockholm, Sweden.
+
+    We meet up in person for a week roughly once a quarter
+
+    The team you'll join has members in European and US-east timezones
+
+        Everyone is available for synchronous work between 1:30 and 5pm CET
+
+    We've put together an uncommonly talented tech team, value agency and helpfulness highly, and expect everyone to take broad responsibility for what they build
+
+    We offer competitive cash and equity compensation, six weeks paid vacation, and whatever hardware and software you need to do your job
+
+Most of all we hope you're excited to build some really cool technology that will have a real impact on the world with us!
+
+If you find that you don't fit neatly into this or any of the other open roles, we're not that rigid and are generally looking for great developers who can contribute to what we're building. Just go ahead and apply to the one you think is the closest and we'll take it from there!
