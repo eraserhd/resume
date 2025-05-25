@@ -1,0 +1,36 @@
+We’re working with a venture-backed startup that’s rethinking how SQL performance should work at scale. Their product is a drop-in SQL cache that dramatically reduces query latency — no code changes required. It's built for developers who care about speed, efficiency, and simplicity.
+
+
+They’re looking for experienced engineers with a strong background in query optimization to join their small, senior team. You’d be working on challenging problems at the core of their SQL engine — turning complex queries into efficient, maintainable dataflow graphs, and helping build out a truly novel caching layer for modern applications.
+
+
+This is a fully remote role (North America only), with flexible hours and a collaborative, engineering-driven culture.
+
+
+What you’ll be doing:
+
+    Designing and building core components of the query planner and optimizer.
+    Writing production-grade systems code (mostly in Rust).
+    Representing parameterized SQL queries as dataflows and optimizing them for performance.
+    Collaborating with other experienced engineers on architecture, product direction, and design decisions.
+    Balancing research-driven work with practical engineering.
+
+
+What they’re looking for:
+
+    3+ years of hands-on work with SQL query optimization, query planning, or database internals.
+    Strong understanding of relational algebra, compiler concepts, and performance tuning.
+    Comfortable working in systems languages like Rust, C/C++, or Go.
+    Experience with distributed systems, streaming, or caching is a plus.
+    Someone who enjoys working on deep technical challenges and building clean, scalable systems.
+
+
+Why this team?
+
+    You’ll work on real query optimization problems with production impact — not just theoretical research.
+    The engineering culture values autonomy, learning, and real ownership.
+    They offer strong comp, equity, unlimited PTO, and 90 days of parental leave.
+    You’ll join a sharp, low-ego team solving meaningful problems in data infrastructure.
+
+
+📬 If this sounds interesting, feel free to DM or reach out directly — happy to share more about the team and what they’re building.
