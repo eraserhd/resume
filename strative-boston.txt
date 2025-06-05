@@ -1,0 +1,40 @@
+We are currently partnered with a hypergrowth startup who build AI that revolutionizes the process of Edge Hardware Development. They are seeking an experienced software engineer to spearhead the development of cutting-edge AI-driven code generation & transpilation tools. This role focuses on bridging the gap between algorithm design and deployment on embedded systems by leveraging Generative AI, Static Analysis, and Formal Verification techniques.
+
+
+As a Principal Engineer, you will be defining software architecture from Agentic AI pipelines in C++ and Python for code translation products, integrating state-of-the-art AI models with incorporate formal verification & static analysis methods into the code gen pipeline, support w. code repo's and CI processes. 
+
+
+Key Responsibilities:
+
+
+    Design and implement AI-driven code translation pipelines, integrating state machines, message queues, and distributed processing.
+    Develop scalable, well-structured software for robust and extensible code generation solutions.
+    Deploy and manage containerized applications using Docker.
+    Collaborate with domain experts to incorporate formal verification and static analysis into the pipeline.
+    Ensure system reliability by leveraging cloud-based distributed architectures.
+
+
+Required Skills & Experience:
+
+
+    7+ years of professional experience in C++ based enterprise software development.
+    Worked on enterprise level software in production
+    Proven ability to design and implement large-scale software systems from concept to deployment.
+    Strong background in software best practices, including testing, CI/CD, and release management.
+    Proven experience translating customer requirements into architecture and insights
+
+
+Preferred Qualifications:
+
+
+    Experience with Compiler development - experience with Clang, LLVM
+     Experience with advanced software verification techniques like fuzzing and/or formal verification
+    Python experience (Nice to have)
+    Experience with ML Tools and Frameworks
+    Experience working with embedded, heterogeneous (FPGA and/or GPU), and/or distributed system
+
+
+This is an opportunity to work at the forefront of AI-powered software development, contributing to groundbreaking technology that transforms how code is generated and deployed. You will be leading key projects and will report directly to the SVP Engineering & Product.
+
+
+Please apply ASAP for more info.

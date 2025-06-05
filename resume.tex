@@ -69,17 +69,40 @@
 }{%
 }
 \newcounter{skillnumber}
+\definecolor{skill0}{rgb}{0.267004, 0.004874, 0.329415}
+\definecolor{skill1}{rgb}{0.278826, 0.175490, 0.483397}
+\definecolor{skill2}{rgb}{0.172719, 0.448791, 0.557885}
+\definecolor{skill3}{rgb}{0.127568, 0.566949, 0.550556}
+\definecolor{skill4}{rgb}{0.157851, 0.683765, 0.501686}
+\definecolor{skill5}{rgb}{0.369214, 0.788888, 0.382914}
+\definecolor{skill6}{rgb}{0.678489, 0.863742, 0.189503}
+\definecolor{skill7}{rgb}{0.993248, 0.906157, 0.143936}
+\definecolor{skill8}{rgb}{0.993248, 0.906157, 0.143936}
+\definecolor{skill9}{rgb}{0.993248, 0.906157, 0.143936}
+\definecolor{skill10}{rgb}{0.993248, 0.906157, 0.143936}
+\definecolor{skill11}{rgb}{0.993248, 0.906157, 0.143936}
+\definecolor{skill12}{rgb}{0.993248, 0.906157, 0.143936}
+\definecolor{skill13}{rgb}{0.993248, 0.906157, 0.143936}
+\definecolor{skill14}{rgb}{0.993248, 0.906157, 0.143936}
+\definecolor{skill15}{rgb}{0.993248, 0.906157, 0.143936}
 \newcommand{\skillcolor}[1]{
-  \ifcase\value{#1}red%
-  \or cyan%
-  \or green%
-  \or orange%
-  \or blue%
-  \or violet%
-  \or magenta%
-  \or olive%
-  \else grey%
-  \fi%
+  \ifcase\value{#1}skill0%
+  \or skill1%
+  \or skill2%
+  \or skill3%
+  \or skill4%
+  \or skill5%
+  \or skill6%
+  \or skill7%
+  \or skill8%
+  \or skill9%
+  \or skill10%
+  \or skill11%
+  \or skill12%
+  \or skill13%
+  \or skill14%
+  \or skill15%
+\fi%
 }
 \def\skillitems{}
 \def\skillconnections{}
@@ -142,7 +165,10 @@ open source software \\
 }
 
 \headleft{Open Source}
-\href{https://github.com/eraserhd/parinfer-rust}{github.com/parinfer-rust}\tikz[remember picture]\node[] (parinfer-rust) {}; \\[0.5ex]
+%\href{https://github.com/eraserhd/parinfer-rust}{parinfer-rust}\tikz[remember picture]\node[] (parinfer-rust) {}; \\[0.5ex]
+\href{https://github.com/idris-lang/Idris-dev/commits/master/?author=eraserhd}{Idris}\tikz[remember picture]\node[] (idris) {}; \\
+\href{https://www-sop.inria.fr/indes/fp/Bigloo/}{Bigloo}\tikz[remember picture]\node[] (bigloo) {};\\
+\href{https://savannah.nongnu.org/projects/phptools}{phptools}\tikz[remember picture]\node[] (phptools) {};\\
 
 \vfill
 \headleft{Contact}
