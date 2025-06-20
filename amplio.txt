@@ -1,0 +1,40 @@
+At Amplio, we’re making manufacturing more competitive and sustainable. Our clients leverage Amplio’s AI-powered platform to resell their surplus and used equipment, providing it with a second life and preventing it from ending up in landfills. Founded by repeat founders, we are backed by leading VC firms and recently closed a Series A.
+
+We are seeking a talented Full-Stack Engineer to join our founding engineering team. As an early-hire engineer, you will work closely with the founding team to build high-quality software and pioneer our AI-driven initiatives to empower the 700B circular economy.
+
+Why is this position exciting?
+
+This position will have the potential to:
+
+    Make a direct material impact in the success of the company.
+    Own your work, move fast, and break things in a fun, sharp, and collaborative environment.
+    Experiment, learn, and build best practices on how to leverage genAI
+
+Requirements
+Key Responsibilities
+
+    Build software!
+        Develop, maintain, and enhance customer-facing web applications using TypeScript, React, and Next.js in collaboration with designers.
+        Develop and maintain backend services, APIs, and systems to support application features using SQL and best practices in data modeling.
+        Contribute to infrastructure setup, monitoring, and maintenance (e.g., CI/CD pipelines, containerization, telemetry, and cloud deployments).
+    Data Pipelines & genAI Experimentation
+        Design and develop scalable data pipelines, ensuring data is captured, processed, and stored efficiently for AI experiments.
+        Implement data ingestion, validation, transformation, and feature extraction pipelines to support machine learning model development.
+        Design agent networks to automate human tasks
+
+Qualifications
+
+    This job is for you:
+        At least 5 years of professional experience in full-stack development.
+        Proficiency with TypeScript, React, Next.js, and SQL for building scalable web applications, back to front.
+        Advanced understanding of data engineering concepts and willingness to learn more
+        Willingness to learn more about how to integrate genAI into your worklfow
+        You’re self-motivated, comfortable with ambiguity, a great problem solver, and a excellent communicator
+        You welcome feedback and you’re able to express it constructively
+        You don’t take yourself too seriously and enjoy a light-hearted and emotionally mature work environment
+    This job isn’t for you if:
+        You haven’t owned anything from concept to creating value for users
+        You’re not interested in the discovery process and you just want to grab tickets and code
+        Job safety and work-life balance are the only criteria that drive your career decisions
+        You don’t see much value in in-person collaboration
+
