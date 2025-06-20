@@ -1,0 +1,22 @@
+X4 Engineering is proud to be partnering with a fast-growing, ambitious start-up that’s reshaping the future of AI communication.
+
+
+This company is building a universal interface between AI agents and the real world — a platform that allows seamless communication between AI systems and business applications. The result? Businesses can deploy intelligent, production-ready solutions faster and more efficiently than ever before.
+
+
+As part of their continued growth, they’re looking for a Senior Software Engineer with strong experience in Elixir, Phoenix, and LiveView to help build the core of their real-time communication infrastructure. You’ll be working on low-latency services, scalable backend systems, and distributed architectures that drive AI-powered messaging between intelligent agents and enterprise environments.
+
+
+Key Requirements:
+
+    Bachelor’s or Master’s degree in a related field, Engineering, or a similar area.
+    5+ years of production Elixir experience.
+    Strong expertise with Phoenix Framework and Phoenix LiveView.
+    Experience building real-time systems with Phoenix Channels/WebSockets.
+    Solid understanding of OTP principles and distributed systems.
+    Experience with PostgreSQL and Ecto.
+    Track record of building and scaling production APIs.
+    Experience with cloud platforms (AWS, GCP, or Azure) and distributed infrastructure.
+
+
+
