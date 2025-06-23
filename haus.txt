@@ -1,0 +1,52 @@
+Haus is a first of its kind decision science platform for the new digital privacy paradigm where data sharing and PII is restricted. Haus uses frontier causal inference based econometric models to run experiments and help brands understand how the actions they take in marketing, pricing and promotions impact the bottom line. Our team is comprised of former product managers, economists and engineers from Google, Netflix, Amazon and Meta who saw how costly it is to support high-quality decision science tooling and incrementality testing. Our mission is to make this technology available to all businesses, where all the heavy lifting of experiment design, data cleaning, and analysis/insights are taken care of for you. Haus is working with well known brands like FanDuel, Sonos, and Hims & Hers, and has seen more than 30x ROI by running experiments and helping brands make more profitable decisions. We are backed by top VCs like Insight Partners, 01 Advisors, Baseline Ventures, and Haystack.
+
+We're honored that Haus has once again been recognized and has made the list for 2025's exceptional startups!
+
+The Role
+
+This backend role focuses on developing our Science Platform to automate and enhance our core Geolift product and beyond.
+
+Responsibilities
+
+    Drive initiatives from concept to final product delivery, ensuring seamless end-to-end execution: lead or contribute to the design, development, optimization, and productionalization of solutions for complex and high-impact science problems.
+    Demonstrated experience building data systems or data-driven products. Comfortable deep-diving into complex data considerations.
+    Identify, design, and implement internal process improvements using a variety of tools
+    Help build a growing engineering organization as a thought leader
+    Participate in an on-call rotation and debug interconnected systems
+    Own the features you build end-to-end
+
+What You Should Have
+
+    7+ years of experience building scalable systems and APIs
+    Proficient in at least one OOP language: Python, TypeScript, Scala, Golang, Java
+    Comfortable working in a legacy codebase
+    Experience working in a cloud environment
+    Experience with relational databases like SQL
+    Experience as a tech lead a plus
+    Excellent written and verbal communication skills
+    Interest in developing a world-class product
+    Experience with data integrations with third-party sources
+
+Bonus Points
+
+    Early-stage startup experience
+    Experience with data science or ML workflows in a cloud computing environment
+    Experience with optimization techniques, including reinforcement learning (RL), Bayesian methods, and multi-armed bandits.
+    Experience with data science or machine learning approaches in marketing and growth
+    Prior experience building ML infrastructure
+    Experience with Flask or other Python web frameworks
+
+What We Offer
+
+    Competitive salary and startup equity
+    Top of the line health, dental, and vision insurance
+    401k plan
+    Provide you with the tools and resources you need to be productive (new laptop, equipment, you name it)
+    Small team with big impact on the overall output
+
+$190,000 - $240,000 a year
+
+The salary range for this position is expected to be $190,000 - $240,000. Salary ranges are determined by role and level, and within the range individual pay is determined by additional factors including job-related skills, experience, and relevant education or training. Please note that the compensation details listed in this job posting reflect the base salary only, and do not include equity or benefits.
+
+Haus is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, disability status, age, or any other status protected by law.
+

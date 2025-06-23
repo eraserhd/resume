@@ -1,0 +1,33 @@
+Thumbtack is the one app you need to take care of and improve your home — from personalized guidance to AI tools and a best-in-class hiring experience. Every day in every county of the U.S., people turn to Thumbtack to complete urgent repairs, seasonal maintenance and bigger improvements. We help homeowners know which projects to do, when to do them and who to hire from our growing community of 300,000 local service businesses. If making an impact inspires you, join us. Imagine what we’ll build together.
+
+About The Pricing Team
+
+The goal of the Pricing team is to enable marketplace growth through pricing based on supply and demand marketplace dynamics and pro’s willingness to pay. The team builds tools and solutions to monetize various product lines at Thumbtack and communicate them to the pros. The team leverages Thumbtack's marketplace data and develops analytical and statistical models to set the prices and guidelines for all of the above transactions while balancing the pro experience, customer experience, and Thumbtack’s marketplace dynamics.
+
+About The Role
+
+Monetization is key to the growth of any business, and in this role you will focus on bringing Thumbtack’s business model to life. The team is highly interdisciplinary, encompassing engineers with a variety of skill sets including backend engineering, applied science and data science. As a Software Engineer, you’ll collaborate with other engineers in the team, product managers, and business stakeholders to help execute on a broad range of projects. This could include building new product features to improve the experience of our users, architecting software components to support a fast-growing user base to optimize our pricing systems and provide better control to professionals on our platform to profitably grow their businesses.
+
+What You'll Do
+
+    Drive engineering projects to completion, with a tenacious focus on the business impact of those projects. Skilled at prioritizing tasks to deliver on goals with a sense of urgency.
+    Solve tough technical problems and stay up-to-date with the latest advances in this constantly evolving problem space
+    Collaborate with engineers, analysts, data scientists and product managers to identify and improve the Pricing and Budget systems on Thumbtack platform
+    Help maintain the operational stability of Thumbtack’s marketplace and the underlying microservices, and help fix any bugs that may cause deterioration in performance or functionality
+
+In order to be successful, you must bring
+
+    Bachelor’s degree in Computer Science or related field, or equivalent experience
+    5+ years of industry experience in software engineering, working on backend development
+    Strong understanding of data structures and algorithms
+    You’re fluent in at least one major programming language and would be able to switch between multiple languages. In our stack, we use Go, Scala & Python.
+    You have experience building software using databases (e.g. Postgres, DynamoDB, etc.)
+    You can break down complex problems rigorously and understand the tradeoffs necessary to deliver great, impactful products.
+    You’re curious, you’re data-driven, you love to ask questions, and you think critically about problems.
+
+Expected salary ranges
+
+    For candidates living in San Francisco / Bay Area, San Jose, New York City, or Seattle metros, the expected salary range for the role is currently $200,900 - $259,900. 
+    For candidates living in Austin, TX or Washington DC metros or in California, Massachusetts, New Jersey, or Washington states, the expected salary range for the role is currently $180,800 - $234,000. 
+    For candidates living in all other US locations, the expected salary range for this role is currently $170,800 - $221,000.
+
