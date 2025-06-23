@@ -1,0 +1,77 @@
+We’re jumpapp.com! AI For Financial Advisors
+
+If you know Elixir (or would be excited to learn it!) and the following sounds fun to you, please come help us build an awesome product & company!
+
+We have an efficient hiring process that takes about a couple of weeks from when you apply to when you receive an offer!
+
+Here’s all the stuff engineers want to know:
+
+    All Elixir/Phoenix/LiveView with relatively few dependencies
+
+    About 30 integrations with a consistent client interface, all based on Tesla (Finch adapter)
+
+    Consistent patterns across the codebase
+
+    The latest LiveView and LiveView features
+
+    Tailwind for styling, default esbuild for js
+
+    Distributed elixir with libcluster (k8s adapter)
+
+    Liveview tests, wallaby for e2e tests when js is involved
+
+    A super powerful and interconnected admin interface so it’s very easy to debug problems and collaborate
+
+    Great logging and observability with GCP logging, appsignal, Prometheus, grafana, etc
+
+    Github (rebase merge and squash)
+
+    One review is required to merge
+
+    The author has complete responsibility and authority of their code. No gatekeeping. Requires being a good citizen
+
+    We move extremely fast. Many bug fixes and small features every day. A big feature typically started and shipped in a few days.
+
+    Automatic staging environments for every PR
+
+    Seeking founder-minded devs who are self-driven and want to come in, understand the business and customers and take initiative to do the right things
+
+    Hammox for testing. Only a few mocks for the very boundaries of the app (MockHTTP, MockTime, etc)
+
+    We do a ton of cutting-edge stuff with LLMs (OpenAI and Anthropic) and have a robust framework for routing prompts to different models and testing new prompts/models. We use prompt caching, JSON mode, function calling, assistants, etc
+
+    Host our own embeddings with pgvector
+
+    We do some Rust/Rustler stuff, C/NIF stuff
+
+    We use the adapter pattern a lot. It’s really easy to add new integrations.
+
+    Absinthe for GraphQL (for mobile apps)
+
+    All infrastructure is in terraform. Everything. Github, cloudflare, etc. If there’s a provider we use it.
+
+    We’re hosted on GCP, k8s on GKE, all configured in Terraform. No YML.
+
+    Postgres 15 on Cloud SQL. One read replica but we can add more easily.
+
+    SOC 2 with Vanta
+
+    We’re a small and efficient dev team
+
+    We’re growing gangbusters. All revenue-backed, super low churn.
+
+    Raised a $4.6M seed a few months ago
+
+    Health/Dental/Vision insurance
+
+    401k (no match right now)
+
+    Take the time you need PTO (4 weeks-ish, but we don’t keep track)
+
+    $150k-$260k depending on experience
+
+    Based in SLC, Utah
+
+    Fully remote OK. We’d like it if you’d fly in occasionally to get to know you.
+
+
