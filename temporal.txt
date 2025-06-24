@@ -1,0 +1,52 @@
+Temporal is an open source programming model that can simplify code, make applications more reliable, and help developers focus on the important things like delivering features faster. Our amazing user community provides us with real-time feedback and contributions to improve the developer experience everywhere.
+
+Backed by top VC firms, we have built a team of professionals from various successful start-ups and well-known technology companies. Together, we collaborate cross-functionally, engage with and support our users to improve the developer experience, deliver world-class open-source software, and enhance our commercial SaaS platform.
+
+Temporal is growing and working towards building the best community. We are looking for those who share our values, challenge 'standard' thinking, and want to influence our future. If you have a passion for helping developer communities, open-source software, and want to be a part of our amazing team, we'd love to hear from you!
+
+We have an opening to hire a Senior Language Runtime Engineer. Our team makes the Temporal SDKs — our SDKs are the primary mechanism through which our customers use Temporal. This is harder than it sounds. SDKs are not thin clients; they act as runtime environments for application code, contain complex internal logic, and coordinate closely with Temporal Server to provide the durable-execution guarantees our customers require.
+
+Most of our work is open source—see for yourself here: https://github.com/temporalio [new window]
+
+See our SDK team page for more [new window]
+
+What You Will Do
+
+    Take end-to-end ownership of new features, working with others in the SDK and Server teams to deliver exceptional reliability and a great developer experience. 
+    Design and build Temporal SDKs used by customers to work with Temporal in their programming language of choice. 
+    Tightly integrate Temporal SDKs with their respective languages, making best use of type systems and language runtimes, to execute application code in a durable, deterministic way. 
+    Develop features that provide a foundation for the reliable execution of the current wave of agentic AI systems. Be a part of the fundamentals, instead of a part of the trend!
+    Work directly with our community to debug issues that need expert attention, and get feedback on Temporal SDK features and APIs. 
+    Write publicly-readable technical documentation describing Temporal concepts and APIs. 
+    Go the extra mile to support a customer in need, on the rare occasion that SDK engineering expertise is needed. 
+    Travel to meet your coworkers for a week once or twice a year. 
+    Attend the occasional developer conference to talk about how great Temporal is (optional). 
+
+What You Won’t Do
+
+    Work in an office (unless you want to, but you’d be by yourself). Temporal is a fully-remote company. 
+    Commit code that’s poorly-tested or works “most of the time”. Temporal aspires to be “Reliable as Gravity”, and we expect your code to be the same. 
+    Overwork yourself to meet a deadline. Instead of crunch time, we cut scope. 
+    Work behind closed doors. The SDKs are open source—that means PRs and comments are open to the public, too. 
+    Sit in meetings all day. We mostly communicate in writing, and use meetings mainly for status updates and thorny issues that need input from the whole group. 
+    Wake up to pager alerts. We’re extremely active in supporting our customers and the community, but we don’t do 24/7 on-call. 
+
+What You’ll Bring
+
+    BS or MS in Computer Science (or a closely-related degree), or equivalent work experience writing production-grade software. 
+    Fluency in multiple programming languages, and an affinity for learning new ones. We don’t care which, but you should know at least two, and love learning new ones. 
+    Deep experience with concurrent programming—you should know how to use mutexes, atomics, and other concurrency primitives safely. 
+    Deep experience with distributed systems—you should know what to do when you can’t rely on mutexes and atomics. 
+    Experience designing APIs and writing documentation for publicly-available libraries or modules. 
+    A methodical, detail-oriented approach to your work. 
+    Strong technical communication skills—written and verbal—in English. 
+    A deep sense of ownership and personal accountability—you care about the impact of your work, and if something goes wrong, you take responsibility for making it right. 
+    A proactive approach to managing your work—you’ll need to balance working autonomously vs. working closely with others, and recognize when you need help. 
+
+Nice to Have
+
+    Familiarity with Temporal’s programming model (e.g. you’ve written an app on Temporal). 
+    Experience writing in Go, Java, Python, .NET, TypeScript, Ruby and/or Rust. 
+    Experience contributing to open source projects. 
+    Experience contributing to the architecture and design of large-scale distributed systems. 
+    Deep knowledge of language runtimes. 
