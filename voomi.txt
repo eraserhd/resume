@@ -1,0 +1,73 @@
+ho We Are: Voomi is a fast-growing eCommerce distributor in the HVAC, electrical, plumbing and industrial supplies space, uniquely positioned as an early mover. Our team is driving the transformation of how HVAC professionals, contractors, and DIYers source products by offering a vast catalog of over 300,000 products and a streamlined online experience. We’re at the forefront of an industry primed for digital disruption, backed by a team with deep experience in retail, eCommerce, and technology. Join Voomi and be part of a company that’s scaling fast, with significant growth potential, a collaborative environment, and a focus on innovation.
+
+Position Overview: We are seeking a Lead Engineering Architect to help shape the technical foundation of Voomi’s platform with a focus on scalability, automation and operational efficiency. This role involves collaborating closely with cross-functional teams, leveraging cloud-based services and AI-driven solutions to shape a robust and future-ready technology stack. The ideal candidate will be a hands-on leader who thrives in a fast-paced environment and is passionate about delivering high-impact technology solutions.
+
+Key Responsibilities:
+
+    Architectural Leadership:
+
+        Design and implement a scalable, modular microservices architecture.
+
+        Transition legacy monolithic systems to cloud-native, event-driven solutions .
+
+        Establish high-availability infrastructure with real-time data synchronization across multiple marketplaces and suppliers .
+
+    Data Platform Development:
+
+        Architect and optimize ETL pipelines for ingesting, cleansing, and deduplicating millions of SKUs from diverse supplier feeds (CSV, FTP, API) .
+
+        Implement AI/ML algorithms for product deduplication, attribute enrichment, and content generation .
+
+    Marketplaces & Fulfillment Integration:
+
+        Develop APIs and integration layers for seamless synchronization with Amazon, eBay, Shopify, and other external platforms .
+
+        Automate inventory and order management workflows, ensuring real-time updates across channels .
+
+    Innovation and AI Utilization:
+
+        Develop and deploy AI/ML solutions for critical use cases such as product deduplication, predictive analytics, and recommendation engines.
+
+        Leverage NLP to enhance data categorization, content generation, and search optimization across the platform.
+
+        Drive innovation by identifying opportunities to apply AI and automation to improve scalability and business efficiency.
+
+    Collaboration and Mentorship:
+
+        Collaborate with product managers, operations leaders, and business stakeholders to define and deliver technical solutions that align with company objectives.
+
+        Mentor and guide engineers across the organization, fostering a culture of learning, innovation, and excellence.
+
+        Define and promote best practices in security, performance optimization, and continuous integration/delivery (CI/CD).
+
+Qualifications:
+
+    Technical Expertise:
+
+        8+ years of software engineering experience with a strong focus on cloud-native architecture (AWS, GCP, or Azure) .
+
+        Proven experience in designing and implementing microservices-based architecture at scale.
+
+        Expertise in building data platforms, including ETL/ELT pipelines, data cleansing, and real-time data synchronization.
+
+        Hands-on experience with modern AI/ML solutions, including predictive modeling, data deduplication, and NLP.
+
+        Familiarity with modern software design principles, including API-first architecture, event-driven systems, and distributed computing.
+
+    Retail and Marketplaces Knowledge:
+
+        Familiarity with product catalog management, dynamic pricing, and multi-channel order fulfillment .
+
+        Experience integrating with third-party marketplaces and logistics providers .
+
+    Leadership and Strategy:
+
+        Ability to set a technology blueprint and architecture aligned with business goals.
+
+        Strong problem-solving skills with a focus on continuous improvement and innovation.
+
+    Education:
+
+        Bachelor’s degree in Computer Science, Engineering, or a related field (or equivalent experience).
+
+Voomi Supply is an equal opportunity employer and values diversity in the workplace. We do not discriminate based on race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, veteran status, or any other protected characteristic under applicable federal, state, or local laws. We are committed to providing an inclusive and welcoming environment for all employees.

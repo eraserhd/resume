@@ -1,0 +1,46 @@
+StrongDM is driven by a clear mission: Secure Access, Zero Trust.
+
+We design products and solutions that reflect this commitment, transforming the way organizations manage privileged access across their critical infrastructure. By leading with Zero Trust Privileged Access Management (PAM), we help our customers achieve secure, dynamic, and fine-grained control over access to their most sensitive resources. This focus on security has earned us an industry-leading 98% customer retention rate.
+
+Once a customer, forever a fan. That's our goal.
+
+When you work at StrongDM, you join a team committed to solving today’s security challenges with technology that works and customers who trust us to protect their most critical assets.
+
+If you ask anyone at StrongDM, you’ll find that our values truly guide everything we do—from how we innovate to how we treat each other. These values are the foundation of our culture and define who we are as a company. It may sound cliché, but we’re onto something great—and G2 agrees.
+
+We embrace the mission
+
+We pursue mastery
+
+We win together
+
+These are the principles we embody as an organization. They influence how we work as individuals and teams, and what we look for in candidates who join us. We’re glad you’re here! If this sounds like an environment where you’d thrive, read on.
+
+We build... ...secure, high-throughput networking systems in Go. If you enjoy writing code that is parsimonious, correct, yet featureful - you will enjoy coding with us! If you enjoy shipping a product that is appreciated by a growing population of happy, paying customers every day - you will enjoy shipping with us!
+
+We're a distributed, but close-knit team. We have high standards and high levels of respect for each other and our customers.
+
+What You'll Do:
+
+    Design and implementation of highly concurrent, scalable and high-performance distributed systems in Go.
+    Design and implementation of secure networking protocols, routing, real-time permissions and auditing systems, APIs & SDKs.
+
+Requirements:
+
+    10+ years of developing distributed systems in a cloud environment (Azure, AWS, or GCP) serving enterprise customers.
+    Systems background with fundamentals in operating systems, distributed systems, networking and databases.
+    Affinity for lower-level/systems programming e.g. threading, concurrency.
+    Expert command of Go, Rust, C, C++ or a similar programming language.
+
+Compensation:
+
+    $190,000-$280,000 DOE + equity salary packages
+    Company-sponsored benefits, including:
+    Medical, dental, and vision insurance (free to employees and dependents)
+    401K, HSA, FSA, short/long-term disability coverage, life insurance
+    6 weeks of combined accrued vacation + sick time 
+    Volunteer days + standard holidays
+    24 weeks paid parental leave for everyone + 1 month transition time back + childcare stipend for first year
+    Generous monthly and annual stipend for internet + home office
+
+$190,000 - $280,000 a year
