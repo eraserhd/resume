@@ -1,0 +1,24 @@
+Role: Clojure Software developer
+Location: Remote
+Duration: Contract
+
+Job Description:
+Required Qualifications:
+
+    3+ years of progressive Clojure software development experience 
+    5+ years of progressive software application development experience 
+    2+ years of experience working across a large codebase with responsibility for upstream and downstream system interactions and dependencies. 
+    Proven ability to work in a fast-paced environment while maintaining adherence to standards and best practices. 
+    Proven ability to solve difficult data integrity challenges, such as those encountered with message queues, multiple databases, or network file transfers. 
+    Proven ability to adopt new technologies quickly. 
+
+
+Preferred Qualifications:
+
+    Experience with RabbitMQ or other queueing systems. 
+    Experience with Mark Logic, Datomic, or document databases. 
+    Experience with Common Lisp 
+    Familiarity with Linux command-line tools such as grep, awk, sed, and Perl 
+    Experience leading small project team. 
+    Experience with XSLT 
+    Experience with Git

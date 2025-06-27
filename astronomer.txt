@@ -1,0 +1,35 @@
+Astronomer empowers data teams to bring mission-critical software, analytics, and AI to life and is the company behind Astro, the industry-leading unified DataOps platform powered by Apache Airflow®. Astro accelerates building reliable data products that unlock insights, unleash AI value, and powers data-driven applications. Trusted by more than 700 of the world's leading enterprises, Astronomer lets businesses do more with their data. To learn more, visit www.astronomer.io.
+
+Your background may be unconventional; as long as you have the essential qualifications, we encourage you to apply. While having "bonus" qualifications makes for a strong candidate, Astronomer values diverse experiences. Many of us at Astronomer haven't followed traditional career paths, and we welcome it if yours hasn't either.
+
+About This Role
+
+At Astronomer, we’re redefining how companies run Apache Airflow at scale. Our R&D organization is home to some of the most innovative minds in cloud infrastructure and open-source software. We’re looking for a Software Engineer or Senior Software Engineer to join our Airflow Infra team, part of Astro, our flagship cloud platform. This isn’t just another backend role. You’ll be building the critical layer that connects the open-source Airflow ecosystem to enterprise-grade, massively scalable cloud infrastructure. Your work will directly influence how global organizations orchestrate data pipelines at scale—making them faster, more reliable, and easier to manage. If you’re driven by impact, excited by scale, and ready to work on the kind of infrastructure challenges that push the boundaries of what’s possible in cloud-native systems, this is the opportunity you’ve been waiting for.
+
+What You Get To Do
+
+    Write high quality, well tested code to meet the needs of customers.
+    Collaborate with other engineers (both in the team and in other teams) product owners, and engineering managers to achieve business goals.
+    Regularly engage in code reviews for other engineers on the team.
+    Participate in efforts to solve incidents.
+    Become the subject matter expert for one or more projects and technologies owned by the team driving efforts towards platform reliability, proactively addressing issues, making necessary trade-offs, and ensuring continuous progress.
+    Create and maintain comprehensive internal documentation for systems and processes, ensuring clarity and accessibility.
+    Participate in on-call rotation.
+
+What You Bring To The Role
+
+    Strong proficiency in Python, Golang and experience with Kubernetes.
+    Solid understanding of and experience integrating with RESTful APIs.
+    Thorough understanding and experience with testing frameworks, such as pytest.
+    Strong communication skills, both written and verbal, with experience in creating technical specifications.
+    A passion for reliability and operational excellence.
+    Ability to estimate the scope of work accurately and coordinate with engineering managers to address risks and ensure successful project delivery.
+    Experience with software development best practices, such as code reviews, testing, CI/CD, version control, automation and debugging.
+    Ability to adjust to change and rapid pace of development.
+    Ability to manage individual project priorities and deadlines.
+    Proactive approach to identifying and addressing issues, with a focus on ownership and accountability.
+
+Bonus Points If You Have
+
+    Experience with Apache Airflow.
+    Experience working on a SaaS product.
