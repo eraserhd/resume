@@ -1,0 +1,40 @@
+Gusto is a modern, online people platform that helps small businesses take care of their teams. On top of full-service payroll, Gusto offers health insurance, 401(k)s, expert HR, and team management tools. Today, Gusto offices in Denver, San Francisco, and New York serve more than 400,000 businesses nationwide.
+
+Our mission is to create a world where work empowers a better life, and it starts right here at Gusto. That’s why we’re committed to building a collaborative and inclusive workplace, both physically and virtually. Learn more about our Total Rewards philosophy.
+
+About The Role
+
+As the Principal Engineer for the Contractors team, you will play a pivotal role in shaping the future of Gusto’s flagship Payroll product—one of the core pillars of our platform. You will design, build, and scale the capabilities that power essential experiences for our customers. Working collaboratively with product managers, designers, and other engineers, you will deliver impactful features that meet customer needs and elevate user experiences.
+
+As a Gusto Engineer at this level, you’ll guide projects end-to-end—shaping initial feature specifications, driving architectural decisions to bring systems closer to their desired end states, executing on complex initiatives, and maintaining code that powers mission-critical functionality. Beyond technical contributions, you’ll help define and contribute to the broader strategy of how Gusto continues to build and scale its Payroll product.
+
+If you’re excited about solving complex, high-impact problems and want to contribute to a product that touches the lives of millions, we’d love to have you on board!
+
+About The Team
+
+Payroll serves as Gusto's core product, used by each of our 300,000+ customers and contributing significantly to our annual recurring revenue of over $500,000,000. Although we hold the leading market position for SMBs in the US, the market remains highly fragmented, with an estimated 90% still in need of a superior solution.
+
+The Contractors team empowers businesses to onboard and pay contractors in 120+ countries with ease and speed. This includes critical functionalities such as payroll setup, preparation, and submission, historical reporting, time tracking, and shift scheduling. As a key member of this team, you’ll have the opportunity to make a profound impact on both the product and the customers who depend on it daily.
+
+Here’s What You’ll Do Day-to-day
+
+    Architect, build, and maintain scalable, secure, and resilient backend systems to support Gusto’s Payroll products. 
+    Function as a Technical Lead across multiple teams in Pay Group, helping us keep engineers unblocked and deliver high-quality work supporting our long-term goals
+    Help scale one of the largest Ruby/Rails and TypeScript/React applications in the world.
+    Collaborate on complex and ambiguous problems with partnerships from Engineering, Product Management, Design, Data Science, Compliance, Operations, and other cross-functional teams.
+    Mentor and grow fellow engineers working to create holistic and scalable solutions.
+    Drive the product development process from concept to launch, delivering delightful products that make payroll, taxes, and compliance simple and easy.
+    Engage in a highly supportive environment,t working with others to drive productivity and innovation.
+    Continuously stay up-to-date with backend technologies and methodologies, advancements in AI and Machine Learning, and apply this knowledge to our projects.
+
+Here’s What We're Looking For
+
+    15+ years of professional software development experience
+    Experience in scaling Engineering organizations with a focus on individual and team development
+    Experience building and maintaining resilient backend systems to support customer-facing products.
+    Experience in highly cross-functional environments for highly complex products
+    Experience as tech lead, overseeing projects across multiple teams
+    Experience in optimizing existing systems for performance, reliability, and scalability.
+    Experience developing and maintaining RESTful APIs, GraphQL endpoints, and backend services, ensuring seamless integration with frontend systems and third-party services.
+    Ability to communicate technical complexity and help facilitate informed tradeoffs
+    Enthusiasm for a collaborative, test-driven environment
