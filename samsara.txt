@@ -1,0 +1,34 @@
+The Smart Trailer and Connected Equipment business unit is one of the fastest growing product lines at Samsara. We focus on solutions that help our customers manage their trailers and other unpowered equipment. As a full stack engineer on the Smart Trailer and Connected Equipment team, you will deliver end to end solutions like tracking utilization of equipment, using sensors to monitor loads and temperature and asset tracking solutions that provide a complete picture of where a customer’s assets are deployed.
+
+This role is remote and open to candidates residing in the US.
+
+You should apply if:
+
+
+    You want to impact the industries that run our world: The software, firmware, and hardware you build will result in real-world impact—helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.
+    You want to build for scale: With over 2.3 million IoT devices deployed to our global customers, you will work on a range of new and mature technologies driving scalable innovation for customers across industries driving the world's physical operations.
+    You are a life-long learner: We have ambitious goals. Every Samsarian has a growth mindset as we work with a wide range of technologies, challenges, and customers that push us to learn on the go.
+    You believe customers are more than a number: Samsara engineers enjoy a rare closeness to the end user and you will have the opportunity to participate in customer interviews, collaborate with customer success and product managers, and use metrics to ensure our work is translating into better customer outcomes.
+    You are a team player: Working on our Samsara Engineering teams requires a mix of independent effort and collaboration. Motivated by our mission, we’re all racing toward our connected operations vision, and we intend to win—together.
+
+
+In this role, you will:
+
+
+    Bring a customer-focused mindset to all development, balancing the need to iterate quickly and deliver customer wins iteratively
+    Partner with the Engineering Manager to advocate for long-term technical health of our products alongside the product priorities.
+    Act as a force multiplier on the team by leveraging other engineers and personally exemplify how to deliver value at Samsara
+    Mentor other engineers by actively participating in design and implementation conversations across the team
+    Champion, role model, and embed Samsara’s cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally and across new offices.
+
+
+Minimum requirements for the role:
+
+
+    Bachelor's Degree in Computer Science/Engineering or equivalent practical experience.
+    12+ years of experience in software design, development, and algorithm related solutions with at least 4 of those years in an architect or leadership role
+    Demonstrated ability to ship production-quality software in a dynamic environment
+    Expertise working with web services at massive scale deployed on Cloud providers such as AWS or Azure
+    Is an expert in writing high quality, performant and maintainable code in a modern programming language
+    Excellent communication, collaboration, and problem-solving skills, with a demonstrated ability to manage technical discussions.
+
