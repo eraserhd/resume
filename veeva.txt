@@ -1,0 +1,47 @@
+ About the job
+
+As a pioneer in industry cloud and one of the fastest-growing enterprise SaaS companies (surpassing $2B in revenue last year), Veeva is on a mission to help life sciences companies accelerate the delivery of life-saving therapies to patients. We're a public benefit corporation (PBC) committed to balancing the interests of our customers, employees, society, and investors, offering a unique opportunity to build impactful solutions that directly contribute to global health.
+
+The Opportunity: As a Principal Software Engineer at Veeva, you will develop and guide the creation of highly scalable and maintainable enterprise applications that empower our customers to operate more efficiently and safely. Your leadership will be instrumental in shaping our technology. You'll mentor and elevate engineers, drive critical technical decisions, and consistently deliver high-quality code that propels our technology forward.
+
+Thrive in our Work Anywhere Environment: We empower you to work from where you thrive – whether that's from home or in the office within Canada or the US – ensuring seamless collaboration within your team's time zone.
+
+Join Veeva and be a pivotal part of transforming the life sciences industry, making a tangible impact on global health.
+
+What You'll Do
+
+    Full Feature Ownership: Own all stages of feature implementation, from design and development through deployment, production support, and maintenance. Daily code contribution.
+    Drive Solutions: Collaborate with Product Management and Development on technical design and problem-solving to deliver great code.
+    Rapid Problem Solving: Quickly analyze complex problems, identifying knowns and unknowns, to accelerate the path to robust solutions.
+    Develop Best Practices: Define, promote, and mentor on engineering best practices and coding standards.
+    Expert Code Review: Provide comprehensive code reviews for engineers of all experience levels.
+    Strategic Mentorship: Develop the skills of engineering talent through structured mentorship.
+
+Requirements
+
+    Seasoned Software Engineer: 12+ years of proven software development expertise (Java development required).
+    Enterprise SaaS Leader: Extensive experience developing high-scale enterprise SaaS cloud applications.
+    Scalability Expert: Proven track record of architecting and building high-volume products at scale.
+    Open Source Proficiency: Hands-on development experience with current open-source tools and technologies, including Java, Spring, MySQL, Gradle, Git, Jenkins, AspectJ, Messaging, and Solr/Lucene.
+    Fast-Paced Adaptability: Highly driven and flexible, enjoys a fast-paced start-up environment, and believes in having fun along the way.
+    Mentorship: Proven ability to mentor and elevate team performance, fostering growth and excellence.
+    Applicants must have the unrestricted right to work in the United States. Veeva will not provide sponsorship at this time
+
+Learn More
+
+    Engineer Perspective: 3 Reasons to Consider Veeva
+    Engineering at Veeva
+
+Perks & Benefits
+
+    Medical, dental, vision, and basic life insurance
+    Flexible PTO and company paid holidays
+    Retirement programs
+    1% charitable giving program
+
+Compensation
+
+    Base pay: $150,000 - $300,000
+    The salary range listed here has been provided to comply with local regulations and represents a potential base salary range for this role. Please note that actual salaries may vary within the range above or below, depending on experience and location. We look at compensation for each individual and base our offer on your unique qualifications, experience, and expected contributions. This position may also be eligible for other types of compensation in addition to base salary, such as variable bonus and/or stock bonus.
+
+

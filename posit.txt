@@ -1,0 +1,33 @@
+Posit is seeking a principal software engineer with deep expertise in performance and scalability to lead a strategic function for our professional products. Your primary task will be to help development teams and thousands of customers by creating tools that define and measure performance across Posit's entire product suite. Posit produces a family of on-premise and cloud-based software products for data science, scientific research, and technical communication, so your work has the potential to improve the user experience of scientists around the world.
+
+You will head the development of a new, open-source benchmarking tool specific to Posit that builds upon existing tests and frameworks. It will establish standards for both our internal teams and our global user base. You will also be the organization's leading expert and advocate on performance, translating complex metrics into impact and cultivating a "performance-first" mindset throughout our engineering culture.
+
+What You'll Own
+
+    Design, build, and champion a reusable, open-source benchmarking tool. This tool will be a cornerstone of our performance strategy, providing a consistent and extensible platform for both internal engineering teams and customers.. 
+    Establish the performance and load baselines for our professional products. You will work with teams to understand their existing performance tests and use this along with the benchmarking tool to determine what good looks like.
+    Develop and maintain dashboards for internal visibility on performance. Using the tools and tests, you will maintain a centralized dashboard for tracking.
+    Cultivate a "performance-first" mindset across our engineering organization. You will be a key teacher and mentor, elevating the knowledge of our development teams.
+
+What You’ll Collaborate On
+
+    Work with product and engineering leaders to embed performance into our roadmaps.
+    Meet with customers to explain how they can best use our products and listen to what they need.
+
+What You’ll Learn
+
+    Posit products and how their data science customers use them.
+    Any languages and technology we use, for the portions you don't know already.
+    Practical data science using R and Python (don’t worry- you don’t need that when you start).
+
+About You
+
+    You have at least 8+ years of experience in software development, with a proven track record of building developer tools, testing frameworks, observability platforms, or other high-leverage, systems-level software.
+    You have a strong, fundamental understanding of Linux systems, Kubernetes, and how software performance is impacted by underlying compute, storage, and networking infrastructure. 
+    You possess a deep and practical understanding of performance analysis, load testing methodologies, and scalability engineering for complex distributed systems.
+    You are proficient in at least one modern programming language (e.g., Go, Python, Rust, C++) and are enthusiastic about learning the languages and technologies used across the Posit ecosystem. 
+    You are curious and excited about exploring AI technologies, including how LLMs might be leveraged in the development of the new benchmarking tool
+    You are an exceptional communicator and mentor who finds satisfaction in helping other engineers learn and succeed.
+    You are user-focused, pragmatic, and deliberate in your approach to problem-solving, with a keen sense of empathy for both your coworkers and the users we serve. 
+    You are driven by our mission to facilitate science and education for everyone and appreciate the unique values of working for a Public Benefit Corporation. 
+
