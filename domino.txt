@@ -1,0 +1,27 @@
+The Compute team at Domino is enabling customers to perform data-science activities across a range of hybrid/on-prem/cloud architectures. The team drives Domino’s Nexus offering and continues to establish standards within Domino’s Platform Engineering organization for improved workload execution, security and scalability.
+
+What Your Impact Will Be
+
+In your first year, you will
+
+    Contribute to current Nexus architecture initiatives and milestones
+    Work with the engineering teams to review, prioritize and plan for architectural improvements outside of Nexus.
+    Drive standards for the “operator pattern” and service architecture to ensure other engineering teams are considering and implementing maintainable patterns.
+    Work with Scale team to analyze and provide recommendations based on scale requirements of the Domino platform
+
+What We Look For In This Role
+
+    8+ years previously in a software engineering individual contributor role
+    Strong knowledge of one or more programming languages, such as Scala, Java, Kotlin, Go, C/C++, C#
+    Experience in design and development of large scale distributed systems
+    Strong understanding of data structures, algorithms, and software design principles
+    Excellent problem-solving and communication skills
+
+What We Value
+
+    We value a growth mindset. High-performing creative individuals who dig into problems and see the opportunities for success
+    We believe in individuals who seek truth and speak the truth and can be their whole selves at work
+    We value all of you that believe improving is always possible At Domino Everything is a work in progress – we can do better at everything
+    We emphasize an environment of teaching and learning to equip employees with the tools needed to be successful in their function and the company
+    We strongly believe in the value of growing a diverse team and encourage people of all backgrounds, genders, ethnicities, abilities, and sexual orientations to apply
+
