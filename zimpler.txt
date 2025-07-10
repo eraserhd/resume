@@ -1,0 +1,25 @@
+We are an innovative Swedish fintech startup specializing in Account-to-Account (A2A) payment solutions, revolutionizing how businesses and customers transact seamlessly. Our mission is to create a secure, compliant, and efficient payment ecosystem. Join us and be part of a high-impact team focused on operational excellence, efficiency, and cutting-edge financial technology.
+
+As a Full Stack Engineer with a backend focus, you’ll join our End-user Success LatAm team to build and maintain our core product offering. Your responsibilities will be to build and maintain the backend of our core platform which is written mostly in Go, with integrations towards banks and other service providers, internal microservices and more. You’ll get the chance to work on our frontends as well, which are built in React and TypeScript. At Zimpler we take quality seriously, so you’ll also be expected to monitor our systems as well, and take swift action if something happens.
+
+Key Responsibilities:
+
+    Develop and maintain integrations towards banks and other service providers.
+    Occasionally work on the frontend, with the possibility to dive deeper into that part of the stack if the need arises.
+    Monitor our systems health and performance with tools such as Datadog, making sure that the platform is as robust as possible.
+    Continuously identify opportunities for improvements on our core services and act on them.
+    Take part in Product Development, from idea to production.
+
+Tech Stack:
+
+Backend: Go, AWS, Kubernetes
+Frontend: React, TypeScript
+
+What You Bring:
+
+    B.Sc in Computer Science or equivalent
+    Experience in backend development, ideally in Go but other similar languages are also fine. If you lack experience with Go then you’re expected to learn it quickly.
+    Knowledge of front-end development using React and TypeScript
+    Proven skills in software development
+    Hands-on cloud experience is meriting
+    Familiarity with compliance and security in financial operations is a big plus

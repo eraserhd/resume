@@ -1,0 +1,72 @@
+Who We Are 
+
+At 8th Light, we bring life to the best ideas.
+
+Founded in 2006 and headquartered in Chicago, we are a technology solutions provider that partners with organizations to solve meaningful challenges and drive sustainable growth. From early-stage startups to global enterprises, we work across industries to optimize our clients’ digital products through product strategy innovation, experiential design, AI solutions, and deep engineering expertise. 
+
+Our commitment to quality means we deliver solutions we’re truly proud of, while our curiosity sparks innovation and breakthrough thinking. 8th Lights thrive in an environment that champions continuous education, fueling our growth through mentorship and hands-on work. We foster an open, collaborative culture grounded in honesty that builds trust, and believe true success is measured by the outcomes we create for our clients.
+
+If this kind of work and our kind of people energizes you, you’ve found the right place. 
+Who You Are
+
+You’ve shown long-term repeated success on a variety of projects, typically over the course of 10+ years. You can be the go-to leader for any software development engagement. You have a broad and deep range of expertise that allows you to make an immediate impact on projects. In your previous experience, you have:
+
+    Successfully led high-stakes consulting engagements from discovery to production 
+    Built high-quality, maintainable software collaboratively, incrementally, and through an approach tailored towards the unique needs of the clients you’ve served 
+    Written production-quality code in the following languages: Python, Java, Javascript, and React
+    Leveraged AI-assistive development tools for tasks like scaffolding, refactoring, debugging, test generation, and documentation
+    Experience building or integrating AI/ML-powered features into products or systems (e.g., recommendation engines, NLP models, computer vision, predictive analytics) 
+    Used context-appropriate automated testing to inform software design choices and catch bugs
+    Debugged and refactored pre-existing code to incrementally improve it
+    Collaborated with teams using Git, MacOS/Linux, and CI/CD
+    Remedied architecture-level concerns such as scalability, security, reliability, and performance
+    Brought together people from different functions and perspectives in forums that encourage idea sharing, collaboration, and problem solving
+    Made thoughtful recommendations and set direction in the face of ambiguity
+    Mentored and shared knowledge with colleagues
+    Actively sought out and effectively given feedback
+    Communicated empathically with stakeholders and colleagues
+    Collaboratively led stakeholders to balance technical considerations with product and user needs
+
+What You’ll Do At 8th Light
+
+As a lead technologist on projects, you’ll work with a variety of clients, typically one to two in a year, through a variety of technologies and frameworks over the course of your career with us. You’ll lead more complicated projects, leading teams to do so. You’ll work with colleagues who share your passion for technology solutions. You’ll invest time developing your skills and sharing what you know. You’ll be responsible for:
+
+    Making immediate contributions to projects, rapidly building trust with clients
+    Working pragmatically to balance technology choices while delivering high-quality work within deadlines
+    Leading architecture and software design discussions
+    Collaborating on systems that involve the full ML lifecycle from data ingestion and preprocessing, to model deployment, integration, and performance monitoring
+    Generating new potential solutions to challenges (technical and non-technical) in partnership with team members and clients
+    Leading or initiating formal feedback conversations with teams and clients via retrospectives
+    Clearly articulating and documenting outcomes and driving forward action items
+    Contributing to the health of your team and 8th Light’s culture by modeling our Values
+    Ensuring your team has a healthy, prioritized, estimated backlog
+    Managing high-level project roadmaps as the team lead for large engagements
+    Maintaining relationships with client technical leaders
+    Regular syncs with the client to provide status updates, and for identifying and evaluating risks and presenting potential solutions
+    Identifying, mitigating, and resolving blockers to team progress
+    Contributing to 8th Light by serving as a mentor, leading or designing workshops internally or for clients, representing 8th Light in the tech community, or supporting our hiring processes
+
+Strongly Preferred Skills
+
+We work across many areas, and encourage anyone with the experience listed above to apply. We would particularly like to encourage applicants with experience in the following areas:
+
+    DevSecOps & DevOps
+    MLOps
+    Infrastructure as Code
+    Data Engineering
+
+Building a truly diverse, equitable, and inclusive workplace is an ongoing journey, and we’re excited to keep learning and growing together. We have a proud tradition of hiring talented colleagues with real-world career experiences. 
+How You’ll be Supported
+
+At 8th Light, we believe our people are our greatest asset. Their growth, well-being, and success shape our future. 
+
+Our wellness package is designed with the Whole YOU in mind and includes:
+
+    A robust L&D program with a learning budget and in-person learning opportunities
+    Coworking support for our global team
+    Flexible PTO 
+    Wellness days
+    12 weeks of new parent leave available for eligible employees
+    Transparent semi-annual promotion panel
+
+See our full list of Benefits. 
