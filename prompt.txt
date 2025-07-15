@@ -23,6 +23,6 @@ I'd like you to extract between 3 and 8 "relevant skills" from the following job
 ** `}{}` -- note the lack of spaces between these curly braces.
 * Avoid unnecessary words.  Use short phrasing (to avoid word wrapping in the final document).
 
-Here is the job description:
 
+Here is the job description:
 

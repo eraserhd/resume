@@ -1,0 +1,49 @@
+We're on a mission to revolutionize the CAD industry by developing the world's most advanced hardware design infrastructure and tools. Mechanical CAD is in the dark ages, and hardware demands have outpaced today's hardware design infrastructure. The industry is due for a refresh, and we're laying the foundation for a modern hardware design toolkit so that you can create new design tools never before possible.
+
+We are headquartered in Los Angeles, CA with both a local and remote team. We were founded and incubated by Embedded Ventures in 2021.
+
+About You
+
+We're looking for curious, innovative, and ambitious self-starters to join our lean and growing team to help us bring our mission to life. We think you'll thrive on our team if you're:
+
+    Curious at your core, with an eagerness to learn and do things differently
+    Customer-focused, always thinking about ways to improve the user experience
+    Able to operate autonomously and work asynchronously, while also being an effective team player 
+
+About The Role
+
+We're looking for a Software Engineer to help design and implement our own file format. Most CAD and graphics file formats are lossy in one way or another and we aim to create the file format for modern learning about previous file formats, their problems, edge cases, reverse engineering undocumented file formats, and finding and solving undocumented behaviors. We are a small startup so there are lots of opportunities to add a lot of value and design systems that will scale with the company in the future.
+
+What You'll Do
+
+    Help design, develop, optimize, and debug our intermediate file format
+    Implement conversions to and from existing file formats
+    Develop import and export capabilities from our CAD engine
+    Reverse engineer and implement conversions for undocumented file formats
+    Debug and optimize performance issues related to file import and export in our systems
+    Document functionality and implementation details for production and other engineers
+    Improve code quality and test coverage
+
+What You'll Need 
+
+    Bachelor's degree or equivalent experience in Computer Science, Mathematics, or a related field
+    Proficiency writing software in Rust, modern C++, or a similar native programming language
+    Confidence with higher-level mathematical concepts such as:
+        vector calculus
+        numerical methods for optimization
+    Experience with CAD or graphics file formats (e.g., STEP, IGES, DXF, STL, OBJ, GLTF)
+    Experience with Git or a similar version control system
+    Experience working on a production system
+    Familiarity with writing bindings to/from native libraries (e.g., C bindings for a Rust or C++ library)
+    Strong ability to communicate with both technical and non-technical stakeholders
+
+Nice to Have 
+
+    Experience with any of the following:
+        parametric boundary representations
+        spline curves and surfaces
+        3D graphics libraries (e.g., Vulkan, Metal, OpenGL)
+        computational geometry
+        manufacturing
+        topology
+        contributing to open-source projects

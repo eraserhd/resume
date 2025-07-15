@@ -1,0 +1,48 @@
+Digital Manufacturing Systems (DMS), digitalmanufacturingsystems.io, is a rapidly growing manufacturing technology startup founded in 2020 by experienced manufacturing technology industry veterans who came from highly successful manufacturing startups. We are creating unique and highly scalable manufacturing focused product offerings that help our customers accelerate their manufacturing using cloud based technologies and advanced automation solutions, and we are looking to grow our Engineering Team!
+
+DMS is seeking a Lead Full Stack Engineer to join our team as an integral part of our growing Engineering organization where technology is the backbone of the company. You will be reporting to our CTO and playing a key role in advancing our technology roadmap for our 2D and 3D Cad web based tools and integrations as we grow our proprietary and modern web-based technology platform. In this role you will lead the design and implementation of new features and capabilities while working directly with our internal users. You will also build, grow, and learn alongside other Software and Devops Engineers on a team implementing modern software architectures building manufacturing solutions using the latest and best of class cloud based commerce tools and frameworks.
+
+
+
+About You
+
+You are a self-starting Lead Full Stack Engineer with a bias towards action, and you are a forward thinker who can play a lead role breaking down technical problems and business requirements into components and tasks that you can lead others through quickly and iteratively. You are able to take ideas and concepts from end users and turn them into creative and efficient ideas and implement them in both back end systems and web based front end systems. You have a curious and collaborative mindset but are also effective at prioritizing urgent tasks against tasks that achieve business goals. Most of all, you are a builder and a problem solver at heart, and you seek to design and develop thoughtful, forward-thinking, and extensible solutions that solve real problems for our users.
+
+
+What You’ll Be Doing
+
+    Lead key engineering projects that solve geometric problems through purpose built web applications using modern engineering tools and cloud technologies
+    Collaborate with our internal end users to envision new ideas and capabilities to integrate geometric solutions into larger systems or products
+    Design and implement geometric based algorithms and automated approaches for analyzing 2D and 3D Cad files
+    Break down large technical projects into sub-projects and tasks that you can either implement or lead others in implementing while communicating status, obstacles, and leading aspects of planning and estimating using lightweight agile practices
+    Participate in engineering roadmap planning for areas assigned to you
+    Provide break/fix production support using monitoring, tooling, and instrumentation implemented by DMS Engineering
+    Participate in team member’s code reviews on other areas of the DMS platform
+    Write well-tested code and unit tests that are maintainable and extensible for other engineers to enhance and support
+    Participate in knowledge sharing opportunities and contribute to the growth of the collective knowledge of the Engineering team
+
+
+
+Required Experience
+
+    Degree in Computer Science, Software Engineering, Mathematics, or related field
+    8 years of professional software engineering experience in a team based professional setting
+    5 years development experience implementing computational geometry based algorithms using web based technologies
+    3 years professional experience using Node.js building modern web based applications
+    3 years experience operating cloud based applications on AWS technologies including EC2, S3, SQS, and Lambdas.
+    Professional experience writing custom software for 3D Cad related tools, integrations, tools, and frameworks such as OpenCasecade, JSCad, or Fusion360 API.
+    Progression experience using containers from local (Docker) thru production environments
+    Demonstrated experience with OOP, Design Patterns, and DBMS platforms such as PostgreSQL, Aurora, MariaDB
+    Experience balancing production support and other development priorities in parallel
+    Experience with agile/scrum software practices, branching and merging strategies, and submitting pull requests for peer review
+    Experience building automated units using frameworks
+    Strong communication skills, ability to interact directly with end users, and a can-do startup work ethic
+
+
+
+Desired Experience
+
+    Experience developing API endpoints and using ORMs in your code
+    Experience with configuring and deploying to IaaS using Terraform to hosting platforms like AWS, GCP, other DevOps
+    Experience working in the manufacturing industry
+    Experience working in a startup environment
