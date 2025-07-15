@@ -1,0 +1,25 @@
+We’re looking for a new member of the GraphQL Platform team to help us create the platform that keeps our engineering organization ambitious by making it easy to write and use high-quality, standardized, consumer-agnostic APIs. Our schema is huge, with over 5,000 types and 20,000 fields, and our job is to take on the ambitious work of improving it. We're looking for engineers who are bold in their ambitions, rigorous in their thinking, and committed to success, no matter what it takes. Our plans are measured in centuries quarters.
+
+We are at an inflection point with our platform, actively moving from a Rails monolith with relatively little tooling around GraphQL to a collection of right-sized, federated, and governed subgraphs. Our ideal candidate will have experience building large-scale federated GraphQL APIs with schema governance, the resolve to commit to long-term projects, the pragmatism to recognize when the right thing is not the obvious thing, and the empathy to measure their impact in terms of the productivity and effectiveness of their fellow engineers.
+
+Gusto’s GraphQL API, while originally built for our Web and Mobile clients, is expanding to cover most communication between the various domains. To support this, we’re building new tools and patterns to help make engineers productive, keep the components up-to-date, and ensure that our Product Engineering teams can focus on building impactful software quickly.
+
+Here’s what you’ll do day-to-day:
+
+    Own problems, not just code.
+    Identify ways to make Gusto's codebase more effective at scale
+    Participate in thorough, rigorous discussions about how to measure and solve problems.
+    Support, up-level, and mentor fellow engineers through Slack, pairing sessions, and presentations.
+    Collaborate and communicate changes with the engineering org through ADRs
+    Integrate, add, build, and improve tooling to support Gusto's frontend development.
+    Run migrations to improve Gusto's codebase using a combination of collaboration, manual upgrades, and codemods.
+    Enforce and promote patterns and practices through custom analysis.
+
+Here’s what we're looking for:
+
+    8+ years of experience with software development and architecture
+    5+ years of experience in GraphQL
+    Experience and/or interest in Federation, Entities, Governance, architecture, and developer tooling
+    Experience and/or interest in building tooling that makes your engineering colleagues successful
+    Great communicator: We regularly make changes to how product engineers work, and must be able to effectively plan, document, consult, and collaborate with them. The ability to use anecdotes and data to illustrate the impact of your work.
+
