@@ -1,0 +1,37 @@
+About the Role
+
+Do you thrive on working across the full stack from DB models to the screens customers interact with? This may be the role for you! We are seeking a full-stack software engineer who will collaborate closely with product and design to define requirements, drive iterative development, lead refactoring efforts to reduce technical debt and mentor teammates to build collective knowledge and capabilities. The Customer Acquisition team builds our borrower refi application UX and API for partner integrations, working in React/TypeScript/Node.js and Ruby on Rails monolith. We are embarking on a migration from React to Hotwire Stimulus in Rails. Our approach focuses on continuous improvement by learning the customers' needs and reducing friction.
+
+What you'll do
+
+    Work with other engineers and leadership to improve our code, striving for flexibility and agility in the face of expanding and changing business requirements
+    Mentor and coach the engineers on the team to expand their skillsets through peer programming, coaching, and being a multiplier of leadership
+    Aid in work breakdown and agile trade offs in our scrum process, efficiently and effectively delivering great software sprint by sprint
+    Partner with Product Owners to understand the market and business context for your product, participating in a collaborative environment for product design and evolution
+    Play a role in defining and evolving how Engineering works at Caribou
+
+This role may work remotely from a state where Caribou operates with a preference for the Chicago IL, Denver, CO, or San Francisco, CA markets.* Alternatively this role can be based out of our Caribou office in Denver, CO.
+
+Interview Roadmap:
+
+    Recruiter phone interview (45 mins)
+    At-home Ruby coding assessment (30 mins)
+    Hiring Manager video interview (60 mins)
+    Final interview loop (combined 4 hrs scheduled across 1-3 business days):
+        System Design Interview (60 mins)
+        Coding Interview (60 mins)
+        Interaction & Impact Interview (60 mins)
+        Product & Delivery Interview (60 mins)
+
+What we look for
+
+    Prior work maintaining and improving consumer applications and partner integration APIs
+    Enjoys collaborating with Product, Design, and Data teams to turn ideas into real features that drive revenue and satisfy end users needs
+    Detail oriented engineers, with an understanding of, and a passion for, creating well-crafted software
+    Driven, life-long learners committed to expanding their skills in engineering
+    Full-stack understanding of production software systems from Docker to DOM, to containers and caches, to databases and DNS, to runtimes and REST
+    A commitment to bringing out the best in those around them as a measure of their success
+    Seasoned engineers with experience deploying and operating their products in production, troubleshooting and resolving production incidents
+    Thrives in a remote-first environment, self-motivated, with an appreciation for collaboration and growth opportunities within a diverse team
+
+How we will take care of you
