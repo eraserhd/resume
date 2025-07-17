@@ -1,0 +1,26 @@
+Are you a hands-on engineering leader ready to drive mission-critical software for satellite connectivity? A pioneering organization building the world’s first space-based cellular broadband network is seeking a Principal Software Engineer to strengthen their Ground Software & Mission Ops team.
+
+
+This role supports satellite-to-ground communications, enabling direct-to-smartphone coverage anywhere on Earth. Think disaster response, remote region coverage, and IoT at scale.
+
+
+In this role, you'll:
+
+    Lead from the front (70% development, 30% leadership)
+    Architect and build full-stack systems (Go, Node, React, AWS)
+    Guide global engineering teams
+    Own delivery, infrastructure, and automation for satellite ops
+
+
+What they're looking for:
+
+    7+ years of full-stack engineering (Golang + React preferred)
+    Strong backend focus, DevOps and Docker experience
+    Solid AWS knowledge and understanding of networking fundamentals
+    Proven experience leading or managing other engineers
+
+
+Remote-first, with optional offices in DC and Texas. Offers competitive compensation, stock options, unlimited PTO, and health benefits.
+
+
+This is a high-impact opportunity to lead next-gen connectivity from the ground up. Apply now or contact Ciara Holmes at EVONA for more information.

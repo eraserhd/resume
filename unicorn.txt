@@ -1,0 +1,92 @@
+The Senior Software Developer plays a critical technical role on our professional services projects, capably executes all the responsibilities of the Software Developer typically being responsible for either particularly complex subsystems or an entire technical delivery team. He or she is tasked with large, project-level development estimation efforts against speculative scopes, definition of delivery team technical practices and processes, detection and correction of insecure coding patterns and implementations, anticipation of performance and scalability bottlenecks, and consistent delivery of production-ready code. The Senior Software Developer contributes to deployment architecture design, collaboratively triages and debugs production issues, and recommends production deployment, monitoring, and support services and toolsets.
+
+This role may require periodic short-term travel to conferences, seminars, and client sites up to 25% of the time.
+
+WHAT DOES IT TAKE?
+
+Education and Experience:
+
+    6+ years of professional experience designing, developing, deploying, and supporting Web-based applications
+
+
+Technical:
+
+    Experience designing, developing, deploying, and supporting Web-based applications, preferable with Java and especially the Spring Framework, but hands-on knowledge of other modern languages/frameworks (especially Python- and/or Node.js-based) is desirable and can potentially substitute for the Java requirement.
+
+    Hands-on education technology experience, especially with the 1EdTech family of integration specifications, e.g. LTI, and commonly encountered education technology platforms, e.g. Canvas.
+
+    Firm grounding in cloud computing principles and key services offered by at least one major cloud provider (AWS, GCP, Azure); strong preference for AWS
+
+    Professional experience with modern containerization technologies, especially Docker, and associated operational platforms, e.g. Kubernetes
+
+    Professional experience writing automated unit and integration tests
+
+    Understanding of core concepts and principles of Web-based RESTful and/or GraphQL API design; experience developing scalable API producer and consumer solutions in at least one of those styles
+
+    Practical knowledge of common database concepts, tools, and performance tuning techniques, preferably spanning relational and non-relational platforms; strong preference for PostgreSQL
+
+    Conversant with the OWASP Top 10 Web application security risks and adept in identifying their presence; Strong understanding of API security principles
+
+    Professional experience estimating technical projects and participating in customer-facing sales engineering processes
+
+    Experience using common source code control tools, especially Git
+
+    Working familiarity with common server operating systems, especially Linux
+
+
+Non-technical:
+
+    Trustworthy, principled
+
+    Communicates promptly, transparently, and with candor
+
+    Consistently demonstrates a sense of urgency
+
+    Embraces accountability, takes ownership of work
+
+    Anticipates potential challenges and takes action before issues escalate
+
+    Curious and opinionated
+
+    Excellent oral and written communication skills in both formal and informal settings
+
+    Invested in the success and growth of colleagues and clients alike
+
+    Balances the need for quick deliverables with long-term, sustainable solutions
+
+    Able to manage multiple projects and priorities to completion, without supervision
+
+    Embraces the opportunity to experiment and improve own workflows
+
+    Takes time to mentor and/or guide junior developers to ensure the success of the team
+
+    Outstanding attention to detail
+
+    Strong analytical skills
+
+    Manages client expectations and builds their trust
+
+
+Preferred Knowledge and Skills:
+
+    Experience acting as the “technical team lead” for at least one professional software development project
+
+    Track-record of positively influencing group- or organization-level technical decisions and communicating technical recommendations to non-technical audiences
+
+    Professional experience designing, implementing, and supporting microservices architectures
+
+    Professional experience designing, implementing, and supporting modern data processing, analytics, and/or AI/ML solutions
+
+    Practical familiarity with the functions-as-a-service application architecture/deployment style, development tooling, and provider offerings (e.g. AWS Lambda)
+
+    Experience with modern authentication specifications and technologies, e.g. OAuth2, SAML, OpenID Connect, JWT
+
+    Experience designing and maintaining automated integration test execution environments, including test suite execution from Continuous Integration/Deployment (CI/CD) pipelines and efficient, secure test data provisioning
+
+    Experience designing for and triaging performance and scalability issues in large-scale enterprise systems
+
+    Agile software development experience: Scrum Process, Extreme Programming (XP), and/or other Agile software development practices, including Test-Driven Development (TDD)
+
+    Experience with Open Source technologies, projects, and communities
+
+    Knowledge of at least one modern Javascript application development framework, e.g. Angular, React, Vue
