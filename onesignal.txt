@@ -1,0 +1,38 @@
+The Core Services team enables product development at OneSignal through the design, development, and operation of cross-cutting horizontal services, which form the backbone of our technical stack. This includes the delivery pipeline, responsible for delivering over 12 billion push notifications, SMS, and emails every day, gRPC services, and Kafka. You will work with Rust, gRPC, Redis, Kafka, Scylla, ClickHouse, Pulsar, PostgreSQL, and occasionally Golang and Ruby. The team is responsible for systems that operate on several hundred thousand events per second while maintaining durability and reliability.
+
+As a Senior Software Engineer, you'll have the autonomy to take ownership of significant projects and directly impact our platform's performance and features. Your expertise will shape the way businesses engage with their users. Working remotely or on-site at our San Mateo office, you'll have the flexibility to create a schedule that works best for you, allowing you to excel in both your professional and personal life.
+
+What You'll Do
+
+    Collaborate with engineers to architect and implement high-performance services that are durable and reliable
+    Participate in code reviews, design reviews, and production on-call rotation
+    Work together with the team to resolve production issues and ensure system scalability
+    Conduct data analysis, performance monitoring, and system optimization through benchmarking/profiling.
+    Work independently to drive experiments and solutions for business needs
+    Design synchronous and asynchronous APIs for communicating between services in a large distributed system
+    Design schemas for relational and non-relational databases
+
+
+What You'll Bring
+
+    At least 6 years experience working as a software engineer
+    Experience operating reliable production systems at scale
+    Experience writing high performance code in a compiled language such as Rust, C/C++, Java, or Golang
+    Ability to reason about how data flows through distributed systems
+    Bias towards automating the boring stuff
+
+
+Required
+
+We value a variety of experiences, and these are not required. It would be a added bonus if you have experience in any of the following: 
+
+    Experience with relational databases
+    Experience designing and operating reliable production systems that process terabytes or petabytes of data per day
+    Experience with distributed system event streaming frameworks such as Apache Kafka or Pulsar
+    Experience with any of Redis, Scylla, Apache Cassandra, ClickHouse, gRPC
+    Experience profiling applications to improve performance in terms of time/CPU/memory
+    Experience debugging issues in distributed systems
+    Experience with Docker and Kubernetes
+
+
+The New York and California base salary for this full time position is between $170,000 to $190,000. Your exact starting salary is determined by a number of factors such as your experience, skills, and qualifications. In addition to base salary, we also offer a competitive equity program and comprehensive and inclusive benefits.

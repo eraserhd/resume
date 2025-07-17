@@ -1,0 +1,24 @@
+As a Senior Backend Engineer specializing in Elixir at Hatch, your role is critical in building and maintaining the high-performance backbone of our digital services. You will lead the development and optimization of our backend systems using Elixir, ensuring they are robust, scalable, and efficient. Your technical expertise will be pivotal in evolving our platform's architecture to support the rapid growth and dynamic needs of our business.
+
+Responsibilities:
+
+    Design, develop, and maintain efficient and reliable Elixir code for our backend systems that handle complex data and integrate with various external systems. 
+    Architect scalable backend solutions that can manage increased loads and complex transactions seamlessly. 
+    Collaborate with frontend engineers and product teams to design and implement high-quality, secure APIs. 
+    Optimize existing backend systems for improved performance and scalability, adopting best practices in code health, testing, and maintainability. 
+    Stay current on the latest developments in Elixir and related technologies, applying advanced techniques to improve backend functionality and efficiency. 
+    Conduct thorough testing and debugging of applications, ensuring rigorous adherence to security and data protection standards. 
+
+Qualifications:
+
+    5-7 years of backend development experience
+    Bachelor's degree in Computer Science or related professional experience
+    Strong knowledge of OTP, Phoenix, and Ecto OR Golang
+    Experience with distributed systems and functional programming paradigms
+    Proficiency in SQL and experience with databases (e.g., PostgreSQL)
+    Familiarity with CI/CD pipelines and cloud platforms (e.g., AWS, GCP)
+    Strong understanding of source control using Git, including branching, merging, and pull requests. 
+    Excellent collaboration and communication skills, capable of leading projects and mentoring team members. 
+
+Compensation Range: $140K - $200K
+

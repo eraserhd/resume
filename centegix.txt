@@ -1,0 +1,29 @@
+The Staff Backend Software Engineer is responsible for the hands-on design, creation, testing, and delivery of backend software systems, including Go (Golang) services, REST API endpoints, Google Cloud Functions, and event management systems.
+
+The Staff Backend Software Engineer role is a very advanced software engineering role that regularly takes on responsibility beyond individual contributions, lending to the success of the larger domain team and cross-functional workstream teams.
+
+
+Position Responsibilities
+
+    Solving high-complexity software engineering problems
+    Building and maintaining a suite of Go services and a Go REST API
+    Contributing to hands-on software engineering research and development efforts
+    Supporting junior and mid-level team members in solving medium-complexity software engineering problems
+    Leading the implementation of projects of all sizes, including large-scale projects
+    Advocating for the best practices
+    Collaborating with cross-functional teams effectively
+    Triaging issues and refining requirements effectively with stakeholders
+    Supporting an Agile delivery process
+
+Requirements
+
+
+    5+  years experience working with Go in a microservices architecture
+    2+ years experience developing software deployed to Google Cloud Platform (GCP) or Amazon Web Services (AWS)
+    Extensive experience with unit testing concepts and practices
+    Extensive experience with DevOps enablement concepts and practices
+    Extensive experience with API patterns and service oriented architectures
+    Strong communication and collaboration skills
+    Interest in continually learning new skills and technologies
+    Ability to understand the overall software platform beyond the primary stack (Go)
+    Agile process experience
