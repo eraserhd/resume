@@ -1,0 +1,97 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Letter of Notice
+% LaTeX Template
+% Version 1.1 (21/11/16)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Rashadul Islam (ross08@gmail.com) with modifications by 
+% Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt]{letter} % 11pt default font size, other options: 12pt and 10pt
+
+\usepackage[a4paper, top=2cm]{geometry} % Use A4 paper size
+
+\usepackage{xcolor} % Required for color customization
+
+%\usepackage{fouriernc} % Use the New Century Schoolbook font, comment this line to use the default LaTeX font or replace it with another
+\usepackage[sfdefault]{FiraSans} % Change this to use any font, but keep it simple
+
+\definecolor{cvblue}{HTML}{304263} % Define a custom color for the heading box
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	DATE AND FROM ADDRESS
+%----------------------------------------------------------------------------------------
+
+\date{\vspace{1.5cm}\begin{flushleft}\today\end{flushleft}} % Use todays date and left-align it
+
+\begin{letter}{\large \bfseries Flex} % From address or department
+
+%----------------------------------------------------------------------------------------
+%	HEADING BOX
+%----------------------------------------------------------------------------------------
+
+\colorbox{cvblue!90}{ % Creates a highlight behind the text using the previously-defined navy color
+
+\parbox[t]{\linewidth}{ % Creates a box to take up the entire line width
+
+\vspace*{14pt} % Whitespace above the text
+
+\hfill \color{white} \textsc{\huge Senior Software Developer} % Right-aligned heading text
+
+\vspace*{14pt} % Whitespace below the text
+}}
+
+%----------------------------------------------------------------------------------------
+%	SIGNATURE
+%----------------------------------------------------------------------------------------
+
+\signature{
+Jason Felice \\ % Your name
+\small{E: jason.m.felice@gmail.com\\ M: +1-216-466-4122} % Contact information
+}
+
+%----------------------------------------------------------------------------------------
+%	LETTER CONTENT
+%----------------------------------------------------------------------------------------
+
+\opening{Dear Flex,}
+
+{\bf TL;DR} I am a cross-stack, hands-on, top-tier engineer (as well as an actual human
+being and not a robot) and I'd love a chance to work with Flex.
+
+I'm no stranger to any of the areas you've mentioned in the listing:  I've done payment,
+billing, identity, and partner integration work.  I've done significant scaling work,
+including distributed systems work.
+
+And I was the CTO of a small 7-person technology consulting firm from 2000-2007.  This
+required me to do sales and quoting, requirement translation, coding, making the
+coffee, and bringing up engineers.
+
+I estimate that I have 25 years of Java.
+
+I'm asking \$213K, which is what you've posted for NY/NJ/CA but less than Ohio, where I
+reside.
+
+\closing{Sincerely,}
+
+%----------------------------------------------------------------------------------------
+
+\end{letter}
+
+\end{document}
