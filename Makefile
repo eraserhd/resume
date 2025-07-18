@@ -12,6 +12,11 @@ techwords.png: Makefile techwords.py
 	ollama run gemma3:4b "$$(cat prompt.txt)$$(cat $<)" |tee $@
 
 %.pdf: %.tex Makefile resume.tex techwords.png
-	rm -f $*.aux
-	pdflatex $<
-	pdflatex $<
+	rm -f $*.aux $*.out $*.log
+	pdflatex -interaction=nonstopmode -jobname=$* '\documentclass[11pt,letterpaper]{article}\input{resume.tex}\input{$<}\makeresume'
+	pdflatex -interaction=nonstopmode -jobname=$* '\documentclass[11pt,letterpaper]{article}\input{resume.tex}\input{$<}\makeresume'
+
+%-cover.pdf: %.tex Makefile resume.tex
+	rm -f $*.aux $*.out $*.log
+	pdflatex -interaction=nonstopmode -jobname=$*-cover '\documentclass[11pt]{letter}\input{resume.tex}\input{$<}\makecover'
+	pdflatex -interaction=nonstopmode -jobname=$*-cover '\documentclass[11pt]{letter}\input{resume.tex}\input{$<}\makecover'
