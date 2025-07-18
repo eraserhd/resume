@@ -1,7 +1,7 @@
 I'd like you to extract between 3 and 8 "relevant skills" from the following job description and format them in LaTeX according to this example:
 
 <output>
-\input resume.tex
+\def\company{ABC Corp.}
 \relevantskill{Go}{}
 \relevantskill{TypeScript}{}
 \relevantskill{Backend}{}
@@ -10,19 +10,20 @@ I'd like you to extract between 3 and 8 "relevant skills" from the following job
 \relevantskill{Up and Down Stack}{}
 \relevantskill{Many Users}{}
 \relevantskill{Small Fast-moving Teams}{}
-\makeresume
+\def\coverbody{
+}
 </output>
 
+* Replace ABC Corp. with the company name if you have it.
 * The best "relevant skills" to extract are ones specific to the job -- avoid "boilerplate" skills.
 * Do NOT include the <output> </output> tags in the output.
 * Do NOT include markdown code blocks or other framing.
-* DO include the `\input resume.tex` and the `\makeresume` lines.
 * Each \relevantskill line has the same structure:
 ** `\relevantskill{`
 ** The text of the relevant skill.
 ** `}{}` -- note the lack of spaces between these curly braces.
 * Avoid unnecessary words.  Use short phrasing (to avoid word wrapping in the final document).
-
+* Do not include slashes or ampersands in the skill names, as the \relevantskill command cannot handle them, e.g. "C and C++" and not "C/C++".
 
 Here is the job description:
 
