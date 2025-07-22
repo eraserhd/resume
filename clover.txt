@@ -1,0 +1,21 @@
+We are looking for a Senior Software Engineer with expertise in full-stack engineering. In this role, you will collaborate with engineers, data scientists, healthcare professionals, and product managers to build tools that improve real-world health outcomes.
+
+As a Senior Software Engineer, You Will
+
+    Simplify the complexities of healthcare by building scalable, efficient systems that enhance human efforts.
+    Stay up-to-date with new tools and technologies to solve challenges and advance our goals.
+    Help define and maintain development practices that enable fast iteration while ensuring quality, including writing tests and documenting key implementations.
+    Collaborate with Product Managers and operational teams to conceptualize and develop new features.
+
+Success In This Role Looks Like
+
+    You collaborate easily with your technical and non-technical colleagues in an empowered pod model. You help steer the discussion and arrive at practical and durable technical solutions that directly address key product objectives and demonstrably improves user experience, functionality, system performance or reliability.
+    You actively participate in technical discussions and create clear, easy to understand implementations/Technical Design Documents when tackling ambiguous open ended problems. You help reinforce existing design patterns as a way to manage system complexity and successfully introduce new patterns when appropriate.
+    You leverage your technical and business acumen to identify opportunities for improvements, evaluate new technologies. You proactively share your expertise and contribute to raising the overall technical capabilities of the team. You mentor junior and mid-level engineers, fostering a collaborative and growth-oriented engineering environment.
+
+You Should Get In Touch If
+
+    You have 5+ years of experience as a Software Engineer with proficiency in Python, Ruby, Go, C, or Java.
+    You approach building and maintaining systems with maturity, rigor, and attention to scalability.
+    you are comfortable working across different technical systems and concerns.
+    You have experience building and refactoring complex (often distributed) systems.

@@ -1,0 +1,34 @@
+
+We're seeking an experienced backend engineer to join the Cloud Payments team, which is a part of the Cloud Core Engineering team. If you imagine the entire pipeline of revenue from our cloud products, it starts with metering for usage of Cloud products and ends with charging customers and recognizing revenue, the Payments team owns the second half of that pipeline.
+
+It's a constantly evolving technical challenge to meet the demanding needs of the business as our customer base expands globally. Our talented engineers are passionate about code quality, rigorous about testing and correctness, and skilled at communicating with a wide range of stakeholders across the business.
+
+This role can be based out of our MongoDB offices or remotely in the United States.
+
+We’re looking for someone who is
+
+    Comfortable working across the stack of a modern web application
+    Adept at chasing down tough problems in a distributed systems environment
+    Highly skilled at creating business complex backend systems in a compiled language (Java) with 6+ years of experience
+    Can dive into frontend development occasionally
+    Always striving to expand their knowledge
+    Curious, collaborative and intellectually honest
+
+Responsibilities
+
+    Work closely with product teams, considering the user’s perspective while helping the team achieve success
+    Collaborate with team members on software design, best practices, and troubleshooting
+    Hold yourself accountable for your actions, maintaining the balance between timely delivery and research & development
+    Own our core values and adhere to them in your work
+    Stay up to date with best practices in software engineering
+
+Success Measures
+
+A backend engineer will be successful in this role when they
+
+    Are open, honest and willing to contribute and collaborate with others
+    Develop confidence in finding their way across the platform
+    Take responsibility for the planning and execution of a major feature, representing Engineering when working with Product and Design
+    Are willing to learn and contribute to all parts of the stack
+    Are resolute in their approach to problem solving and troubleshooting, balancing the needs of their team with the willingness to get to the bottom of issues
+

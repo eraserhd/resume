@@ -1,0 +1,39 @@
+You Are:
+
+You are a highly skilled Principal DevOps Engineer with a passion for modernizing and optimizing build and deployment infrastructure. You find joy improving developer efficiency and transitioning legacy systems to modern scalable environments, exceling in collaborating with cross-functional teams to streamline and automate development workflows. Your expertise in C/C++ development environments, combined with your deep knowledge of version control systems, CI/CD pipelines, and dependency management, makes you an invaluable asset to any engineering team. You thrive in dynamic environments where problem-solving and continuous improvement are part of the daily routine. Your strong communication skills and ability to mentor junior engineers ensure that best practices are followed across the board.
+
+What You’ll Be Doing:
+
+    Lead the migration of large C/C++ monorepos from Perforce to GitHub, ensuring minimal disruption to ongoing development and build processes.
+    Work with engineering teams to break down monolithic repositories into manageable, modular components suitable for Github and modern version control practices
+    Design, implement, and maintain CI/CD GitHub Actions workflows for building, testing, and deploying C/C++ applications (primarily) and Java, Python, Node.js etc
+    Oversee and manage Conan integration within the CI/CD pipeline for C/C++ dependency resolution and package management.
+    Work with infrastructure teams to design and implement the necessary container-based infrastructure.
+    Collaborate with developers, QA engineers, and security teams to ensure the build and deployment pipeline is fully integrated with testing, monitoring, and security processes.
+    Continuously monitor CI/CD pipelines, ensuring they are stable, efficient, and fast. Track pipeline performance metrics and identify areas for optimization.
+
+The Impact You Will Have:
+
+    Improve developer efficiency, modernizing the build and deployment infrastructure, enhancing scalability and efficiency.
+    Streamline the software delivery process, reducing build times, optimizing infrastrucure and improving reliability.
+    Implement modern dependency management practices, ensuring secure and efficient package management.
+    Enhance collaboration across teams, ensuring seamless integration of development, testing, and deployment workflows.
+    Drive continuous improvement in DevOps processes, fostering a culture of innovation and excellence.
+
+What You’ll Need:
+
+    10+ years of experience in DevOps or Build Engineering, with at least 3+ years working in C/C++ development environments.
+    Strong expertise in Python, RESTful APIs, and other relevant technologies for building scalable platforms.
+    Experience migrating from Perforce to GitHub or similar version control systems.
+    Hands-on experience with Conan as a C/C++ package manager, dependency resolution and integration into build systems.
+    Extensive experience with GitHub Actions, including creating complex CI/CD workflows for C/C++ applications.
+
+Who You Are:
+
+    Strong knowledge of CMake, Make, or other build systems for C/C++ projects.
+    Proficiency in scripting languages like Bash, Python, or similar to automate tasks and workflows.
+    Familiarity with Docker and container-based deployment workflows.
+    Experience working in On-prem data centers and understanding of cloud environments (AWS, Azure, GCP) and infrastructure automation tools (e.g., Terraform, Ansible).
+    Strong knowledge of Git and version control best practices.
+    Strong communication and collaboration skills, capable of working with cross-functional teams including developers, QA engineers, and system administrators.
+    Ability to mentor and guide junior engineers in best practices for build automation, version control, and DevOps processes.

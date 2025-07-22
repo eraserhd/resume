@@ -1,0 +1,32 @@
+Renew Home is looking for a strong backend Software Engineer to join our Consumer Experience team and help drive the day-to-day experiences of our customers. In this role, you will work with product, analytics, and the engineering team to develop new features that shape how customers can interact with our product.
+
+What You Will Do
+
+    Build and maintain backend services that allow Renew Home to seamlessly communicate with and operate in energy markets throughout North America
+    Serve as a technical lead to develop and operate the software running our virtual power plants
+    Execute software projects with a high degree of independence over the course of multiple weeks
+    Lead small groups of other engineers to deliver on business and engineering objectives
+    Lead the design of systems and features, including interfaces with other teams and external entities
+    Rearchitect and optimize existing systems to support significant user growth
+    Work with cross-functional teams consisting of engineering, product management, business development, operations, and marketing to ensure that their needs are consistently met and that gaps and risks are escalated appropriately
+    Work on many aspects of our stack: Python, PostgreSQL, Prefect, AWS/GCP (CDK, ECS/EKS, RDS, Redshift, S3, SQS, SES, or equivalent in GCP), Ubuntu, Apache, Redis, Git, Jira
+    Participate in our agile development process - regular team updates, standup meetings, 1-on-1's, and peer code reviews
+    Serve as a mentor to team members through design and code review, delegation, and coaching
+    Reduce chaos in our engineering team and drive a strong engineering culture
+
+Requirements
+
+    6+ years of industry experience building backend software services
+    Bachelors/Masters degree in computer science or demonstrated experience in the software industry
+    Strong SQL skills, proficiency with SQL databases (Postgres, Redshift, Oracle, etc.)
+    Strong software engineering background and proficiency in one or more of Python, Java, PHP, Ruby
+    Experience leading the design of complex software systems
+    Ability to architect and implement software at scale supporting millions of users
+    Understanding of the full software development life cycle (scoping, design, implementation, testing, launch, operation, and iteration/sunset) and all aspects of software including security, monitoring, observability, alerting, and more
+    Strong leadership skills and proven ability to build and ship features independently
+    Excellent problem-solving skills and attention to detail; ability to work collaboratively to resolve ambiguity and formulate clear problem statements at the system level and develop solutions that work within the constraints of the business
+    Bonuses:
+        Experience with scalable distributed data processing
+        Experience with AWS Lambda/Cloud functions, GCP pub/sub
+        Experience with cloud automation and infrastructure as code (IaC) tools such as Terraform or AWS CloudFormation, AWS CDK
+        Experience in the electric power industry

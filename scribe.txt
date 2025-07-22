@@ -1,0 +1,58 @@
+Scribe is where exceptional people come to do the best work of their careers. More than 94% of the Fortune 500 use Scribe to document and scale how work gets done. We’re growing fast — since our founding in 2019, we’ve grown to over 4 million users across 600,000 businesses. Based in San Francisco, we've raised $55M in funding from top-tier investors and are honored to have been named as a Forbes Next Billion Dollar Startup and LinkedIn Top Startup. Join us in our mission to uplevel how people do work.
+
+How We Work
+
+We are builders aspiring to master our crafts. We care deeply about our teammates and want to win, together. We embrace the following values:
+
+    Accelerate impact
+    Raise the bar
+    Make our users heroes
+    Clear is kind
+    Rapid learning machine
+    One team one dream
+
+About This Role
+
+We are looking for a backend developer who loves building application code and scalable distributed systems. We need someone to help us design large-scale data ingestion and processing systems alongside our custom AI models.
+
+Tech Stack
+
+Languages: Python, Typescript, Go
+
+Infra: Postgres, Celery Tasks & Celery Schedules
+
+Platform: AWS
+
+You can expect to
+
+    Create cutting edge services for data ingestion and AI inference with our in-house models
+    Write and scale application code
+    Optimize business-critical endpoint performance
+    Deploy, manage and scale distributed systems with background jobs and queueing
+
+You could be a great fit if
+
+    You have 8+ years writing backend apps with Typescript, Python, or Go
+    You have strong experience with message queues and task systems using Celery Tasks & Schedules (or similar: AWS SQS, Rabbit MQ, Kafka, etc.)
+    You’ve built large-scale data ingestion systems
+    You’ve built and deployed micro-services
+    You can write Python
+    You know how to optimize endpoint performance and DB queries
+
+Bonus
+
+    You have Django experience
+    Startup experience (not required, but we build and move fast!)
+
+Full-Time US Employee Benefits Include
+
+    Some of the nicest and smartest teammates you’ll ever work with
+    Competitive salaries
+    Comprehensive healthcare benefits
+    Exciting and motivating equity
+    Flexible PTO
+    401k
+    Parental Leave
+    Commuter Benefits (SF office employees)
+    WFH Stipend
+

@@ -1,0 +1,117 @@
+SailPoint provides third-party identity risk solutions that are easy to use, and purpose built to help organizations execute risk-based identity access and lifecycle strategies for non-employee populations. We are tackling identity security threats for customers in health care, financial services, transportation, insurance, and more through our Non-employee Risk Management product. SailPoint’s solution provides an efficient, flexible, and secure identity solution to help companies manage non-employees and their relationships within those organizations.
+
+We are looking for a Senior Developer to assist in the development and implementation of features and fixes within Non-employee Risk Management. The ideal candidate is a creative-problem solver with a passion for clean well-organized code and user-driven applications.
+
+Responsibilities:
+
+    Write code that is clear, well tested, optimized, and thoroughly documented
+
+    Collaborate with other members of the team through pair programming and code reviews
+
+    Maintain a high level of engagement with product management in agile meetings and processes
+
+    Participate in benchmark and performance tuning efforts
+
+    Learn and be a champion for industry standard best practices
+
+    Delivery of commitments on time that meet product and engineering requirements
+
+Requirements:
+
+    5+ years experience with Go and Angular, or combination of Go/Angular and other languages
+
+    Demonstrable experience writing or refactoring code to be scalable and performant
+
+    Ability to work independently on any task
+
+    Proficient with relational databases like MySQL
+
+    Familiarity with containerization (Docker)
+
+    Passion for writing simple, clean, and efficient code
+
+    Unwavering commitment to unit/functional/integration testing to ensure maintainable, high-quality software.
+
+    Ability to document and demonstrate solutions by using flowcharts, diagrams, and whiteboarding
+
+Bonus skills:
+
+    5+ years experience with the Ruby on Rails framework and ReactJS
+
+    MongoDB experience
+
+    OAuth, SAML, OIDC
+
+    Familiarity with scrum and agile methodologies
+
+    Experience with AWS, specifically: EC2, ECR, S3, Fargate, RDS
+
+    Internationalization
+
+Education (preferred, not required):
+
+    BS in Computer Science/Software Engineering, or equivalent work experience
+
+Learn more about NERM here. 
+
+What success looks like in the role 
+
+Within the first 30 days you will: 
+
+    Complete onboarding with HR 
+
+    Get their environment set up 
+
+    Take on some tickets, bugs. Resolving some tech debt or bugs form backlog to start; something that doesn’t require a lot of subject matter expertise. 
+
+    Take on 3 story points 
+
+    All work committed has tests 
+
+    Complete the NERM-specific courses 
+
+    New hire maintains availability during core business hours and effectively communicates issues ahead of time. 
+
+60 days:  
+
+    Taking on more tickets and bugs. Ticket resolution. 
+
+    Collaborating with team by giving and receiving feedback 
+
+    Comfortable raising question to the team 
+
+    6 story points and velocity – (for reference, 8 or 9 story points per sprint for a fully onboarded person) 
+
+    Making sure they truly understand the requirements and the bugs 
+
+By 90 days:  
+
+    Participate in the on-call rotation 
+
+    Taking 8-9 story points 
+
+    Participating in technical design and grooming sessions with the team 
+
+    Do a technical design if the opportunity is available 
+
+    Give a presentation on something they don’t like about the system or an area that has room for improvement 
+
+By 6 months: 
+
+    Taking 8-9 story points 
+
+    Mentoring if the opportunity is available 
+
+    Know how system works and be able to set up workflows 
+
+    Collaborate on any part of the product independently. Measure this by checking on how much they are reaching out to their buddy to help guide them 
+
+    Measure differences between commitments and actual delivery. New hire should deliver commitments 90% of the time 
+
+ By 1 year: 
+
+    Trust them to be part of the interview panel for new roles 
+
+    Participate in owning tech design document if the opportunity is available 
+
+

@@ -1,0 +1,29 @@
+Kunai builds full-stack technology solutions for banks, credit and payment networks, infrastructure providers, and their customers. Together, we are changing the world’s relationship with financial services. At Kunai, we help our clients modernize, capitalize on emerging trends, and evolve their business for the coming decades by remaining tech-agnostic and human-centered.
+
+Kunai is launching a set of new development teams to work on one of the most advanced data driven decision systems in the banking industry. We will be creating real time customer experiences and back end services that will determine the credit worthiness of applicants and decision customers on new credit card products
+
+We are looking for experienced Software Engineers with expertise in Golang, to work on back end service development for a massive credit card tech decisioning platform. You'll build out the customer acquisition experiences and back end services that support the credit decision mircroservices that determine what products and lines can be assigned to new applicants to card products. These teams will have full-ownership to plan their work, break down user stories, build features, deploy to production and support production services. These are always-on systems that need to be highly resilient and stable with 99.99% uptime requirements.
+
+Requirements:
+
+    7+ years of software development experience
+    3+ years of experience working with Golang
+    Experience mentoring other engineers
+    Ability to lead architecture & design decision making, manage PR and Code Review, and implement code quality procedures
+    Expertise with microservice architecture and distributed systems
+    Knowledge in event-driven architectures leveraging tools like Kafka
+    Ability to work with real-time, super high resiliency systems
+    Experience working with a variety of AWS services 
+    Experience with serverless architectures and Lambdas
+
+Nice to have:
+
+    Previous experience in either Python or Java
+    Experience with AuroraDB
+    Knowledge of DevOps concepts
+    Prior experience with data-driven decisioning platforms
+    Financial Services or FinTech experience
+
+Our success over the past 20 years is rooted in our exceptional team, which thrives in a culture of collaboration, creativity, and continuous learning.
+
+We are proud to offer our employees a range of benefits, including competitive compensation, professional development opportunities, and flexible work arrangements, all designed to help them thrive. As we continue to expand, we remain committed to cultivating an environment where people feel valued, have a voice, and are given the tools to grow—both personally and professionally—while pushing the boundaries of innovation in the fintech industry.

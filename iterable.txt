@@ -1,0 +1,33 @@
+We’re looking for a strong Senior Backend Engineer to join a cross-functional product engineering team building next-generation experiences within Iterable’s platform. In this role, you’ll lead complex, high-impact projects from inception to delivery—working across team boundaries, navigating ambiguity, and shaping technical direction with minimal oversight.
+
+This is a great opportunity for someone with a strong product mindset who thrives on end-to-end ownership, enjoys solving real-world problems, and is excited to explore new capabilities like large language models (LLMs) and agentic workflows—even if you haven’t worked on AI-focused systems before. While AI is not the core focus of this role, we’re increasingly looking to incorporate intelligent, assistive features into user-facing experiences, and you’ll have the chance to help identify and prototype those opportunities.
+
+One of our core values is a growth mindset and Iterable is a company where everyone can grow. If this is a role that excites you, please do apply as we value applicants for the skills they bring beyond a job description.
+
+How you will make a difference:
+
+    Independently drive large-scale backend projects across multiple stakeholders and teams.
+    Collaborate closely with product managers, designers, and fellow engineers to deliver features that improve usability, scale, and customer value.
+    Own the full lifecycle of features—from discovery and design to implementation, deployment, and support.
+    Contribute to architectural discussions and technical decisions that raise the bar for engineering excellence.
+    Prototype applications of LLMs and agentic patterns, and help lay the groundwork for scalable, developer-friendly integration.
+    Provide technical mentorship through code reviews, pair programming, and design discussions.
+
+We are looking for people who:
+
+    5+ years of backend software engineering experience, ideally in a SaaS environment.
+    A track record of leading projects with multiple contributors and stakeholders.
+    Proficiency in modern backend languages—Scala and/or Java preferred.
+    Experience working with distributed systems and databases such as Elasticsearch, Postgres, Redis, or CockroachDB.
+    A product-minded approach—comfortable working closely with PMs and designers and weighing trade-offs across usability, performance, and complexity.
+    Curiosity and adaptability when working in new domains or learning new technologies.
+    Excellent communication and collaboration skills in a remote environment.
+
+Bonus Points
+
+    Experience with or interest in generative AI, LLMs, or agentic design patterns Strong intuition for user experience and product quality—even in backend-heavy roles
+    Background in building customer-facing product features or tools for non-technical end users
+    Familiarity with event-driven architecture, message queues like Kafka or Pulsar, and high-scale distributed systems
+    Exposure to full-stack development or close collaboration with frontend teams
+    Prior experience in a remote-first or highly distributed engineering team
+
