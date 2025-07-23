@@ -1,0 +1,51 @@
+We are hiring a Back-end Developer to join a dynamic project with Mastercard Advisors, focused on transforming their product architecture. You’ll design, build, and maintain scalable backend services in a fast-paced Agile environment.
+
+
+You’ll collaborate closely with product managers, project leads, and engineers across the product lifecycle—from ideation and development to deployment and ongoing optimization. The ideal candidate brings strong Java/Kotlin experience, a microservices mindset, and a passion for clean, scalable code.
+
+
+
+
+KEY RESPONSABILITIES
+
+    Build and maintain scalable backend services using Java/Kotlin and AWS.
+    Contribute to the technical architecture and design of services.
+    Translate business needs into technical solutions and user stories.
+    Participate in Agile ceremonies: sprint planning, code reviews, and backlog grooming.
+    Ensure high-quality testing and documentation.
+    Uphold data security and compliance best practices.
+    Support innovation initiatives and propose performance improvements.
+
+
+
+
+REQUIREMENTS
+
+
+🎓 Education
+
+    Bachelor’s degree in Computer Science or related field.
+
+
+💼 Experience
+
+    5–7+ years of backend development experience.
+    3–4+ years using Java or Kotlin and event-driven architecture.
+    Solid experience with Kubernetes and service-oriented architectures (100+ services).
+    Strong knowledge of AWS, GitLab, CI/CD, and DynamoDB.
+    Background in SOA or microservices-based applications.
+    Familiarity with Temporal is a plus.
+    Proven track record of owning and delivering backend solutions.
+
+
+
+🌟 What do we offer?
+
+    A high-impact project with a global brand (Mastercard Advisors)
+    Remote work with flexible hours (aligned to EST)
+    Exposure to high-scale, production-level service architectures
+    Collaborative environment with top-tier engineers
+    Opportunity to work on transformative backend services with the latest tech stack
+    Fast-paced Agile environment with measurable impact
+    Short-term, focused project with growth potential in future CII opportunities
+
