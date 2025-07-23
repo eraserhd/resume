@@ -1,0 +1,34 @@
+Join our mission-critical Search Experience backend team, where we're building the next generation of intelligent search engines at scale. Our team owns the backend systems that power Splunk's core search functionality and infrastructure behind all Splunk Enterprise product offerings and eco-system across platforms. We focus on providing reliable and resilient search experience for customers to detect threats and uncover insights from their ever-growing datasets with high-performance, low-latency searches on highly available infrastructure. Our stack is deeply rooted in C++, with emphasis on strong fundamentals of distributed systems, system-level thinking, and scalable design.
+
+We are looking for a Senior Software Engineer who is passionate about designing and delivering scalable backend systems, has deep expertise in C++ and distributed systems, and thrives in a challenging yet collaborative environment where technical leadership and mentorship are valued.
+
+What you'll get to do
+
+    Architect, design, and implement core backend services that support distributed search execution engines and infrastructure at scale.
+    Lead the technical delivery of complex projects, from ideation to deployment, ensuring reliability and maintainability.
+    Write high-quality, performant C++ code for backend services, with a strong focus on observability, fault tolerance, and efficiency.
+    Drive the evolution of system design to meet the demands of scalability, latency, and data consistency.
+    Debug and triage complex production issues across multiple services and layers of the stack.
+    Mentor and technically guide junior and mid-level engineers, promoting a culture of engineering excellence.
+    Collaborate cross-functionally with product, SRE, and other engineering teams to drive project success.
+    Continuously improve our systems by measuring performance and making data-driven decisions.
+
+Must-have Qualifications
+
+    6+ years of experience in software engineering, with a Bachelor’s or Master’s degree in Computer Science or related field, or equivalent practical experience.
+    Deep expertise in C++, including experience building high-performance backend systems.
+    Strong foundation in Distributed Systems concepts, System Design, Debugging and Testing.
+    Proven ability to design scalable and reliable system architectures.
+    Excellent problem-solving, debugging, and triaging skills.
+    Experience owning and delivering complex software projects end-to-end in production environments.
+    Strong written and verbal communication skills.
+    Demonstrated experience mentoring other engineers and driving technical direction.
+
+Nice-to-have Qualifications
+
+We’ve taken special care to separate the must-have qualifications from the nice-to-haves. “Nice-to-have” means just that Nice. To. Have. So, don’t worry if you can’t check off every box. We’re not hiring a list of bullet points–we’re interested in the whole you.
+
+    Familiarity with cloud infrastructure (AWS, GCP, or Azure) and distributed search environment.
+    Experience with modern monitoring, observability, and performance tuning tools.
+    Exposure to full-stack search systems (e.g., indexing pipelines, query execution pipelines).
+

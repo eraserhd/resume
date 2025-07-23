@@ -1,0 +1,50 @@
+\def\company{Ashby}
+\relevantskill{IaC}{nexus,centralpark,coresystems}
+\relevantskill{Kubernetes}{nexus,centralpark,coresystems}
+\relevantskill{Data Warehouse}{homepage,nexus,coresystems}
+\relevantskill{Security Work}{auth21,xpay,nexus}
+\relevantskill{Scalability}{points,homepage,nexus}
+\relevantskill{Canary+Gradual Rollouts}{points,homepage,finch}
+\relevantskill{Event-Driven Architecture}{points}
+\def\coverbody{
+   Hello!
+
+   I'm a Principal Software Engineer looking for my next gig.  While I've
+   been a high-performing software engineer for ugh--too long to admit now,
+   I've always been infrastructure-adjacent since building ISP infrastructure
+   in 2000 and earning my RHCE in 2005.
+
+   So I'm applying to a "Platform Engineer" position, not to take a back seat
+   on software engineering, but because your challenges look interesting.
+   "DSL-to-SQL compiler", eh?  I've always gravitated toward building services
+   that help the entire org, and this often is infrastructure-related.
+
+   Examples:
+
+   One of my roles at 2U involved migrating 60+ Go services that built manually from a
+   monorepo and deployed manually to a single EC2 instance.  I moved them into a company-blessed
+   Kubernetes cluster, CI/CD pipeline, and Datadog.  This was a challenge
+   because of resistance from the authoring contractors, but I succeeded through patience,
+   advocacy and a bit of just letting the contractors look silly.  The lack of
+   cooperation required me to dig in and understand the whole system, as many
+   components as originally engineered couldn't be horizontally scaled or deployed
+   in a zero-downtime fashion.  A lot of helm chart work was done here.
+
+   Another of my roles at 2U required fixing performance on a Salesforce data-cache whose intent
+   was to provide a single API unifying data across 20+ Salesforce instances.
+   This ended up being a combination RDS sizing and schema refactoring to reduce
+   the data size (for about 6 billion rows plus indexes) so that a high-memory RDS
+   could cache the full main table without thrashing the LRU cache.
+   Code work was necessary to use the new schema, and in-between dual-schema
+   states were managed so the system had zero downtime while the data migration
+   happened.
+
+   Interestingly, this last project had a GraphQL-to-SQL compiler itself.
+   It supported conjunction of multiple terms and value-set membership operators,
+   and I completed out the features by adding disjunction, grouping, and
+   negation, per user requests.  A different project that I wrote had a full
+   GraphQL-to-Datalog compiler with all the relational and set operations and
+   negation.
+
+   This sounds like an interesting position, and I hope we can talk.
+}

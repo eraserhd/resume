@@ -1,0 +1,22 @@
+PathAI is on a mission to improve patient outcomes with AI-powered pathology. We are transforming traditional pathology methods into powerful, new technologies. These innovations in pathology can help accelerate drug development, improve confidence in the accuracy of diagnosis, and get life-saving therapies to patients more quickly. At PathAI, you'll work with a diverse and talented team of people, who are dedicated to solving complex problems and making a huge impact.
+
+What You’ll Do
+
+    Work with backend and frontend (i.e. Vue.js) technologies
+    Drive architecture and implementation decisions across the full technology stack
+    Collaborate with ML, design, product, frontend, and infrastructure teams
+    Uphold high-quality standards via testing, code reviews, and CI/CD
+    Mentor mid-level engineers across backend and frontend domains
+    Ensure compliance when contributing to software regulated as medical devices
+
+What You'll Need
+
+    5+ years of software engineering experience
+    Strong foundational knowledge in data structures, algorithms, and system design
+    Experience deploying full-stack features and API integration
+    Bachelor’s in CS or equivalent experience
+    Curiosity and adaptability within complex technical environments
+
+We Want to Hear From You
+
+At PathAI, we are looking for individuals who are team players, are willing to do the work no matter how big or small it may be, and who are passionate about everything they do. If this sounds like you, even if you may not match the job description to a tee, we encourage you to apply. You could be exactly what we're looking for.
