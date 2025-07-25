@@ -1,0 +1,27 @@
+In this team you will be working on building and expanding the Pulumi ecosystem. This includes (but is not limited to!) building Pulumi providers, creating higher level components for the Pulumi ecosystem, and helping to enable the Pulumi community to build their own providers, components and integrations.
+
+Expect to be challenged, learn, and collaborate with a world class team and our amazing developer community.
+
+While Pulumi is headquartered in Seattle, WA., we are dedicated to being a remote first company. This role can be located remotely in the United States or in Europe. 
+In This Role You Will:
+
+    Expand the Pulumi ecosystem by building providers and higher level libraries that interact with the larger cloud and DevOps tooling ecosystem.
+    Interact with a distributed team and the Pulumi open source community to determine roadmaps, scope features, and improve documentation.
+    Lead projects from concept to completion that improve the Developer experience and leverage for users of Pulumi providers and components.
+    Evolving the existing platform by guiding standards, and bringing a fresh perspective for improvements.
+    Help mentor and foster good development practices both within the team and the wider Pulumi community
+    Work from home with global travel 2 to 4 weeks a year for internal and external events
+
+We’re Looking For Someone With:
+
+    Familiar with Go and/or have an interest in learning new programming languages
+    Have an understanding of the cloud infrastructure ecosystem (e.g. AWS, GCP, Azure, Kubernetes)
+    Care about delivering value for customers and users
+    Have experience with deployment orchestration and infrastructure-as-code tools
+    Have a strong interest in building the next generation of developer tools that help build real world solutions
+    Have 5+ years of professional software development experience
+
+Compensation:
+
+    Base Salary Hiring Range: $180,500 to $227,850
+    All full time employee offers at Pulumi include base salary, bonus or variable, equity and benefits (details below).

@@ -1,0 +1,34 @@
+Starburst is looking for strong Java engineers to work with our globally distributed engineering team on the core of Starburst’s software. This is a great opportunity to deepen your expertise in a rapidly evolving technology and make a significant impact on leading data analytics products. Our managed SaaS and on-premise Data Platform Product offerings provide unique and interesting problems to be solved, and incredible learning opportunities for any engineer. Starburst offers the opportunity to compete at global scale with other elite vendors in the Data Analytics space.
+
+As a Senior Software Engineer At Starburst You Will
+
+    Design, develop and maintain Connectors in Open Source Trino, the Starburst Enterprise Platform, or Starburst Galaxy 
+        Starburst offers to its customers over 50 connectors that are critical to their business operations across a wide range of data sources
+        Find ingenious ways to speed up complex queries without sacrificing correctness of the results
+    Collaborate with your team members and other teams globally and operate in a fast paced environment
+        We prioritize focused work, ensuring minimal time is spent in formal meetings, allowing you to concentrate on coding and PR reviews
+        Being able to clearly articulate your ideas in writing across various communication channels like Slack, GitHub PRs, and Design Documents is essential in our globally distributed team
+    Provide exceptional customer support for both internal and external customers
+        We’re pretty humbled by the trust that our customers give our Query Engine to crunch their data and handle with utmost seriousness the problems they report to us
+
+Some Of The Things We Look For
+
+    Prior experience developing distributed systems
+    Extensive software development experience with Java
+    Demonstrated experience with software engineering and design best practices.
+    Appreciation for creating maintainable, performant, and high quality software as part of a high-performing globally distributed team of engineers
+    Intrinsic motivation for improving your software engineering craftsmanship
+    Significant autonomy and ownership
+    Curiosity to see what other engineering teams are doing and ability to connect the dots
+    Demonstration of Ownership, Grit, and Bias for Action - Core Values at Starburst
+
+Bonus Points
+
+    Familiarity with using a Query Engine (Storage and Compute separation)
+    Data Engineering expertise
+        Understanding the Data Engineer's perspective is valuable in driving innovation within data lakehouse architectures
+    Experience in Lakehouse Architecture
+    Experience in contributing to larger scale Open-Source Software
+        Ability to push forward and deliver functionality while respecting your peers, keeping in mind Correctness, Quality, Performance, Code maintainability
+
+

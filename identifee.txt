@@ -1,0 +1,36 @@
+Position Overview
+
+We're seeking a Senior Backend Developer who embodies ownership and initiative while driving technical excellence. This role requires someone who can bridge the gap between business requirements and technical implementation, leading by example in code quality and team collaboration.
+
+
+Core Characteristics & Mindset
+
+    Initiative & Ownership: Takes proactive responsibility for project outcomes, identifies potential issues before they arise, and drives solutions to completion
+    Technical Leadership: Mentors team members and sets standards for code quality and development practices
+    Business-Technical Translation: Excels at converting non-technical requirements into clear, actionable development tasks
+
+
+Required Technical Skills
+
+Primary Stack
+
+    TypeScript: Advanced proficiency with modern TypeScript patterns, generics, and type safety best practices
+    Node.js: Deep experience with Node.js ecosystem, async programming, and performance optimization
+    AI-Assisted Development: Versed in Claude Code for enhanced productivity, code generation, and problem-solving is a plus
+
+
+Leadership & Process Skills
+
+    Code Review Leadership: Experience conducting thorough code reviews, providing constructive feedback, and establishing review standards
+    Requirements Analysis: Proven ability to break down complex business requirements from product managers, designers, and stakeholders into detailed technical specifications and user stories
+    Technical Communication: Can explain technical concepts to non-technical team members and translate business needs into development priorities
+
+
+Key Responsibilities
+
+    Lead technical discussions and architectural decisions
+    Conduct comprehensive code reviews and mentor junior developers
+    Collaborate with product and design teams to refine requirements
+    Break down epics and features into actionable development tasks
+    Utilize Claude Code and other AI tools to accelerate development workflows
+    Take ownership of feature delivery from conception to production
