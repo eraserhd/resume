@@ -1,0 +1,64 @@
+We are building a team of owners and changemakers. It is not enough to have the intention to do good –Esusu engineers translate intent into action and outcomes. We believe that lone heroes cannot accomplish our ambitious goals. Lasting change requires work by determined and collaborative individuals with a customer-first mindset. Our engineers aim to delight our customers and drive our business and team forward by leveraging their technical skills, empathetic curiosity, and teamwork.
+
+
+Our back-end is microservice-based, hosted in AWS, and mainly written in Go. Our front end is based on React and written in Typescript. Our mobile apps are built using Flutter. Our data infrastructure is based on MongoDB, PostgreSQL, S3, Sagemaker, Snowflake, Talend, and mainly written in Python.
+
+
+We are continuously innovating and always open to new solutions. Because Esusu is a financial services company, we are obsessive about every aspect of compliance and security. We embrace a DevOps environment where the team is responsible for the full spectrum of development, testing, deployment, and maintenance, including working with product and business operations teams to create customer-focused solutions. Even though we are 100% remote, Esusu’s culture is intensely collaborative.
+
+
+The Opportunity
+
+Esusu is seeking a Principal Engineer with expertise in back-end, big data, AI/ML, and fintech or proptech expertise to play a pivotal role in the growth of our company. This role requires a high degree of collaboration with engineering peers, engineering managers, product owners, designers, and cross-functional partners that rely on, produce, and interact with our engineering, data, and AI/ML systems. Your expertise in product development and technical guidance, combined with your ability to support and empower others, will drive the creation of new products and improve existing ones. This approach will expand our customer base and deliver delightful and enriching experiences.
+
+
+You will be working on our next-generation back-end services, data platforms, and AI/ML models that will enable Esusu to benefit millions of people. This work will allow you to own and lead the development of key features across multiple lines of business. Beyond technical duties, you will coach, mentor, and develop our engineers by providing professional training and direct mentorship. Additionally, you will play a key role in recruiting, hiring, and onboarding new talent for the team. You will ensure efficient project delivery by planning effectively, setting clear expectations, prioritizing tasks, and delegating responsibilities. Furthermore, you will embody and promote Esusu’s culture and operating principles.
+
+This role reports directly to the VP of Engineering.
+
+
+Core Competencies
+
+    Superb programming, software, and data development skills – You can independently devise and implement solutions to problems with minimal explanation needed.  
+    Strong communication skills – You can efficiently translate between technical and non-technical audiences and have strong writing skills. 
+    High standards – Your work is of the highest quality, and you continue to raise the bar within your immediate team and our organization. 
+    Balance velocity with long-term goals – You balance thinking big with delivering the right thing in an agile and speedy manner. You are curious, flexible, and nimble in your approach and implementation. 
+    Heart of a teacher – You are a capable mentor and able to inspire and empower others on your team. 
+    Getting work done and driving excellence – You strive for excellence and prioritize delivering high-quality outcomes and projects.  
+    Adaptability – You thrive in an environment that changes quickly and is constantly presenting new challenges.
+
+
+Basic Qualifications
+
+    Master’s degree in computer science or similar discipline. We will also consider candidates with a relevant bachelor’s degree in a STEM field with 10+ years of relevant work experience. 
+    Very strong experience in back-end, microservice, API-driven, event-driven, and data platform engineering work experience. 
+    Strong experience with AWS services such as DynamoDB, ECS/EKS, RDS, S3, SNS/SQS, Lambda. 
+    Strong experience in the credit reporting, accounting, lending, banking, payments, screening, identity, insurance, subscriptions, or similar industry. 
+    Strong experience mentoring individual contributors, including back-end and front-end engineers. 
+    Experience with general-purpose languages like Go, Python, C++, Java. 
+    Experience on database solutions, including Relational and NoSQL data stores. 
+    Experience with microservices and event-driven architectures. 
+    Experience in building and deploying machine learning models, with a strong understanding of the theory and trade-offs behind these techniques. 
+    Experience with ETL/ELT and data orchestrating tools like Airflow, Dagster, Prefect. 
+    Experience with Snowflake for cloud data warehousing, data integration, and efficient handling of large-scale data storage and processing. 
+    Experience leading both product and business strategy, and planning and roadmap delivery. 
+    Experience working in and fostering environments that utilize Infrastructure-as-Code and DevSecOps. 
+    Experience in working with globally distributed teams. 
+
+
+Above and Beyond
+
+    Experience in the FinTech or PropTech industries.
+    Experience with front-end languages like JavaScript, TypeScript, Dart, and Frameworks such as React, Flutter.
+    Experience in a startup environment.
+    Experience in SOC2, ISO27001, or similar certified organizations.
+
+
+Key Technologies We Use
+
+    Backend: Go, Python.
+    Cloud: Amazon Web Services (AWS).
+    Data: MongoDB, PostgreSQL, S3, Sagemaker, Snowflake, Tableau.
+    Frontend: React, Typescript.
+    Mobile: Flutter, Dart.
+
