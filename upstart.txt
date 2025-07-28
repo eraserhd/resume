@@ -1,0 +1,73 @@
+Upstart is the leading AI lending marketplace partnering with banks and credit unions to expand access to affordable credit. By leveraging Upstart's AI marketplace, Upstart-powered banks and credit unions can have higher approval rates and lower loss rates across races, ages, and genders, while simultaneously delivering the exceptional digital-first lending experience their customers demand. More than 80% of borrowers are approved instantly, with zero documentation to upload.
+
+Upstart is a digital-first company, which means that most Upstarters live and work anywhere in the United States. However, we also have offices in San Mateo, California; Columbus, Ohio; and Austin, Texas.
+
+Most Upstarters join us because they connect with our mission of enabling access to effortless credit based on true risk. If you are energized by the impact you can make at Upstart, we’d love to hear from you!
+
+The Team:
+
+We’re a small team building our own business. Our first product, launched summer ‘23, is a home equity line of credit (HELOC) for homeowners. Our next product is a home loan (mortgage) for homebuyers. It will be the most complex product Upstart has built to date, and we need more talented, creative engineers to help us make it happen!
+
+Why Mortgage? This industry is the largest category of consumer credit in the US, with over $2 trillion in originations last year. This is where Upstart can make its biggest impact.
+
+Why us? The market has left behind millions Americans with imperfect credit or difficult-to-document income. Serving these customers is Upstart’s bread and butter, and it’s core to our mission. Because we use machine learning to assess creditworthiness versus a fixed formula more than a decade old (FICO), we’re able to extend loans to prospective homeowners that our competitors just can’t. We’ve proven this model with personal loans and auto loans, and now we want to bring this access to where families feel it the most: where they live.
+
+We want our team to reflect the people we’re serving. To serve customers at the fringes, we need people who think at the fringes—weird, quirky, out-of-the-box do-ers who reason from first principles and not from the status quo. We leave our ego at the door and crave being proven wrong. We're a high-empathy team, and we succeed as a team first, individuals second.
+
+As a senior engineer on one of Upstart’s newest teams, you’re a leader who can work across the whole stack, who doesn’t need roads paved for you before you take action. You can work in the frontend (React) or the backend (Kotlin), but you might specialize in one. You’re an individual contributor who uses tech to ply your craft, but you excel at thinking like a product manager and a business owner when needed. You can handle high-stakes calls with 3rd parties and customers, and you thrive on making decisions that impact not just how we build but what we build. Finally, you’re a mentor, and you take seriously the responsibility to coach and grow each of the engineers around you.
+
+ 
+
+How you’ll make an impact:
+
+Beyond leveraging our existing tech (AWS, Kafka, Spring Boot, Next.js, Kubernetes, Kotlin, React), here’s how you’ll make an impact:
+
+    Lead successful cross-team and/or multi-quarter, multi-engineer projects
+    Proactively search out ways to expand impact that extends well beyond the Jira board
+    Turn team-specific projects into opportunities to up-level the team and the org’s tech platform
+    Know the product as well as the EM and PM and contribute to the product vision/strategy
+    Propose and deliver new ideas that achieve meaningful improvements to our team’s business metrics
+    Contribute in a meaningful way to quality improvements within our team
+
+What we’re looking for: 
+
+    Minimum requirements:
+        5+ years professional experience in fullstack software
+        3+ years proficiency in Kotlin, Java, or C#. (Our backend is in Kotlin, but Java and C# are similar enough that you can learn on the job.)
+        Some hands-on experience with a JavaScript framework like React
+        Some hands-on experience with SQL databases and domain modeling
+    Preferred qualifications:
+        Excellent written and verbal communication. As a senior engineer, a big part of your job will be mentoring others and representing our team in cross-functional, cross-team, or even cross-company conversations. And you’ll need to tailor your communication style to fit these different audiences’ needs.
+        Preference for face-time and synchronous collaboration. We’re a distributed team of remote workers (from coast to coast), and while we predominantly build asynchronously, we prefer facetime when collaborating in a tight feedback loop. You’ll need to be comfortable with a few hours of Zoom per day (e.g. mob programming) to excel in this role.
+        Enthusiasm for non-coding responsibilities. Design and coding will be ~70% of your job. The rest will be influencing the direction of the people and the product around you—for instance, by researching and proposing a new product idea to key stakeholders.
+        Comfortable challenging authority. We want engineers who can push back on their managers when they think we’re going down the wrong path. Related: you thrive in environments where you are expected to think like an owner and make decisions like one.
+
+Travel Requirements - This team has regular on-site collaboration sessions. These occur 3 days per quarter at an Upstart office. If you need to travel to make these meetups, Upstart will cover all travel related expenses.
+
+What you'll love: 
+
+    Competitive Compensation (base + bonus & equity)
+    Comprehensive medical, dental, and vision coverage with Health Savings Account contributions from Upstart 
+    401(k) with 100% company match up to $4,500 and immediate vesting and after-tax savings
+    Employee Stock Purchase Plan (ESPP)
+    Life and disability insurance
+    Generous holiday, vacation, sick and safety leave  
+    Supportive parental, family care, and military leave programs
+    Annual wellness, technology & ergonomic reimbursement programs
+    Social activities including team events and onsites, all-company updates, employee resource groups (ERGs), and other interest groups such as book clubs, fitness, investing, and volunteering
+    Catered lunches + snacks & drinks when working in offices
+
+ 
+
+#LI-REMOTE
+
+#LI-MidSenior
+
+At Upstart, your base pay is one part of your total compensation package.  The anticipated base salary for this position is expected to be within the below range. Your actual base pay will depend on your geographic location–with our “digital first” philosophy, Upstart uses compensation regions that vary depending on location. Individual pay is also determined by job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+In addition, Upstart provides employees with target bonuses, equity compensation, and generous benefits packages (including medical, dental, vision, and 401k).
+United States | Remote - Anticipated Base Salary Range
+$163,600—$226,400 USD
+
+Upstart is a proud Equal Opportunity Employer. We are dedicated to ensuring that underrepresented classes receive better access to affordable credit, and are just as committed to embracing diversity and inclusion in our hiring practices. We celebrate all cultures, backgrounds, perspectives, and experiences, and know that we can only become better together. 
+
