@@ -1,0 +1,56 @@
+Why Teleport
+
+
+At Teleport, we focus on empowering our people to accomplish their goals by working alongside highly talented people to make the most of their careers. You have the freedom, autonomy and trust to do what you’re great at and have a significant impact on the future prospects of the company. 
+
+
+Whether that’s taking a feature or project from ideation to deployment or working with some of the biggest, most interesting companies in the world and solving real challenges for them, we want you to help us build the future.
+
+
+We’re not a big company. You won’t get lost in a crowd. Instead, we move fast, with a team that wants to make an impact, that shares in our success, and gives you the freedom, power, and autonomy to become the very best at what you do.
+
+
+You will be joining the Teleport engineering team, responsible for building our unified access plane for SSH servers, Kubernetes clusters, databases and other infrastructure.
+
+
+Teleport is an open source project, written in Go and Rust with web-based UIs in JavaScript with React.
+
+
+Who you are - To succeed at Teleport and take your career into the future, we are looking for people who are:
+
+    Autonomous: We value those who take initiative and get things done. Our team trusts in their ability to make decisions that benefit the company and its customers, letting their work speak for itself
+    Security-minded: Working on the very fabric of the internet and providing infrastructure access to some of the world’s biggest companies means you need to think security-first. Our platform is the gatekeeper - The Wall. And winter is coming. We need to ensure we’re secure
+    Business-savvy: We don’t code for coding's sake. We build for our customers. Designed by engineers for engineers, we understand their environment, challenges and needs better than anyone else. That means we have built a business that can support them by making the right choices that ensure we are in business for the long haul
+    Professional: We are a team of dedicated professionals, committed to excellence. We set a high bar for joining Teleport, ensuring we attract top talent ready to help shape the future. If you’re passionate about being the best at what you do, Teleport is the place for you
+
+
+Here is why we love this job ourselves, and hope you will enjoy it too:
+
+    The range of problem solving includes networking, performance, security and integrations with existing systems
+    Build and test cycles are measured in seconds, integration tests are running in minutes
+    Most of the code you will write will be open source
+    Our products are loved by their users, you’ll get to talk to some of them on Slack
+    We practice thorough code reviews and have an open design process.
+
+
+Here are the projects you may be working on:
+
+    Building backend integrations with cloud provider's managed databases
+    Working on scalability and resiliency of clusters with 10K+ nodes
+    Implementing advanced HTTPS proxy with identity aware access control
+    Building hardened security for Linux and Mac users. 
+
+
+What to expect once you apply:
+
+    We will send you a 15 minute programming quiz in Golang
+    You will join 30 minute intro call and we will walk you through the compensation, interview process and requirements
+    You join a Slack channel and submit a coding challenge in Golang or Rust using Github
+
+
+Requirements:
+
+    Golang or Rust experience
+    Linux systems engineering
+    Cryptography engineering experience is a plus
+
