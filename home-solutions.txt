@@ -1,0 +1,28 @@
+You will work closely with business stakeholders and product leads to bring predictive decisioning and AI-native systems to life - having a meaningful impact to our business. 
+
+Your Day-to-Day
+
+    Own and evolve core back-end systems including:
+        Lead Management Platform – intelligent routing, partner integrations, and auction systems.
+        Ad Targeting Systems – real-time pipelines that power data syncing with platforms like Google, enable intelligent ad targeting, and drive performance optimization at scale.
+    Design and implement scalable services using Elixir Phoenix LiveView, SQL, and AWS.
+    Partner with Data Science, Product, and Business stakeholders to integrate predictive models into system logic.
+    Champion engineering best practices around testing, code quality, documentation, and security.
+    Bring an “AI Superuser” mindset - leveraging and championing tools that improve velocity and insight.
+    Help drive clarity and critical thinking on tech strategy to meet business goals. 
+
+About You
+
+    5+ years of experience as a full stack engineer , with a strong track record of owning and shipping production systems.
+    3+ years of hands-on experience with Elixir Phoenix LiveView in production systems.
+    Strong SQL skills and experience with PostgreSQL in high-volume environments.
+    Experience deploying systems in the cloud, preferably AWS.
+    Full stack experience, with strength in back-end systems and strong working knowledge of data pipelines.
+    Strong problem solver and critical thinking mindset.
+    Effective communicator - able to collaborate closely with business stakeholders and translate engineering concepts.
+    Bonus if you have experience with JavaScript and Python.
+    Comfortable working in a fast-paced, high-accountability environment.
+    You love autonomy, take pride in quality, and are always looking for leverage through automation or AI.
+    Alignment with our core values: Grow Without Limits, Get After It, Act With Focus, and Build The Team.
+
+While we’re looking for some specific experiences and skillsets, nothing is more important than a strong can-do attitude, resilience in the face of change and uncertainty, and a passion for learning and creating.
