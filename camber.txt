@@ -1,0 +1,28 @@
+Camber builds software to improve the quality and accessibility of healthcare. We streamline and replace manual work so clinicians can focus on what they do best: providing great care. For more details on our thesis, check out our write-up: What is Camber?
+
+We’ve raised $50M in funding from phenomenal supporters at a16z, Craft Ventures, YCombinator, Manresa, and many others who are committed to improving the accessibility of care. For more information, take a look at: Announcing Camber
+
+About our Culture:
+
+Our mission to change behavioral health starts with us and how we operate. We don’t want to just change behavioral health, we want to change the way startups operate. Here are a few tactical examples:
+
+     Improving accessibility and quality of healthcare is something we live and breathe. Everyone on Camber’s team cares deeply about helping clinicians and patients. 
+     We have to have a sense of humor. Healthcare is so broken, it's depressing if you don't laugh with us. 
+
+About the role:
+
+Camber is looking for engineers who want to make healthcare more accessible and affordable. In this role, you’ll work across our stack, propose and lead new projects, and help us define the company’s technical and product direction.
+
+What you'll do:
+
+    Lead projects: You’ll take projects from 0 to 1. You’ll identify problems, build alignment, and implement solutions autonomously. 
+    Write great code: Our engineers strive to write code that’s not only functional, but readable, maintainable, and scalable. 
+    Build team culture: We believe that a great company and engineering team culture are essential to build great product
+
+What we're looking for:
+
+    Experience: 5+ years of experience working on production systems. 
+    Mission-driven mindset: Driven to empower clinicians with product experiences that lets them focus on providing care, not manual check-the-box work. 
+    Customer Empathy: Our engineers need to understand our customers’ pain points to build products that meet their needs. 
+    Curiosity: We look for engineers who love learning new things. We don’t expect you to know everything about the technologies we’re using or our industry, as long as you’re curious and interested in learning. 
+

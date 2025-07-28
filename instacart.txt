@@ -1,0 +1,44 @@
+About the Role
+
+As a Senior Software Engineer II on the Payments team, you’ll design, develop, and maintain robust, scalable, and highly available backend systems that power every transaction on Instacart’s platform. Your responsibilities will include implementing secure and reliable payment APIs and services, leading technical projects across teams, and architecting integrations with external payment processors and financial partners. You will have the opportunity to optimize systems for cost, reliability, and operational excellence, while proactively driving platform improvements that move key business metrics. This is a hands-on technical leadership position where you’ll mentor fellow engineers, uphold high standards for code quality, and foster a culture of continuous improvement and ownership.
+
+About the Team
+
+The Payments team is a business-critical, high-impact group within Instacart’s Platform organization. We build and operate foundational systems that must excel in performance, compliance, and reliability—while enabling rapid innovation for all our users. We collaborate cross-functionally with legal, finance, product, data science, and external partners to deliver seamless payment experiences and ensure accounting accuracy.
+
+We value agility, operational excellence, and continuous learning, and we champion a culture where strong design, collaboration, and clear communication are the norm. As part of this team, you’ll shape the future of payments at Instacart and help mentor an exceptional group of engineers.
+
+About the Job
+
+    Design, develop, and maintain robust, scalable, and highly available backend systems for payment processing.
+    Implement payment-related APIs and services, ensuring security, reliability, and accuracy at every step of the payment lifecycle.
+    Lead technical projects that span multiple teams, from initial design to execution and continuous improvement.
+    Integrate with external payment processors, gateways, wallets, and financial partners while ensuring compliance with regulatory requirements.
+    Optimize systems for cost, performance, observability, and operational efficiency.
+    Collaborate with cross-functional partners across legal, product, data science, finance, operations, and more.
+    Proactively drive platform improvements and initiatives that impact key business metrics.
+    Mentor and support fellow engineers, establish best practices, and uphold high standards for code quality and architecture.
+
+ 
+About You
+Minimum Qualifications
+
+    Bachelor’s degree in Computer Science, Computer Engineering, or similar.
+    5+ years of backend engineering experience in high-scale, distributed environments.
+    Proficient in backend languages (e.g., Ruby, Go, Java).
+    Experience with relational databases (PostgreSQL, MySQL, etc.), caching (Redis, Memcached), and distributed systems.
+    Comfortable navigating complex business and technical domains, especially payments, invoicing, billing, or compliance-heavy environments.
+    Strong communicator who can lead projects and drive alignment across stakeholders.
+    High sense of ownership, capable of working independently, influencing team direction, and mentoring others.
+    Strong background in operational excellence: monitoring, alerting, and incident response.
+    Hands-on experience driving experimentation and A/B testing when launching new features, with a data-driven approach to measuring and iterating on outcomes.
+
+ 
+Preferred Qualifications
+
+    Expertise in payment infrastructure, payment authorization flows, and reconciliation.
+    Experience launching payment methods, optimizing for payment success rates, or managing payment costs.
+    Experience designing or operating workflows with Temporal or similar workflow orchestration technologies.
+    Track record of driving measurable impact through technical innovation in payments or financial systems.
+    Thrive in an AI-first engineering environment, leveraging AI-powered tools as part of your workflow and contributing to the ongoing evolution of best practices that boost team productivity.
+
