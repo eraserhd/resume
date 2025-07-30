@@ -1,0 +1,65 @@
+Command|Link is a global SaaS Platform providing network, voice services, and IT security solutions, helping corporations consolidate their core infrastructure into a single vendor and layering on a proprietary single pane of glass platform. Command|Link has revolutionized the IT industry by tackling the problems our competitors create. In recognition for our unprecedented innovation and dedication, Command|Link was recognized as the SD-WAN Product of the Year, ITSM Visionary Spotlight, UCaaS Product of the Year, NaaS Product of the Year, Supplier of the Year, and the AT&T Strategic Growth Partner. Command|Link has built the only IT platform for scale that solves ISP vendor sprawl and IT headaches. We make it easy for our customers to get more done, maximize uptime and improve the bottom line.
+
+Learn more about us here!
+
+This is a remote position open to candidates residing in the following states: Alabama, Arizona, Arkansas, Colorado, Florida, Georgia, Indiana, Kansas, Kentucky, Louisiana, Maryland, Michigan, Mississippi, Missouri, Nevada, New Hampshire, North Carolina, Ohio, Oklahoma, South Carolina, Tennessee, Texas, Utah, Virginia, Wisconsin
+
+About Your New Role
+
+We’re seeking an exceptional Technical Leader to spearhead the next evolution of our 13-year-strong Quote Engine—a mission-critical system powering our quoting and pricing operations. As the Founding Engineer for this transformation, you’ll lead the architectural reimagining of a complex, high-throughput system and play a pivotal role in shaping the product and technical roadmap for the next decade.
+
+This is a rare opportunity to build the future while standing on a strong, battle-tested foundation. You’ll provide hands-on technical direction, lead a handpicked squad of engineers, and collaborate with senior stakeholders across Sales, Vendor Management, Finance, and the C-suite.
+
+Key Responsibilities
+
+    Lead Architecture & Technical Vision: Re-architect our Quote Engine into a next-generation, scalable, cloud-native platform using modern design patterns and technologies.
+    Build & Lead a Team: Recruit, mentor, and manage a high-performance engineering team focused on reliability, scalability, and innovation.
+    Collaborate Across the Org: Partner closely with cross-functional leaders in Sales, Finance, Vendor Management, and executive leadership to align technical initiatives with business goals.
+    Ensure Operational Excellence: Drive high standards for performance, resilience, observability, and maintainability. Establish SLAs/SLOs and lead chaos testing and incident response practices.
+    Champion Engineering Culture: Define best practices, write Engineering Playbooks, facilitate Architecture Decision Records (ADRs), and coach mid-level engineers on advanced systems concepts.
+
+Must-Have Technical Expertise
+
+    7+ years designing and writing production code in at least one of the following: Go, PHP, Python (asyncio)
+    Proven experience with highly scalable, concurrent systems
+    Expertise in:
+        Multithreaded architectures and concurrency primitives (locks, CAS, futures, non-blocking I/O)
+        Distributed systems design, including CAP trade-offs and consistency models
+        Reactive/actor frameworks like Akka, Orleans, or Azure Service Fabric Reliable Actors
+        Event-driven architectures and queue-centered microservices
+        Designing idempotent, durable flows with Kafka, RabbitMQ, NATS, or Service Bus
+        Back-pressure strategies, circuit breakers, and fault tolerance
+        Azure (preferred), including Service Bus, Cosmos DB, Key Vault, and Azure Monitor
+        Serverless orchestration with fan-out/fan-in strategies
+        Authentication & Security: OAuth 2.0, HMAC, mTLS, secrets management, rate limiting
+
+Systems & DevOps Familiarity
+
+    Observability: OpenTelemetry, Grafana, Azure Monitor
+    CI/CD: Canary releases, green/blue deployments
+    Operational Readiness: Chaos drills, SLO/SLA planning, load-shedding
+    Documentation: Engineering playbooks, technical ADRs
+
+Who You Are
+
+    A systems thinker with deep architectural intuition and a pragmatic mindset
+    Highly opinionated through experience, yet collaborative and open to consensus-building
+    Comfortable with both strategy and execution—you can zoom in on code and zoom out to roadmap
+    Passionate about technical mentorship, engineering excellence, and business impact
+    Thrives in a fast-paced, entrepreneurial environment with high ownership
+
+Why you'll love life at Command|Link
+
+Join us at CommandLink, where you'll have the opportunity to shape the future of business communication. We value the innovative spirit and seek individuals ready to bring their unique vision and expertise to a team that values bold ideas and strategic thinking. Are you ready to make an impact?
+
+    Room to grow at a high-growth company
+    An environment that celebrates ideas and innovation
+    Your work will have a tangible impact
+    Generous Medical, Dental, and Vision coverage for full-time employees
+    Flexible time off 
+    401k to help you save for the future
+    Fun events at cool locations
+    Free DoorDash lunches on Fridays
+    Employee referral bonuses to encourage the addition of great new people to the team
+
+Commandlink hires individuals in a number of geographic regions and the pay ranges listed reflect the cost of labor across these regions. The base pay for this position as displayed at the bottom of the job description is a range based on our lowest geographic region, up to our highest geographic region. Pay is based on location among other factors, such as skill-set, experience, and qualifications held.
