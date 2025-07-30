@@ -1,0 +1,19 @@
+What You Will Do
+
+    Build out core infrastructure services and microservices that impact our machine learning, frontend, and platform teams.
+    Build out core infrastructure for various functionalities such as: distributed configuration management, rate limiting, feature flag, A/B testing, and traffic capture and replay.
+    Improve the performance, scalability and observability of the Moveworks cloud infrastructure.
+    Deliver deadline sensitive work regularly that is interdependent with other engineering teams.
+    Own features end-to-end, and regularly influence the infrastructure roadmap.
+    This is a highly collaborative, in-person role, working cross functionally with Core and ML engineering teams, and more.
+
+What You Bring To The Table
+
+    8+ years of experience designing, building, shipping, and maintaining backend distributed systems.
+    Familiarity with Python/Golang/Java/C++.
+    Experience with containers/Docker, and with cloud infrastructure like AWS/GCP/Azure.
+    Desire to work at a startup pace with a high degree of ownership.
+    Experience solving for performance, optimization, scalability, latency, and monitoring.
+    Strong motivation, gumption, and an appetite for continuous, incremental changes and completing challenging projects quickly.
+    BS in computer science or a related field.
+    High level of curiosity about engineering outside of your immediate discipline and an incessant desire to learn.
