@@ -1,0 +1,54 @@
+Who We Are
+
+Recognized as one of Austin’s best places to work, we are a collaborative and dedicated team with innovation built into our DNA. Iodine is an enterprise AI company that is championing a radical rethink of how to create value for healthcare professionals, leaders, and their organizations - by automating complex clinical tasks, generating insights and empowering intelligent care. Powered by one of the largest sets of clinical data and use cases available, our groundbreaking clinical machine-learning engine, Cognitive ML, constantly ingests the patient record to generate real-time, highly focused, predictive insights that clinicians and hospital administrators can leverage to dramatically augment the management of care delivery.
+
+What We’re Looking For
+
+Our client base is constantly growing and we’re looking for great software engineers to make our team better. As Principal Software Engineer, you’ll be a technical lead for our AwareCDI platform. You’ll be challenged often and will find yourself working on all areas of the application domain across the full app delivery stack. While this is a hands-on role where coding is a large part of the job, equally important is the ability to lead a team to convert product vision to software design/implementation.
+
+What You’ll Do
+
+    Provide technical leadership for one or more software development teams throughout the entire product lifecycle
+    Design and implement highly resilient, scalable, and performant solutions that solve complex healthcare problems
+    Mentor and coach other engineers
+    Perform code reviews
+    Work with the engineering leadership team to define architectural principles, frameworks, and standards to ensure consistency across the organization
+    Drive strategic technology initiatives
+    Ensure that we continuously improve our standard of engineering excellence
+    Design and implement automated end-to-end, performance, load, scalability, and security tests
+    Collaborate with business, product, and engineering teams to understand the product vision and requirements
+    Champion for quality to be driven into the product from the start
+    Set and drive expectations around quality for each product release
+    Create test plans, analyze test results, and create test data scenarios
+    Document and track defects to closure
+    Ensure that production defect root causes are analyzed and addressed in a timely manner
+    Improve processes and tools that help shape the quality framework within the team and across the organization
+    Conduct in-depth technical and performance analyses in support of production issue troubleshooting
+
+What We’d Love To See
+
+    BS in Computer Science or related area
+    10+ years of software development experience, with 3+ years as technical lead
+    Ability to independently design and deliver large complex projects
+    Deep expertise in multiple programming languages and platforms including Java/Spring and JavaScript/Typescript
+    Experience in modern client-side programming and data access via SQL datastores
+    Strong sense of ownership and product understanding
+    Proficiency with breaking up a modular, monolithic architecture into microservices
+    Expertise in Docker/Kubernetes, GraphQL/REST, and PostgreSQL
+    Experience developing highly performing/high volume web applications
+    Intermediate proficiency with SQL
+    Experience with CI/CD
+    Comfort working in a Linux environment
+    Excellent oral and written communication skills
+    Travel to and from company headquarters in Austin, Texas is required for new hire orientation, onboarding and occasional company meetings
+
+Preferred Requirements
+
+    Expertise with Python, Kafka, GraphQL and REST APIs
+    Familiarity with Redis
+    Experience with AWS
+    Familiarity with k6 or Gatling
+    Prior experience with Cypress or Playwright for end-to-end testing, Jest for frontend unit testing, and JUnit for Java-based applications
+    Familiarity with statistics and healthcare domain
+
+$170K-$205K
