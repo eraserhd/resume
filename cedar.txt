@@ -1,0 +1,44 @@
+Cedar is seeking a Senior Software Engineer to be a core contributor on our Communications Platform squad within the Patient pillar. This critical team is at the heart of how Cedar empathetically engages with patients across various channels. You'll work in a dynamic, cross-functional environment (engineering, product, design) to build and optimize flexible, efficient, and reliable communication solutions that directly enhance patient engagement and drive measurable business value. 
+
+In this role you will:
+
+    Lead technical initiatives: Drive the successful delivery of squad-level Key Results (KRs) with high confidence, ensuring sustained, measurable business value. This includes decomposing complex projects and collaborating effectively with peers.
+    Solve hard problems: Independently execute on ambiguous, XL-sized projects, proactively identifying and implementing solutions to obstacles. You'll contribute critical inputs to cross-functional alignment and build consensus within your team.
+    Design and deliver scalable solutions: Architect and implement robust, reusable solutions for new features and enhancements across the entire stack, always with an eye toward sustainability, monitoring, and addressing technical debt.
+    Champion engineering excellence: Uphold and elevate code quality standards through thoughtful code reviews, create high-quality design documents (problem statements, proposed solutions, alternatives, tradeoffs, effort/complexity/maintainability), and establish processes for safe changes (QA, testing frameworks).
+    Drive impact and innovation: Actively identify and advocate for opportunities to deliver significant impact within your squad, proposing new standards and investing in future technical improvements.
+    Mentor and elevate: Proactively unblock peers, provide direct and constructive feedback, and actively mentor junior engineers, fostering a culture of continuous learning and growth.
+    Collaborate strategically: Work seamlessly with design, product, and integrations partners, challenging requirements respectfully when necessary to ensure the best possible outcomes.
+    Cedar is committed to a flexible work environment, so this as well as many of our roles are remote friendly
+
+What we look for in an ideal candidate:
+
+    6+ years of professional software development experience with a strong foundation in computer science fundamentals (demonstrated through a degree in CS, engineering, or a related field, or equivalent practical experience).
+    Expertise in at least one major coding language, coupled with the ability to work effectively across the stack.
+    Demonstrated experience leading complex technical projects from conception to launch, with a focus on building for supportability and long-term maintenance.
+    A track record of thriving in ambiguous environments, proactively identifying solutions and driving projects forward
+    A strong commitment to operational excellence and a belief in building for sustainability.
+    Exceptional collaboration and communication skills, with the ability to build buy-in, provide timely updates, and present technical work effectively.
+    Passionate about Cedar's mission of improving the healthcare financial experience and driven to make a real-world difference.
+
+Compensation Range and Benefits:
+
+    Salary/Hourly Rate Range*: $195,500 - $230,000
+    This role is equity eligible
+    This role offers a competitive benefits and wellness package
+
+*Subject to location, experience, and education
+ 
+
+What do we offer to the ideal candidate?
+
+    A chance to improve the U.S. healthcare system at a high-growth company! Our leading healthcare financial platform is scaling rapidly, helping millions of patients per year
+    Unless stated otherwise, most roles have flexibility to work from home or in the office, depending on what works best for you
+    For exempt employees: Unlimited PTO for vacation, sick and mental health days–we encourage everyone to take at least 20 days of vacation per year to ensure dedicated time to spend with loved ones, explore, rest and recharge
+    16 weeks paid parental leave with health benefits for all parents, plus flexible re-entry schedules for returning to work
+    Diversity initiatives that encourage Cedarians to bring their whole selves to work, including three employee resource groups: be@cedar (for BIPOC-identifying Cedarians and their allies), Pridecones (for LGBTQIA+ Cedarians and their allies) and Cedar Women+ (for female-identifying Cedarians) 
+    Competitive pay, equity (for qualifying roles), and health benefits, including fertility & adoption assistance, that start on the first of the month following your start date (or on your start date if your start date coincides with the first of the month)
+    Cedar matches 100% of your 401(k) contributions, up to 3% of your annual compensation
+    Access to hands-on mentorship, employee and management coaching, and a team discretionary budget for learning and development resources to help you grow both professionally and personally
+
+
