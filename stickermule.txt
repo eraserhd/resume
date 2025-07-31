@@ -1,0 +1,45 @@
+Sticker Mule, the Internet's favorite custom printer, is building the Internet's best commerce platform. We are privately-owned, which means no meddlesome investors, with 9-figures in annual revenue and great profitability. Our commerce platform (Stores) helped people earn $200k while in beta and now we are hiring to accelerate development.
+
+We offer
+
+    Remote work with flexible schedules
+
+    A privately owned, low-stress culture
+
+    A fun "no bullshit" work environment
+
+    Great compensation with rising wages.
+
+Compensation and benefits
+
+    Salary: $145K+ based on experience
+
+    $20,000 signing bonus
+
+    4 weeks vacation + holidays based on your country of residence
+
+We like you to know
+
+    Go
+
+    TypeScript
+
+    GraphQL
+
+    Postgres
+
+    Redis
+
+    Docker
+
+    Kubernetes
+
+    Google Cloud Platform
+
+    Excellent communication skills (English)
+
+    Degree in Computer Science or equivalent practical experience
+
+What you will work on
+
+You'll help us develop our new Stores platform that already helped sellers earn nearly $200,000 while in beta. Stores is supported by a suite of tools that help anyone succeed online including Give (our giveaway platform), Ship (our shipping platform, Notify (our forthcoming email/sms marketing platform), and more coming soon.
