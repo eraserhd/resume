@@ -1,0 +1,22 @@
+Position Title: Software Engineer (Clojure)
+
+Client: Comcast (164373-1)
+
+Work Location: Philadelphia PA/Mount Laurel NJ (Hybrid) or 100% remote
+
+Duration: 12 Months contract + Extension (This is a long-term need, and the hiring manager want to convert this person to an FTE)  
+
+ 
+
+Description:
+
+Creation, management, and operation of a diverse set of microservices and micro applications.
+• Define common frameworks and software libraries, in various programming languages, that support the creation of efficient, scalable, and highly available microservice-based architectures.
+• Support with the management of the running system architecture. You will troubleshoot issues and identify areas for continuous improvement with a particular emphasis on quality, performance, and security.
+• Work closely with architects and technical product managers and other members of your team to translate overall system architecture and product requirements into well-designed, implemented, and tested software solutions.
+• Work in an Agile environment to deliver high-quality software in an incremental manner.
+• Help promote the adoption of best-in-class software engineering practices, frameworks, and tools. You are providing guidance and feedback to other software developers.
+
+Top skills required:
+
+Clojure, ClojureScript, Redis, Kafka, PostgreSQL, HashiCorp stack
