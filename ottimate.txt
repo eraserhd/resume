@@ -1,0 +1,38 @@
+
+The Role
+
+We are seeking a highly experienced Principal Engineer/Architect to join our growing engineering team in the US. As a Principal Engineer, you will play a critical role in designing, building, and scaling our payment processing and financial transaction systems with a primary focus on high-volume payment and expense management platforms. You will work closely with cross-functional teams to deliver reliable, secure, and high-performance payment services.
+
+Responsibilities
+
+    Architect and develop robust, scalable payment and expense management systems
+    Lead technical design discussions and own backend service architecture decisions for critical payment and expense management infrastructure
+    Collaborate with engineers, designers, product managers, and other stakeholders in defining the user experience for payment products
+    Drive best practices for backend and frontend development, including testing and code reviews, with a strong emphasis on security and compliance in payment systems
+    Evaluate and implement new tools, technologies, and frameworks to improve engineering efficiency and payment processing capabilities
+    Troubleshoot and optimize the performance, reliability, and scalability of existing payment systems, especially for high-volume transactions
+    Contribute to technical roadmaps and long-term planning with engineering leadership, focusing on the evolution of our payment technology in the US
+    Support the Product team, and help define and research potential new avenues for revenue, particularly in the payments space
+
+Requirements
+
+    10+ years of professional experience working on web applications using modern software engineering processes, with a significant focus on backend development
+    5+ years of experience in the fintech industry in the US, with a proven track record of building and scaling high-volume payment products
+    Ability to both do hand-on engineering and lead a team of software engineers and product managers
+    Demonstrated ability to both perform hands-on engineering and lead a team of software engineers and product managers
+    Deep expertise in building complex software systems, with skills in both backend and frontend. Expertise in Python and Django is a big bonus. 
+    Extensive experience debugging complex database performance issues, especially in payment systems
+    Strong understanding of payment technology in the US, including compliance regulations, risk management, and security best practices for financial transactions
+    You think critically about your work and ask questions in order to improve the product, not only on its technical implementation but also on how well it's serving the users' needs in a payment context
+    You have an extensive background in developing and scaling B2B SaaS solutions, ideally within the fintech or payments sector
+    You have strong communication skills and are able to explain complex technical topics (especially related to payments and compliance) to the entire team in a clear and concise way
+    When things inevitably break, you eagerly jump in to diagnose and fix the core issues, particularly concerning payment system outages
+    Have communication skills necessary to have calls with customers, especially to discuss new payment features, provide initial onboarding support for payment integrations, provide training, and assess initiative's success
+    Experience working in an early-stage startup is a huge plus
+    Product Sense. Ability to prioritize the customer experience and build the correct infrastructure to support it, specifically for payment products
+
+Nice to Have:
+
+    Extensive experience building complex payments or finance stack solutions
+    Expertise with the AWS ecosystem, particularly services relevant to high-volume transaction processing and financial data
+
