@@ -1,0 +1,42 @@
+As a Principal Software Engineer, you will play a key technical leadership role on Conceal’s Core Platform team, designing and building distributed cloud-native systems that serve as the foundation of our Browser Native SSE platform. The ideal candidate is a highly experienced engineer with deep expertise in Go, cloud infrastructure, and secure system design, and thrives in a fast-paced, high-impact startup environment. 
+
+ 
+
+Responsibilities: 
+
+    Lead the design and development of mission-critical microservices and backend infrastructure
+    Write clean, scalable, and maintainable code primarily in Go (Golang)
+    Define and implement best practices for code quality, testing, deployment, and observability
+    Own end-to-end service lifecycle, including CI/CD, containerization, and Kubernetes orchestration
+    Collaborate cross-functionally with product, engineering, and data teams to define and implement technical solutions
+    Guide architectural decisions, define system boundaries, and ensure scalability and security
+    Mentor and support mid- and senior-level engineers through code reviews and design collaboration
+    Implement security and compliance practices, including secure identity and data management
+    Build and maintain APIs (REST, gRPC), data models, and backend integrations
+    Contribute to a culture of innovation, excellence, and continuous improvement
+    Other duties as assigned
+
+
+Qualifications and Skills Required: 
+
+    10+ years of software engineering experience
+    Multiple programming languages 
+    Strong experience with AWS services including EC2, RDS, S3, Cognito, DynamoDB 
+    Deep knowledge of containerization (Docker) and orchestration (Kubernetes/EKS)
+    Proven experience building distributed systems with high availability and performance requirements
+    Professional experience with a second language such as Python, Rust, Java, or C++
+    Strong understanding of microservices architecture, API design, and system security
+    Hands-on experience with CI/CD tools (GitHub Actions, GitLab CI) and Infrastructure as Code (Terraform, Pulumi)
+    Strong interpersonal, communication, and collaboration skills
+    Experience leading or mentoring software teams and driving architectural decision 
+
+
+Preferred: 
+
+    Experience with gRPC-based service architecture
+    Experience in observability tooling such as Prometheus, Grafana, OpenTelemetry
+    Experience in User and Machine Identity and Detection
+    Understanding of modern authentication/authorization patterns and secure system design
+    Contributions to open-source projects
+
+
