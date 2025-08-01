@@ -1,0 +1,39 @@
+   About the job
+
+Machinify is the leading provider of AI-powered software products that transform healthcare claims and payment operations. Each year, the healthcare industry generates over $200B in claims mispayments, creating incredible waste, friction and frustration for all participants: patients, providers, and especially payers. Machinify’s revolutionary AI-platform has enabled the company to develop and deploy, at light speed, industry-specific products that increase the speed and accuracy of claims processing by orders of magnitude.
+
+We're looking for skilled Staff and Sr. level Backend Engineer to join our growing engineering team. In this role, you will leverage your deep programming expertise to design and build scalable, reliable backend systems. The ideal candidate has strong experience in application system architecture and design, as well as proven leadership skills, whether through serving as a tech lead or guiding complex projects.
+
+Our engineering team is composed of the best and brightest software developers and data engineers. They are responsible for writing code that has a significant impact on our customers and future product lines. Our teams are collaborative, high-performing, curious, aligned to our product goals, and impactful towards the success of the business. We build highly performant ML and AI products that are transforming the landscape of healthcare.
+
+What You’ll Do
+
+    Contribute to backend server-side development to ensure our application is extensible, scalable, and secure
+    Recognize and prioritize between Customer deliverables & Tech debt to develop a sustainable software suite of products.
+    Enjoy designing and architecting complex frameworks for applying ML techniques to large data volumes and simplifying labor-intensive processes
+    Deliver resilient enterprise software solutions
+
+What You Bring
+
+    10+ years of backend focused experience in the field of application programming
+    Strong working experience with Java or Scala 
+    Experience reading and understanding complex enterprise-grade code, quickly contributing to it, and suggesting improvements.
+    Working experience writing SQL queries
+    Additional Python and C# or other backend languages are a plus
+    Strong CS foundation (data structures, asynchronous programming) 
+    Excellences in test writing discipline
+    Critical thinking and problem solving skills working in a high growth environment
+    Comfortable navigating ambiguity
+    BS or MS in Computer Science (or equivalent experience)
+
+What We Offer
+
+    Work from anywhere in the US! Machinify is digital-first.
+    Full Medical/Dental/Vision for employees & their families w/ 100% premium coverage options!
+    Flexible and trusting environment where you’ll feel empowered to do your best work
+    Unlimited PTO, recharge days and one no-meetings day a week
+    Competitive salary, equity, 401(k) sponsorship
+    Generous Learning and Development Reimbursement policy
+
+The salary for this position is based on an array of factors unique to each candidate: Such as years and depth of experience, set skills, certifications, etc. The base salary range for this role is $225k +/-
+

@@ -1,0 +1,32 @@
+More than half of all working Americans are not saving enough for their future. Too often, it’s because they are employed by a company that doesn’t offer a retirement plan. Human Interest is changing that by making it affordable and accessible for small and medium-sized businesses to offer employees a path to financial independence through retirement savings.
+
+We’re a high-growth fintech company changing the retirement industry. We are backed by a number of investors. This includes funding from Marshall Wace and Baillie Gifford, as well as top investors such as BlackRock, TPG (The Rise Fund), SoftBank, Glynn Capital, NewView Capital, USVP, Wing, Uncork, and more.
+
+Are you ready to join our amazing engineering team ?
+
+As an engineering organization, we seek to redefine the retirement services space with software that drives toward an effortless, efficient, scalable and highly reliable cloud based experience. Joining our team requires passion for ownership - after all, this is what enables our users’ success.
+
+As a member of our Builder Tools team, you will design and implement our cloud management infrastructure, CI/CD pipelines, and build tools. These tools will enable more efficient, reliable deployments that will raise the quality of our software. Our bar for software correctness is high as we fulfill our mission to ensure that people in all lines of work have access to retirement benefits.
+
+What You Get To Do Every Day
+
+    Design and implement fault-tolerant and robust cloud infrastructures in AWS.
+    Design and implement CI/CD for a multi-account, multi-service environment.
+    Build tools for engineers that make them more efficient and simplify the development process.
+    Collaborate with other engineers and stakeholders to share knowledge and build expertise
+    Write clean, high-quality code and tests to keep our system fast, reliable, and monitorable.
+    Lead and participate in development life cycle activities like design, coding, testing and production release.
+    Contribute to our evolving engineering standards, tooling, and processes.
+    Mentor other engineers and deeply review code.
+
+What you bring to the role
+
+    Minimum 5 years of professional experience in designing, building, and scaling services, especially using cloud infrastructure such as AWS, GCP, or Azure.
+    Minimum 2 years of professional experience with infrastructure as code (IaC) technologies such as Terraform, CloudFormation, Cloud Development Kit (CDK), etc. Experience employing IaC with Continuous Deployment preferred.
+    Minimum 2 years professional experience with CI/CD technologies such as CodeBuild, CodeDeploy, CodePipeline, GitLab CI/CD, GitHub Actions, etc.
+    Strong communication skills: you can easily discuss complex technical concepts with both engineers and non-engineers.
+    Strong ownership and bias for action: You love to roll up your sleeves. You are proactive, drive projects from start to finish, and lead cross-functional projects, while keeping stakeholders informed.
+    Ability to write understandable, testable code with an eye towards maintainability.
+    Proactive and empathetic mindset - you love to roll up your sleeves to fix problems for our customers.
+
+
