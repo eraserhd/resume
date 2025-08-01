@@ -1,0 +1,36 @@
+About Gusto
+
+Gusto is a modern, online people platform that helps small businesses take care of their teams. On top of full-service payroll, Gusto offers health insurance, 401(k)s, expert HR, and team management tools. Today, Gusto offices in Denver, San Francisco, and New York serve more than 400,000 businesses nationwide.
+
+Our mission is to create a world where work empowers a better life, and it starts right here at Gusto. That’s why we’re committed to building a collaborative and inclusive workplace, both physically and virtually. Learn more about our Total Rewards philosophy. 
+
+About the Role:
+
+As a Software Engineer engineer on the Developer Productivity - Async team, you will work on improving developer productivity by enhancing the tools and systems used by product engineers. You will focus on asynchronous processing, ensuring that our applications are efficient, reliable, and scalable. Your work will involve maintaining and improving the infrastructure that supports background jobs and asynchronous communication between our applications using technologies such as Sidekiq and Karafka.
+
+About the Team:
+
+We strive to improve developer productivity through our work on the tools engineers use, the systems we create, and the organizational processes that drive engineering work. We hire technical experts who take a broad view of engineering focused impact and love lifting up their colleagues.
+
+Here’s what you’ll do day-to-day:
+
+    Identify and solve inefficiencies in the tooling, APIs, and feedback mechanisms available to product engineers to improve developer productivity.
+    Design, pitch, plan, measure, and implement solutions iteratively.
+    Collaborate closely with product engineering colleagues to anticipate and address upcoming changes.
+    Develop and maintain services, abstractions, and architecture to support product engineering.
+    Advance the use of Kafka and Sidekiq for asynchronous processing and communication for the growing number of applications at Gusto.
+    Harden the async infrastructure to be resilient in the face of heavy loads across a wide variety of use cases.
+
+Here’s what we're looking for:
+
+    8+ years of Software Development Experience 
+    5+ years of experience with Rails and Ruby, including developer tooling for large engineering teams.
+    Systems thinker with a strong ability to communicate effectively.
+    Comfortable with architectural thinking and delivering solutions through code.
+    Ability to work with colleagues as both customers and partners.
+    Active working knowledge and architecture experience with Ruby.
+    Experience with asynchronous processing using Sidekiq and/or Kafka.
+    Proven track record of improving developer productivity through tooling and infrastructure enhancements.
+
+Our cash compensation amount for this role is targeted at $160,000/yr to $180,000/yr in Denver & most remote locations, and $200,000/yr to $220,000/yr in New York, Seattle & San Francisco Bay Area. Stock equity is additional. Final offer amounts are determined by multiple factors including candidate experience and expertise and may vary from the amounts listed above.
+
