@@ -1,0 +1,35 @@
+Gusto is a modern, online people platform that helps small businesses take care of their teams. On top of full-service payroll, Gusto offers health insurance, 401(k)s, expert HR, and team management tools. Today, Gusto offices in Denver, San Francisco, and New York serve more than 400,000 businesses nationwide.
+
+Our mission is to create a world where work empowers a better life, and it starts right here at Gusto. That’s why we’re committed to building a collaborative and inclusive workplace, both physically and virtually. Learn more about our Total Rewards philosophy. 
+
+About the Role:
+
+We’re hiring seasoned engineers to join our teams that work on core platform capabilities, improving our existing systems for extensibility and scalability, and building the future of Gusto's Payments and Risk platforms. As a Gusto Software Engineer at this level, you’ll be guiding projects end-to-end by driving large technical architectural decisions (focusing on scale and modularity), understanding how to take existing systems closer to desired end states, executing on projects, and maintaining code that powers core experiences. If you’re interested in building elegant software with far-reaching effects in our modern economy, join us!
+
+About the Team:
+
+Payments and Risk is responsible for all of the money management and movement operations that are used by our customers across a suite of businesses that all depend on money being moved safely between partners, employers, employees, government authorities and Gusto. In order to enable growth for Gusto and our customers, the Risk organization is responsible for defining best-in-class user experiences in order to mitigate financial and reputation risk.  The Risk team is responsible for building the infrastructure for a.) bad actor platform capabilities to prevent fraudsters from abusing Gusto’s platform while improving false positive rate and, b.) the credit underwriting and collections platform to enable faster and greater access to credit while minimizing financial loss. The Payments team will be completely re-architecting the payments platform at Gusto to be able to move money fast and at scale.
+
+Here’s what you’ll do day-to-day:
+
+    Design, build, and test the infrastructure that enables our Payments teams and Risk policy and experience teams to efficiently build unique, custom tailored experiences for any existing or emerging products Gusto offers its customers
+    Help scale one of the largest Ruby/Rails and TypeScript/React applications in the world
+    Collaborate on complex and ambiguous problems with partnerships from Engineering, Product Management, Design, Data Science, Operations, and other cross-functional teams
+    Build the software platform that powers multiple 1st and 3rd party products and serves millions of businesses.
+    Mentor and grow fellow engineers working to create holistic and scalable solutions
+
+Here’s what we're looking for:
+
+    Successful applicants have at least 12+ years of experience and the enthusiasm for a collaborative, test-driven environment
+    Experience building fault-tolerant, mission-critical software as well as designing and developing robust, distributed systems using multiple general-purpose programming languages
+    Experience influencing and guiding the work of multiple teams on scaling, refactoring, and optimizing legacy products 
+    Experience architecting, building, and testing large-scale production level code that is maintainable, structured, and well-documented
+    An aptitude and interest in bringing clarity and simplicity to complex and ambiguous problems
+    Ability to communicate technical complexity and help facilitate informed tradeoffs
+    Experience in one of these domains is highly preferred: Payments and/or Risk 
+    Bonus: Experience with Ruby on Rails, Typescript, and React
+
+Please note that travel to Gusto's Denver office for onboarding is required for this position. If you have any questions regarding this requirement, please share with your recruiter.
+
+Our cash compensation amount for this role is targeted at $191,000-$225,000 in Denver & most remote locations, and $225,000-$265,000 in San Francisco and New York. Final offer amounts are determined by multiple factors including candidate experience and expertise and may vary from the amounts listed above.
+

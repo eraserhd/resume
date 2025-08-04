@@ -1,0 +1,36 @@
+About the Role:
+
+Join Gusto's Time engineering team as a Senior Staff Software Engineer (Backend) and play a key role in shaping the future of how businesses manage time. You'll be responsible for designing, building, and scaling high-performance APIs that power our time tracking and payroll integrations. You'll have the opportunity to lead projects, collaborate with talented engineers, and mentor others while contributing to a product that impacts millions of users. This is a chance to make a real difference in how businesses operate and help them streamline their most valuable resource: time.
+
+About the Team:
+
+The Time engineering team is a passionate and collaborative group dedicated to building intuitive and reliable time management solutions for Gusto's customers. We value innovation, ownership, and continuous learning. We're a tight-knit team that enjoys tackling complex challenges and celebrating our successes together. As a member of our team, you'll have the opportunity to work with cutting-edge technologies, contribute to a product that makes a real difference, and grow your skills alongside some of the best engineers in the industry.
+
+Here’s what you’ll do day-to-day:
+
+    Design, develop, and maintain RESTFUL APIs for time tracking, scheduling, and payroll integration.
+    Collaborate with product managers and designers to define API specifications and ensure seamless integration with other Gusto products.
+    Lead the technical design and implementation of new features and enhancements to our time management platform.
+    Mentor and guide junior engineers, providing technical guidance and support.
+    Write clean, well-documented, and testable code.
+    Participate in code reviews and contribute to improving our engineering practices.
+    Work with large-scale data stores and optimize for performance and reliability.
+    Troubleshoot and resolve production issues related to time-tracking and API functionality.
+
+Here’s what we're looking for:
+
+    12+ years of experience in software engineering, with a recent focus on backend development.
+    8+ years of experience building and maintaining backend systems.
+    3+ years of experience designing, developing, and deploying RESTful APIs.
+    Strong understanding of API design principles and best practices.
+    Experience with relational databases and data modeling.
+    Proficiency in at least one modern programming language (e.g., Java, Python, Go).
+    Experience with cloud platforms (e.g., AWS, GCP, Azure).
+    Experience with written communication and collaboration skills.
+    Experience with Ruby on Rails is a plus.
+    Experience with with B2B, Payroll and HRIS is a plus.
+    Prior experience in a technical leadership role is a plus.
+
+Please note that travel to Gusto’s Denver office for onboarding is required for this position. If you have any questions regarding this requirement, please share with your recruiter.
+
+Our cash compensation amount for this role is targeted at CAD 200,000/yr to CAD 248,000/yr in Canada, $191,000/yr to $258,000/yr in most US remote locations, and $225,000/yr to $279,000/yr for San Francisco, Seattle & New York. Stock equity is additional. Final offer amounts are determined by multiple factors including candidate experience and expertise and may vary from the amounts listed above.
