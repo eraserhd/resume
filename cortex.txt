@@ -1,0 +1,49 @@
+Cortex is the enterprise Internal Developer Portal built to accelerate the path to engineering excellence. Customers like Blackstone, Xero, and Fanatics use Cortex to abstract away complexity for developers with a single interface for all their engineering tools, templates, and tasks. By providing a clear view into the health and state of every software component, Cortex helps engineering teams drive progress to goals, optimize productivity, reduce technical debt, and build efficient software and teams.
+
+📍Location
+
+We’re fully remote and welcome candidates from anywhere in the US! We have all-company offsites a few times a year where we fly the whole team out to meet in person, build stronger relationships, kick off important projects, and have fun!
+
+🤝 The Team
+
+We are a mighty group of ~100 passionate individuals excited about building a product that developers love. We recently raised $60M in Series C Funding led by Scale Ventures (with participation from Sequoia, IVP, and others) to build the future of developer experience. You can read more about it here.
+
+🖥️ Job Summary
+
+As Lead Product Platform Engineer, you will play a pivotal role in defining the architecture of our infrastructure. Working closely with engineering and product, you will spearhead the development of foundational platforms that ensure scalability, reliability, and efficiency for our growing customer base.
+
+⚙️ Responsibilities
+
+    Lead the design, development, and deployment of platform capabilities to enable Cortex’s growth. 
+    Define architectural standards and best practices for critical infrastructure components
+    Implement core infrastructure technologies to support scalability and reliability
+    Uphold high engineering standards and evangelize platform-first thinking across the organization
+    Participate in operating our systems in production, including Incident Response on a rotational basis
+
+✔️Qualifications
+
+    Bachelor's degree in Computer Science or related field, or equivalent practical experience
+    5+ years of hands-on experience designing and implementing scalable, high-performance backend systems
+    Strong problem-solving skills with a commitment to building top-quality software
+    Profound understanding of computer science fundamentals, prevalent design patterns, and engineering best practices
+    Proficiency in database technologies (e.g. Postgres, MySQL)
+    Proficiency in Kubernetes and Terraform
+    Excellent communication and collaboration abilities
+    Proven track record in mentoring and coaching engineering team members
+    Previous experience at a hyper-growth startup is a plus
+
+🌴 Perks & Benefits
+
+    Competitive salary and equity
+    National medical, dental & vision insurance (we cover 100%!)
+    Fully covered life insurance
+    $400 monthly perks stipend 
+    $1000 yearly Learning & Development stipend
+    401k plan
+    Pet Insurance
+    Unlimited PTO
+    Remote & flexible working hours
+    Gender-neutral parental leave
+    All-Company Retreats (previously San Diego, Miami, Austin, New York City)
+
+✏️ Noteworthy
