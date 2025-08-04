@@ -1,0 +1,39 @@
+NVIDIA is searching for a highly motivated engineer with a passion for system software delivery. You'll join NVIDIA's growing GPU software team in developing continuous integration infrastructure in support of NVIDIA's mission critical software releases. You'll have a central role in helping the team build a world-class build and integration system that scales with the team's mission.
+
+What you'll be doing:
+
+    Be responsible for maintaining and improving mission critical infrastructure and test content
+
+    Investigate failures and anomalies in automated build and test systems and drive to resolution with a team of experts
+
+    Identify systemic problems in reporting systems, distill those into actionable investigations and drive service level improvements
+
+    Write, configure and debug automated tests for system-level/kernel-mode software under Linux and Windows
+
+    Architect new tools and refine processes that deliver productivity improvements
+
+What we need to see:
+
+    BS or MS degree in Computer Engineering, Computer Science, or related degree (or equivalent experience).
+
+    5+ years of relevant software development experience 
+
+    Experience writing, deploying and maintaining OS-level system software
+
+    Experience with software testing infrastructure
+
+    A strong dedication to data driven, evidence-based investigation
+
+    Strong ability to communicate hypotheses, results, and incidental discoveries to teammates, client stakeholders in other internal teams, and the broader organization
+
+Ways to stand out from the crowd:
+
+    Existing knowledge of NVIDIA GPU kernel software
+
+    Experience designing, implementing, and debugging automated build and test systems
+
+    Comfort in programming in Python, Perl, shell or Tcl
+
+    Knowledge of low-level systems programming under Linux and Windows in C/C++ and/or Rust
+
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people on the planet working for us. If you're creative, passionate and self-motivated, we want to hear from you! NVIDIA is leading the way in groundbreaking developments in Artificial Intelligence, High-Performance Computing and Visualization. The GPU, our invention, serves as the visual cortex of modern computers and is at the heart of our products and services.
