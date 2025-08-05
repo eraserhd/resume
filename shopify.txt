@@ -1,0 +1,26 @@
+Code is core at Shopify. As a Software Engineer, you'll craft the innovative and scalable code that powers commerce across the globe. Your mission: build extendable products that enhance every layer of the commerce stack—from exceptional buying experiences to groundbreaking financial products and dynamic developer tools. Embrace the unorthodox, iterate rapidly, and develop solutions that empower merchants to thrive in the infinite game of entrepreneurship.
+
+Key Responsibilities:
+
+    Develop and maintain scalable Rails applications, pushing the boundaries of what’s possible with Ruby
+
+    Solve complex engineering problems with full ownership over products that impact millions daily.
+
+    Collaborate across disciplines to ship projects weekly, fostering rapid iteration and improvement.
+
+    Engage with our CEO, Tobi, who is deeply involved in coding and sets the direction for Shopify's future.
+
+    Participate in on-call work to ensure the reliability and performance of Shopify's systems.
+
+Qualifications:
+
+    Strong engineering proficiency and a passion for exploring the limits of technology, regardless of stack.
+
+    Experience in building scalable, user-centric applications that enhance the commerce experience.
+
+    Ability to solve complex problems with innovative solutions and a collaborative mindset.
+
+    Excellent communication skills to convey technical ideas effectively.
+
+    A growth-oriented mindset, constantly seeking to improve and innovate.
+
