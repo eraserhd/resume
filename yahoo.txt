@@ -1,0 +1,39 @@
+Yahoo serves as a trusted guide for hundreds of millions of people globally, helping them achieve their goals online through our portfolio of iconic products. For advertisers, Yahoo Advertising offers omnichannel solutions and powerful data to engage with our brands and deliver results.
+
+It takes powerful technology to connect our brands and partners with an audience of nearly 900 million. Whether you're designing groundbreaking architecture for mobile apps, leading the evolution of our massive ad tech stacks, or pioneering algorithms to process trillions of data points a day, what you do here will have a transformative impact on our business—and the world. Want in?
+
+A Little About Us:
+
+As part of Yahoo’s Experimentation team, you’ll play a critical role in enabling other teams across the company to test ideas, validate assumptions, and optimize user experiences at scale. We build and maintain a centralized experimentation platform that empowers Yahoo’s properties to run controlled experiments with scientific rigor and operational ease. This large-scale initiative offers you the opportunity to tackle complex technical challenges and make a significant impact on Yahoo’s product innovation cycle
+
+A Little About You:
+
+The ideal candidate will have a proven track record in engineering roles, particularly in large organizations, with a strong ability to handle complex data challenges. They should be passionate about leveraging data to drive business outcomes and possess excellent collaboration skills to work effectively across teams.
+
+Responsibilities
+
+    Platform Architecture: Define and evolve the API platform architecture for Yahoo’s user data ecosystem, ensuring it meets business and engineering needs for scalability, security, and extensibility.
+    API Strategy & Design: Lead the definition of public and internal API contracts, including authentication, versioning, observability, and governance standards.
+    System Integration: Architect API gateways and service meshes to unify access to distributed systems while maintaining high performance and reliability.
+    Developer Experience: Champion intuitive, well-documented APIs that make it easy for internal and external developers to build powerful integrations.
+    Cross-Team Collaboration: Partner across product, infra, and security teams to deliver end-to-end solutions, from data ingestion to API exposure and client SDKs.
+    Technical Governance: Establish enterprise-wide best practices for API design, backward compatibility, rate limiting, and monitoring.
+    Innovation Leadership: Pioneer next-gen API patterns (e.g., GraphQL federation, OpenAPI-first development) that drive platform efficiency and developer agility.
+    Performance & Scalability: Build frameworks and standards to ensure API endpoints scale reliably with billions of transactions per day.
+    Mentorship: Mentor senior engineers and tech leads on API design principles, security, and performance.
+    Executive Communication: Represent API platform considerations in strategic forums and influence executive direction with technical depth.
+
+Requirements
+
+    8+ years of software engineering experience with a focus on designing and developing scalable APIs and distributed backend systems.
+    3+ years of experience leading platform or API architecture in cloud environments (GCP, AWS, or equivalent).
+    Expertise with REST, GraphQL, gRPC, and API versioning, authentication (OAuth2, JWT), and documentation (OpenAPI/Swagger).
+    Deep understanding of service meshes, API gateways, and microservice communication patterns.
+    Experience with API monitoring, logging, throttling, and traffic shaping at scale.
+    Strong proficiency in at least one backend language (Java, Go, Python, Scala).
+    Hands-on experience with infrastructure-as-code (Terraform, Kubernetes) and CI/CD pipelines.
+    Familiarity with developer portal tooling, API lifecycle management, and governance.
+    Strong SQL and data modeling fundamentals for integrating APIs with large datasets.
+    Demonstrated success in leading large-scale technical initiatives across multiple teams.
+    Prior experience with data-driven platforms, personalization, or audience segmentation is a plus.
+
