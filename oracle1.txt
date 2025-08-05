@@ -1,0 +1,23 @@
+The OCI Physical Networking team is building a new Infrastructure-as-Code orchestration platform to test and deploy configuration and firmware updates across our worldwide fleet. In this role, you will contribute to the development of this new orchestration platform in partnership with network engineers. 
+
+You should be passionate and highly skilled in programming in at least one programming language including C++/Go/Java/Python. Writing structured and optimized code for improving performance and scalability when it is deployed in a cloud environment as a part of a service operating in a distributed environment is one of the most critical requirements.
+Responsibilities
+
+As a member of the team developing a new orchestration and test platform, you will work independently and deliver projects by:
+
+        Leading the development and delivery of major features end-to-end
+        Participating in all phases of the SDLC including requirements refinement, design, development, testing, release and post release service operations
+        Providing mentorship to junior engineers 
+        Writing correct, secure, maintainable and robust code with appropriate tests. 
+        Improving the team engineering practices, ops practices, development process, ownership, mentoring. 
+        Influencing partner teams
+        Leading and Driving the design and architecture of your product/service along with operational readiness & excellence for the same
+
+Qualifications
+Disclaimer:
+
+Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.
+
+Range and benefit information provided in this posting are specific to the stated locations only
+
+US: Hiring Range in USD from: $96,800 to $223,400 per annum. May be eligible for bonus and equity.
