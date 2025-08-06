@@ -1,0 +1,55 @@
+Yahoo Mail is the ultimate consumer inbox with hundreds of millions of users. It’s the best way to access your email and stay organized from a computer, phone or tablet.  With its beautiful design and lightning fast speed, Yahoo Mail makes reading, organizing, and sending emails easier than ever.
+
+A Little About Us: 
+
+We build, enhance, and maintain one of the highest scaling email platforms on the planet. We are the first component in the mail back end, a middle tier, that contains the APIs and business logic through which virtually all mail operations flow. We implement REST APIs for our world-class mail clients (mobile, web, Yahoo, AOL, etc), standards-based protocols (IMAP, POP, etc) for generic mail clients, and industry leading back-end mail synchronization. We impact approximately 300 Million users every month, serving billions of requests a day across servers across the world, and are critical to Yahoo’s success. We do this on highly scalable applications in private and public clouds, that we are in the process of transforming to 100% native cloud.
+
+Come join this amazing team of Engineers, Product Managers and Designers to work on next generation innovative experiences transforming how users connect with each other every day! 
+
+Responsibilities: 
+
+    Design, implement, test, and debug features in mail supporting client features; revise and refine as required 
+
+    Provide technical leadership on high-impact projects
+
+    Influence and coach a distributed team of engineers
+
+    Request and participate in code reviews 
+
+    Participate in agile development with weekly sprints, planning & estimating work, daily standup, & retrospectives 
+
+    Learn from a multitude of sources, including on the job project experience, reviewing code from others, team education sessions, collaborating with peers, frequently soliciting advice & shoulder reviews from leaders & architects, as well as online or class-based learning 
+
+    Take initiative to identify, solve, and pursue problems you discover to full completion 
+
+    Contribute to best practices and work culture of our team 
+
+    Promote and solicit ideas within project teams 
+
+A Lot About You: 
+
+You enjoy solving problems within a collaborative team. You have an interest in the full life-cycle of a product - designing, coding, testing, reviewing, launching, and troubleshooting. You will have the opportunity to participate in projects with significant impact on the success of Yahoo.
+
+    Experience in OOP. Java or C++ preferred
+
+    Experience in cloud native application development and architecture preferably in GCP or AWS
+
+    Strong understanding of the fundamentals including Data Structures, Algorithms, OS and Networking
+
+    Experience with development on Unix (Linux) platform
+
+    10+ years of professional software engineering experience 
+
+    3+ years of experience leading teams by designing, building scalable high-performing distributed systems
+
+    BS/MS in Computer Science or related field 
+
+Preferred Qualifications: 
+
+    REST API (with Jersey and/or Servlets 3.0)
+
+    Multi-threaded programming and/or understanding contention issues
+
+    Large-scale, large user base development
+
+    Web-scale or enterprise-scale development
