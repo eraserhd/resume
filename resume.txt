@@ -1,0 +1,70 @@
+
+Principal Engineer
+2U
+Arlington, VA
+2016--2025
+
+* Rearchitected 60+ services from an acquired company incrementally for horizontal scaling and blue/green deploys.  Introduced CI/CD and enabled teams to deploy independently.
+tech stack with a Datalog-based rules system.
+* Built and maintained serverless integrations synchronizing systems.
+* Revamped a critical, aging, MySQL-backed near-realtime data cache by improving the schema and optimizing code
+* Guided the organization's technical direction
+
+Software Engineer IV
+Groupon
+Chicago, IL
+2013--2016
+
+* Maintained A/B testing software
+* Wrote whitepaper providing clear analysis which broke a delivery-limiting stalemate between tech and purchasing
+* Designed and wrote Points, a new customer retention program
+* Delivered a new homepage, allowing better user targeting
+
+iOS & Android Developer
+LeanDog
+Cleveland, OH
+2011--2013
+
+* Wrote, maintained, and coordinated customer-focused iOS and Android apps
+* Pioneered early testing methods and CI/CD for mobile
+* Collaborated on a fully cross-functional team
+
+Software Engineer
+Blue Frog Gaming
+Akron, OH
+2010--2011
+
+* Designed, delivered, and maintained games for the newly-released iPad
+
+Senior Software Engineer
+Micros Retail
+Solon, OH
+2007--2010
+
+* Maintained DAS and XPay credit authorization systems
+* Implemented processes dramatically reducing delivery failures
+
+Chief Technology Officer
+Cronosys, LLC
+Cleveland, OH
+2000--2007
+
+* Created internal business apps using novel web technologies before it was cool
+* Consulted, quoted, and delivered many projects on many tech stacks
+
+Consultant
+The Baldwin Group
+Middleburgh Heights, OH
+1997--2000
+
+* Consulted on PC-related issues
+* Maintained Mayor's Court software
+
+Programmer/Analyst
+DataVantage
+Solon, OH
+1994--1997
+
+* Automated third shift data communications
+* Wrote new cross-platform credit authorization system installed in thousands of retail locations
+* Maintained point-of-sale software installed in thousands of retail locations
