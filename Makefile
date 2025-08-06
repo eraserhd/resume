@@ -9,7 +9,9 @@ techwords.png: Makefile techwords.py
 	python techwords.py
 
 %.tex: %.txt
-	ollama run gemma3:4b "$$(cat prompt.txt)$$(cat $<)" |tee $@
+	claude 'Can you create a $@ from $<, the same way as the other .tex files?  You can read the contents of resume.tex and the other tailored .tex files to collect info about where the "arrows" for relevant skills can go.  List only the top 8 relevant skills--fewer are OK.'
+resume.tex: resume.txt
+	@echo skipping...
 
 %.pdf: %.tex Makefile resume.tex techwords.png
 	rm -f $*.aux $*.out $*.log

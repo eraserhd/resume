@@ -1,0 +1,49 @@
+Want to be a part of a team revolutionizing and leading an entire industry with no real competition? The laundry industry is a $40+ billion dollar market, and the Cents platform is making it easier for laundromats, dry cleaners, and all garment care businesses to grow, manage, and understand their business. Backed by top-tier investors like Bessemer, Camber Creek, and Tiger Global, Cents is one of the fastest-growing vertical SaaS companies in the USA, and we’re just getting started. Already profitable and growing incredibly quickly each year, we have entered the absolute best stage of being a startup.
+
+About Cents
+
+Cents is a New York-based technology company passionate about transforming the laundry industry and dedicated to enabling new ways of working, earning, and living. Cents is modernizing garment care businesses by providing an all-in-one, business-in-a-box platform to help operators start, manage, and grow their businesses. By building a market-leading SaaS product for this industry, we aim to revolutionize the industry through our suite of software (Cents Point of Sale) and hardware (Pulse, Penny, and Laundroworks) products.
+
+Our team is full of passionate technology experts obsessed with supporting and empowering SMBs. We feel the unique responsibility and opportunity we have to elevate an industry. We’re adding great talent to help achieve this mission, and that’s where you come in!
+
+About The Role
+
+Cents is hiring for an Engineering Lead to join our growing in-house team and play a critical role in shaping the future of our platform. Working directly with our most senior leadership, this person will play a key role in defining and prioritizing high-impact platform enhancements while guiding a team of engineers to deliver exceptional results. As Engineering Lead, you will be responsible for executing and managing the product roadmap set by our team, specifically in leading complex projects that improve functionality and reliability for our customers. Beyond managing the team, you’ll also be hands-on, contributing to code and ensuring our systems are resilient, scalable, and customer-focused. The ideal candidate for this role is excited to lead, mentor, and innovate in a fast-growing company.
+
+We are open to remote work, but employees must work EST hours.
+
+Responsibilities
+
+    Work with our VP of Engineering and Chief Product Officer to define and scope high-impact platform improvements
+    Lead and manage a team of 3-5 software engineers to deliver results at a high level of quality
+    Make hands-on code contributions to your team’s projects
+    Guide the growth & development of engineers with mentoring, training and performance management
+    Design, build, deploy, and maintain highly resilient and scalable systems that are critical to our customers’ success
+
+
+Requirements
+
+    5+ years experience of building business- and consumer-facing applications
+    Expert-level knowledge of Typescript, specifically for React and Node.js.
+    Demonstrable systems thinking skills. Understands that apps are only one part of a larger system
+    Understands API design. Knows, and can drive, what 'good' looks like and what the platform needs short-term and long term from an API
+    Strong background in event-driven systems using Redis and queue-based structures
+    Experience in DynamoDB and NoSQL database systems
+    Deep understanding of data synchronization and orchestration with many third-party integrations
+    Willingness to be a developer advocate for and with third-party integrations
+    You've built products or applications leveraging LLMs and AI
+    Excellent problem solving, analytical and organizational skills
+    Fluent verbal and written English skills
+    Passion for learning and coaching others
+    A positive approach to your work, and treat others well
+    Strong communication skills
+    Able to clearly express opinions on product design, while respecting the thoughts and opinions of their peers
+    Proven ability to communicate and collaborate effectively with engineers and non-engineering stakeholders alike
+
+
+Nice to Have
+
+    Take a user-focused approach to development and care about solutions that are robust, scalable, and easy to use
+    Thrive in a fast-paced, collaborative environment and enjoy working closely with cross-functional partners and teammates
+    Are passionate about the potential of AI to reach and benefit a wide audience, and eager to tackle cutting-edge problems in AI safety and conversational AI
+    You have experience working with Twilio
