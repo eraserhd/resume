@@ -1,0 +1,43 @@
+The Delivery and Integration team is a group within the Central Tech Platforms team responsible for improving how we build, deploy, and integrate our software and services. We're looking for experienced engineers to help develop and evolve key platforms for Continuous Integration/Continuous Delivery (CI/CD), release automation, and Artifact Storage. Our primary objective is to provide reliable, efficient tools and standardized processes that enable our engineering teams to deliver value faster and more consistently. The ideal candidate has worked in AWS or GCP and is comfortable leveraging many of those cloud services. In this role, you'll work as a critical member of the Delivery and Integration team by bringing their skills to help accelerate the engineering output of all Yahoo business units.  The Yahoo developer tools are undergoing an evolution and you will be part of the team that drives that impact for the business.  
+
+Responsibilities:
+
+    Work collaboratively with engineers across the team and organization
+
+    Build on existing and create new standards that leverage the public cloud and kubernetes ecosystems
+
+    Enhance Developer Productivity platforms and services, both in cloud and in the datacenter
+
+    Be curious and inquisitive about finding the right solutions to problems
+
+    Enhance standards and “paved roads” to the benefit of all engineering at Yahoo
+
+Required Skills:
+
+    Great teamwork and communication skills
+
+    4+ years experience working with AWS and/or GCP services and APIs
+
+    Experience building and deploying large-scale systems
+
+    Proficient in managing the Kubernetes cluster lifecycle
+
+    Experience in deploying and managing applications in Kubernetes
+
+    Experienced in writing Terraform
+
+    Experience with end-to-end automation and CI/CD workflows
+
+    Excellent troubleshooting skills
+
+    Proficient in coding in their favorite language (Go, Python, Ruby, Java)
+
+    Experienced in training others
+
+    Someone who is always looking to evolve their skill set and stay current with technology trends
+
+    Bonus points for Serverless cloud platform experience
+
+The material job duties and responsibilities of this role include those listed above as well as adhering to Yahoo policies; exercising sound judgment; working effectively, safely and inclusively with others; exhibiting trustworthiness and meeting expectations; and safeguarding business operations and brand integrity.
+
+At Yahoo, we offer flexible hybrid work options that our employees love! While most roles don’t require regular office attendance, you may occasionally be asked to attend in-person events or team sessions. You’ll always get notice to make arrangements. Your recruiter will let you know if a specific job requires regular attendance at a Yahoo office or facility. If you have any questions about how this applies to the role, just ask the recruiter!
