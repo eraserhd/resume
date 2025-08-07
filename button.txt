@@ -1,0 +1,35 @@
+Button’s mission is to build a better internet, fueled by commerce. Today, we work with some of the largest and most interesting businesses in the world to connect consumers with what they want at the tap of a button. We build with the consumer experience in mind, have a reputation for paving the future of mobile, and have a good time doing it.
+
+As a Senior Software Engineer - Backend, you’ll design and build the services, APIs, frameworks, UIs, and backend systems that sit at the very foundation of Button’s business. Our portfolio includes the programmatic interfaces that connect Button to many of the largest brands in e-commerce, and real-time routing of customers to the ideal shopping experience.
+
+You will lead the design of new services and frameworks that advance our ambitious product goals. You’ll be a key contributor to shaping our Engineering and technical culture, driving design reviews, and providing guidance and direction to developing members of our team.
+
+Our Engineering team values a fast-moving and high-trust environment that affords each member the opportunity to develop expertise operating services at a meaningful scale in a distributed cloud environment. You’ll compose solutions from a broad range of technologies, including Go, NodeJS, Docker, Prometheus, and AWS ECS. You’ll also move fast; we ship changes to production dozens of times each day.
+
+As a Senior Software Engineer - Backend, You Will
+
+    Develop scalable, low-latency web services using a variety of tools and languages, including Go, NodeJS, Docker, AWS ECS, SQS/SNS, and BigQuery.
+    Collaborate with a cross-functional team to develop new features within our core platforms. You will work with product managers to translate user and partner requirements into technical designs, and with other Engineers to bring those designs to life with an emphasis on scalability, latency, and accuracy.
+    Deliver the programmatic interfaces that drive deep integrations between Button and our largest partners.
+    Maintain a“mystery-free” production environment and keep the pagers quiet by implementing excellent monitoring, anticipating and planning for the unexpected.
+
+We Look For Teammates Who Have
+
+    A passion for building reliable and scalable backend services in a distributed environment and usable front-end systems for activating and understanding the underlying products, as well as an interest in exploring new technologies.
+    Comfort operating across the entire stack of a product, including but not limited to, standing up basic infrastructure, building and maintaining UIs, APIs, and backend systems, and designing and implementing database schemas that support our products.
+    A strong understanding of relational databases, and experience building stateful web services.
+    An excellent understanding of API design, and experience designing reliable APIs.
+    Experience coding in Go, Javascript/NodeJS, or Python — our major programming languages.
+    Experience and comfort in a production environment. You’ll be working in a“magic-free” service-oriented environment, using AWS ECS, Docker, and HTTP everywhere.
+
+Experience Level
+
+    4+ years of experience writing software and building production systems
+    2+ years of experience designing systems
+    Experience providing mentorship and guidance to peers, including but not limited to code reviews, training, and feedback
+    Experience building, operating, and maintaining large-scale production SaaS services
+    Experience with one of our primary languages(Go, Python, or JavaScript/NodeJS), and a proven ability to pick up new languages and tools, proficiency a plus
+    Experience in full-stack development roles
+    Experience working with relational databases
+    Experience in infrastructure a plus
+

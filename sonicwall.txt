@@ -1,0 +1,35 @@
+SonicWall is a cybersecurity forerunner with more than 30 years of expertise and is recognized as a leading partner-first company, ensuring our partners and their customers are never alone in the fight against cybercrime. With the ability to build, scale and manage security across the cloud, hybrid and traditional environments in real-time, SonicWall provides relentless security against the most evasive cyberattacks across endless exposure points for increasingly remote, mobile and cloud-enabled users. With its own threat research center, SonicWall can quickly and economically provide purpose-built security solutions to enable any organization—enterprise, government agencies and SMBs—around the world. For more information, visit www.sonicwall.com or follow us on Twitter, LinkedIn, Facebook and Instagram.
+
+Responsibilities
+
+We’re looking for a Principal API Engineer to drive development of the control plane behind the Zero Trust platform—a highly available, scalable system enabling secure access across global environments.
+
+This is a hands-on coding and technical leadership role. You’ll architect and own the API layer that orchestrates all activity across our distributed system, while mentoring engineers, ensuring high code quality, and contributing directly to platform scalability, security, and extensibility.
+
+You’ll also lead a team of offshore Go developers, so strong communication, time zone flexibility, and collaborative leadership are essential.
+
+What You'll Do
+
+    Lead our API as a product 
+    Collaborate with engineers on a vision, but follow a pragmatic plan 
+    Ensure API security and lead secure coding practices 
+    Ensure API documentation is created and remains up to date 
+    Provide mentorship to a growing team 
+    Provide an opinion on CI/CD/CT
+
+What You Bring
+
+    Deep expertise in API design, Go programming, and distributed systems
+    Strong experience with SaaS application development and secure cloud-native design
+    Proven ability to translate business objectives into technical architecture
+    Experience supporting full API lifecycle: design, deployment, monitoring, and iteration
+    Passion for collaborative development and mentoring across teams
+    Strong opinions (loosely held) on infrastructure, DevOps, and release pipelines
+    Clear, structured thinking and the ability to communicate well across time zones
+
+Qualifications
+
+    10+ years of professional software engineering experience
+    BS/MS/PhD in Computer Science, Engineering, or related field—or equivalent experience
+    Experience in leadership roles, including mentoring or managing distributed engineering teams
+

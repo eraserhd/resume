@@ -1,0 +1,37 @@
+At SentinelOne, we’re redefining cybersecurity by pushing the limits of what’s possible—leveraging AI-powered, data-driven innovation to stay ahead of tomorrow’s threats.
+
+From building industry-leading products to cultivating an exceptional company culture, our core values guide everything we do. We’re looking for passionate individuals who thrive in collaborative environments and are eager to drive impact. If you’re excited about solving complex challenges in bold, innovative ways, we’d love to connect with you.
+
+What are we looking for?
+
+At SentinelOne, we’re transforming one of our core systems into a scalable, modern microservices architecture. To help us achieve that, we’re seeking a Senior Staff Software Engineer (senior tech lead/architect) colleague to help us execute on this transformation and define the next generation of our platform.
+
+You’ll work on an ambitious initiative to break down a complex monolithic system written primarily in Python into a scalable, multi-tenant, cloud-native set of services, built using modern technologies and approaches. The system is part of our flagship Endpoint product line (empowering and protecting our customers, and recognized 5 times in a row as Gartner Magic Quadrant Leader).
+
+In this role, you will collaborate with other engineering leaders and teams across the SentinelOne SaaS Platform engineering organization on this re-architecture. We value collaboration, innovation, creativity, and technical excellence in our area.
+
+You’ll deal with the scale of globally deployed SaaS product across 6 AWS/GCP regions + FedRAMP, that altogether process daily petabytes of data ingested and hundreds of billions of events from tens of millions of endpoints we protect at our enterprise & public sector clients across the globe, incl. 4 of Fortune 10 & hundreds of Global 2000 companies.
+
+If you are passionate about impactful, high-stakes projects, this is your opportunity to shine!
+
+What will you do?
+
+    Architect the Future: You’ll dive deep into our current monolithic architecture, identify pain points, and help us design innovative solutions to address them in an iterative way. You’ll participate in the design and development of a new microservices architecture that supports scalability, maintainability, and operational excellence.
+    Modernize the Stack: You’ll collaborate with teams to evaluate and implement the right tools, frameworks, and methodologies for building a robust microservices ecosystem.
+    Hands-on Development: You’ll write high-quality, production-ready code.
+    Mentor and Lead: You’ll guide and mentor other engineers, contribute to their professional growth, share best practices and architectural insights, and foster a culture of engineering excellence.
+    Collaborate Across Teams and Orgs: You’ll partner with other engineering, product, design, quality, DevOps/Infra teams and leadership to align on objectives, design, timelines, and execution strategies.
+
+Our stack: Go, Java; Kubernetes, Docker, AWS, GCP, FedRAMP; GitHub Actions, ArgoCD; GitHub Enterprise; depending on the requirements of the service for communication, we use Kafka, REST API, GraphQL, gRPC etc.; Postgres, ClickHouse, MongoDB, Redis; Prometheus/Thanos, Grafana. To enable you in your work, we provide company access to various modern AI-powered tools for both R&D and non-R&D tasks.
+
+What experience or knowledge should you bring?
+
+    Multiple years of extensive software engineering experience, including proven expertise in developing large-scale distributed systems and microservices architecture, with a focus on performance, scalability and reliability
+    Experience in the transition from monolith to microservices is highly desirable.
+    Proficiency in Java and/or Golang, experience with Python is a plus
+    Experience with cloud platforms (AWS and/or GCP) and Kubernetes
+    Experience with Kafka or similar solutions is a plus
+    Excellent problem-solving skills
+    Strong communication skills and ability to articulate technical concepts and influence engineering direction across teams, departments and stakeholders
+
+

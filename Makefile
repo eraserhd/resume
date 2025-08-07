@@ -9,7 +9,7 @@ techwords.png: Makefile techwords.py
 	python techwords.py
 
 %.tex: %.txt
-	claude 'Can you create a $@ from $<, the same way as the other .tex files?  You can read the contents of resume.tex and the other tailored .tex files to collect info about where the "arrows" for relevant skills can go.  List only the top 8 relevant skills--fewer are OK.'
+	claude 'Please use the instructions in NEW.md to create $@'
 resume.tex: resume.txt
 	@echo skipping...
 
