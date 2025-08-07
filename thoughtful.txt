@@ -1,0 +1,43 @@
+Thoughtful is pioneering a new approach to automation for all healthcare providers! Our AI-powered Revenue Cycle Automation platform enables the healthcare industry to automate and improve its core business operations.
+
+We're looking for an Exceptional Platform Engineer for our Core Platform Engineering team.
+
+As a key member of our platform engineering team, you will be instrumental in shaping our end-to-end platform, including our customer-facing web application, backend infrastructure, and developer suite. These products enable a community of developers across the globe to build tailored solutions for unique customer use cases, contributing to a rich ecosystem of automation modules.
+
+Learn more about our Warrior culture. Join us to transform how leading healthcare companies operate.
+
+Your Role:
+
+    Lead: Plan and execute projects and initiatives involving multiple stakeholders and complex requirements, applying strategic prioritization.
+    Craft: Consistently deliver code that sets the standard for quality and maintainability. Maintain awareness of industry trends and tools.
+    Empower: Equip team members with DevEx tools and processes to resolve challenges independently.
+    Mentor: Offer consistent, high-level guidance to engineers across all levels, sharing expertise in software engineering best practices.
+
+Your Qualifications:
+
+    Bachelor’s or Master’s in Computer Science/Engineering or a related field.
+    Over 10 years of relevant technical experience.
+    Proven track record in building and supporting production-grade applications, ideally with expertise in JavaScript, TypeScript, Node.js, Python, Go, or similar.
+    Experience operating on modern cloud infrastructure stacks, preferably on AWS using IaC.
+    Experience in Agile product development processes (SCRUM, Kanban, Lean Startup, etc.)
+    Excellent written and verbal communication skills, with the ability to articulate complex technical concepts to both technical and non-technical stakeholders.
+
+What Sets You Apart:
+
+    Ability to navigate ambiguity & challenges with composure
+    Reliability and a strong sense of ownership
+    Insatiable curiosity and a passion for learning
+    Responsive to feedback, turning it into action
+    Autonomous work style, while being great at collaboration
+    A natural mentor, uplifting and empowering your team
+
+ 
+
+Why Thoughtful?
+
+    Competitive compensation
+    Equity participation: Employee Stock Options.
+    Health benefits: Comprehensive medical, dental, and vision insurance.
+    Time off: Generous leave policies and paid company holidays.
+
+Required Technical Exercise - submissions without this component will not be considered.
