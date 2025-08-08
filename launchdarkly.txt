@@ -1,0 +1,23 @@
+LaunchDarkly is seeking a Senior Backend Engineer to help build enterprise-scale capabilities that empower the world’s largest organizations to adopt feature management best practices. This team is focused on enabling scalable, standardized release processes through automation, governance, and visibility—transforming how software is delivered at enterprise scale.
+
+In this role, you’ll work closely with a cross-functional team to design and implement robust backend services in Go, develop APIs that power new automation and governance workflows, and shape internal frameworks that support enterprise adoption at scale. You’ll solve complex technical challenges, many of which LaunchDarkly faces internally, and your work will directly impact both our organization and our largest customers.
+
+Responsibilities
+
+    Design and implement scalable backend services and APIs that enable enterprise-grade automation, governance, and release management capabilities within LaunchDarkly. 
+    Translate complex enterprise customer requirements into resilient and maintainable technical solutions that empower large organizations to standardize software delivery practices. 
+    Lead technical discovery and architecture discussions, making thoughtful trade-offs that balance flexibility, scalability, and user experience. 
+    Partner closely with internal and external stakeholders—such as product managers, enterprise customers, and LaunchDarkly’s own engineering teams—to deeply understand and solve real-world release management challenges using our own platform. 
+    Champion best practices for backend development, system design, and observability while mentoring peers and raising the technical bar across the team. 
+    Participate in our you-build-it-you-run-it culture by owning code in production, contributing to on-call rotations, and continuously improving system reliability and supportability. 
+
+Qualifications
+
+    8+ years of professional experience in backend software development, with a track record of delivering high-impact systems in complex domains. 
+    Proven ability to design, build, and evolve distributed systems that are scalable, reliable, and maintainable—ideally in environments supporting large enterprise customers. 
+    Strong programming experience, ideally with Go or comparable languages (e.g., Java, Rust, C++), and a demonstrated ability to ramp up on new technologies quickly. 
+    Experience designing and consuming APIs, especially in systems that facilitate automation or integrate with enterprise platforms. 
+    Solid understanding of domain modeling and system design, especially for building reusable abstractions and scalable internal frameworks. 
+    Familiarity with observability practices (metrics, tracing, alerting, structured logging) and a mindset for diagnosing production issues in distributed environments. 
+    A self-starter with strong ownership mindset, capable of navigating ambiguity and driving initiatives to completion. 
+    Enthusiasm for improving how software is delivered at scale—whether through automation, standardization, or empowering engineering teams with better tools and practices. 

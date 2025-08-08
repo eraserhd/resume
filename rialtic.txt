@@ -1,0 +1,49 @@
+Rialtic is an enterprise software platform empowering health insurers and healthcare providers to run their most critical business functions. Founded in 2020 and backed by leading investors including Oak HC/FT, F-Prime Capital, Health Velocity Capital and Noro-Moseley Partners, Rialtic's best-in-class payment accuracy product brings programs in-house and helps health insurance companies gain total control over processes that have been managed by disparate and misaligned vendors. Currently working with leading healthcare insurers and providers, we are tackling a $1 trillion problem to reduce costs, increase efficiency and improve quality of care. For more information, please visit www.rialtic.io.
+
+The Role
+
+At Rialtic, we're at the forefront of cutting-edge technology, utilizing Go to power distributed batch and low-latency real-time services and APIs. Our playground is a high-performance cloud environment featuring AWS and Kubernetes tech. As a GoLang Engineer, your contribution will be invaluable in shaping the future of data ingestion, distribution, and reporting. A love for writing code and getting things done will help shape our large-scale, distributed platform and drive our projects to new heights. Experience in writing API backend services deployed to a distributed cloud environment is a must.
+
+If you're passionate about revolutionizing data handling and learning from some of the best Golang engineers in the game while making a lasting impact, we want to hear from you!  
+
+You Have:
+
+    5+ years of Developer experience with software in production 
+    3-5 Years experience with Golang, SQL, NoSQL databases, and queuing systems
+    3-5 Years experience programming with Go routines (coroutines), pointers, structures, interfaces
+    Familiarity with various unit and integration testing strategies using Go
+    3+ years of experience with API and REST technologies
+    Worked in Linux-based operating systems
+
+Our Tech Stack:
+
+    Golang
+    AWS
+    Postgres
+    Kafka, SNS
+    Docker
+
+Rialtic Values
+
+    High Integrity
+    Do the right thing. Provide candid feedback. Be humble and respectful.
+    Customer Value Comes First
+    Delivering value to our customers is our North Star.
+    Work as One Team
+    Collaborative, inclusive environment to advance our mission.
+    Be Bold & Accountable
+    Speak up. Take accountability. Continually improve.
+    Pursuit of Excellence
+    Innovate, iterate and chase the best possible outcomes.
+    Take Care of Yourself & Others
+    Prioritize the health and wellbeing of yourself and your teammates
+
+Rialtic Benefits
+
+    Freedom to work from wherever you work best and home office stipend to make it happen
+    Competitive compensation and meaningful equity
+    401k with company matching
+    Flexible PTO and wellness stipend
+    Comprehensive health plans with generous contribution to premiums
+    Mental and physical wellness support through TalkSpace, Teladoc and One Medical subscriptions
+

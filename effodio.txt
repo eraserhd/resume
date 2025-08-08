@@ -1,0 +1,39 @@
+About Effodio 
+
+Founded by industry veterans from Google, Arista, and other leading tech companies, Effodio is revolutionizing application and infrastructure analytics in the cloud. Our advanced platform harnesses the latest technologies to provide actionable insights at scale, enabling organizations to optimize performance and accelerate business growth.
+
+
+Effodio: (Latin) "I dig, excavate, or mine."
+
+
+Job Summary
+
+We are seeking an experienced and hands-on Senior Backend Software Engineer to join our dynamic team. In this role, you’ll be instrumental in developing and optimizing our application analytics solution, utilizing a tech stack that includes Go, GraphQL, Kubernetes, and cloud technologies. You’ll collaborate with cross-functional teams to enhance our platform's capabilities, improve performance, and ensure seamless integration with diverse systems.
+
+
+What You’ll Do
+
+    Design & Development: Lead the design, development, and implementation of new features and enhancements for our application analytics platform. Ensure code quality, performance, and scalability.
+    Hands-on Coding: Write efficient, maintainable, and well-documented code in Go. Participate in all stages of the software development lifecycle, from architecture and design to testing and deployment.
+    Kubernetes & Cloud Integration: Develop and manage containerized applications using Kubernetes. Leverage cloud services to enhance the scalability and reliability of our analytics solution.
+    Performance Optimization: Identify and address performance bottlenecks and optimize system performance. Implement best practices for high availability and disaster recovery.
+    Collaboration & Leadership: Work closely with product managers, data scientists, and other engineers to define requirements and deliver high-quality solutions. Mentor junior engineers and contribute to a culture of continuous improvement. Lead complex projects that may involve multiple teams.
+    Problem Solving: Troubleshoot complex technical issues and provide innovative solutions to ensure the stability and efficiency of our platform.
+
+
+What You Bring
+
+    Experience: 7+ years of software engineering experience with a strong focus on backend development. Proven track record in designing and building large-scale systems.
+    Technical Skills: Proficiency in Go or demonstrated ability to learn new languages quickly. Practical and/or conceptual understanding of Kubernetes. Hands-on experience with one of the major cloud platforms.
+    Architecture & Design: Strong knowledge of system architecture and design patterns. Experience with microservices architecture and distributed systems.
+    Performance Tuning: Demonstrated ability to optimize code and systems for performance, scalability, and reliability.
+    Team Player: Excellent collaboration skills with the ability to work effectively in a cross-functional distributed team. Experience mentoring and leading engineering teams.
+    Problem Solving: Strong analytical and problem-solving skills with a passion for tackling complex technical challenges.
+    Communication: Excellent written and verbal communication skills. Ability to convey technical concepts to non-technical stakeholders.
+
+
+Preferred Qualifications:
+
+    Advanced Degree: Master’s degree or higher in Computer Science or a related field.
+    Additional Technologies: Familiarity with additional technologies relevant to analytics or data processing.
+    Certifications: Relevant certifications in cloud platforms or Kubernetes.
